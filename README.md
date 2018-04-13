@@ -1,2 +1,2 @@
 # GuutBoy.github.io
-List of links to secure computation papers appearing on epring.iacr.org.
+Repo for my webpage containing a list of links to secure computation papers appearing on eprint.iacr.org: https://guutboy.github.io
