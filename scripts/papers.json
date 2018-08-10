@@ -1,5 +1,25 @@
 [
 {
+"authors":"Stanislaw Jarecki and Hugo Krawczyk and Jason Resch",
+"id":"2018/733",
+"title":"Threshold Partially-Oblivious PRFs with Applications to Key Management"
+},
+{
+"authors":"Avradip Mandal and John C. Mitchell and Hart Montgomery and Arnab Roy",
+"id":"2018/732",
+"title":"Data Oblivious Genome Variants Search on Intel SGX"
+},
+{
+"authors":"Itai Dinur and Nathan Keller and Ohad Klein",
+"id":"2018/731",
+"title":"An Optimal Distributed Discrete Log Protocol with Applications to Homomorphic Secret Sharing"
+},
+{
+"authors":"Shashank Agrawal and Payman Mohassel and Pratyay Mukherjee and Peter Rindal",
+"id":"2018/727",
+"title":"DiSE: Distributed Symmetric-key Encryption"
+},
+{
 "authors":"Megha Byali and Arun Joseph and Arpita Patra and Divya Ravi",
 "id":"2018/710",
 "title":"Fast Secure Computation for Small Population over the Internet"
