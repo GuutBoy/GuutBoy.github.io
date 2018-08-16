@@ -1,5 +1,25 @@
 [
 {
+"authors":"Leon J. Helsloot and Gamze Tillem and Zekeriya Erkin",
+"id":"2018/744",
+"title":"BAdASS: Preserving Privacy in Behavioural Advertising with Applied Secret Sharing"
+},
+{
+"authors":"Aur\u00e9lien Dupin and David Pointcheval and Christophe Bidan",
+"id":"2018/743",
+"title":"On the Leakage of Corrupted Garbled Circuits"
+},
+{
+"authors":"Marina Blanton and Myoungin Jeong",
+"id":"2018/736",
+"title":"Improved Signature Schemes for Secure Multi-Party Computation with Certified Inputs"
+},
+{
+"authors":"Lijing Zhou and Licheng Wang and Yiru Sun and Tianyi Ai",
+"id":"2018/735",
+"title":"BeeHive: Double Non-interactive Secure Multi-party Computation"
+},
+{
 "authors":"Stanislaw Jarecki and Hugo Krawczyk and Jason Resch",
 "id":"2018/733",
 "title":"Threshold Partially-Oblivious PRFs with Applications to Key Management"
