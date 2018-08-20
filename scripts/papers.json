@@ -1,5 +1,25 @@
 [
 {
+"authors":"Toshinori Araki and Assi Barak and Jun Furukawa and Marcel Keller and Yehuda Lindell and Kazuma Ohara and Hikaru Tsuchida",
+"id":"2018/762",
+"title":"Generalizing the SPDZ Compiler For Other Protocols"
+},
+{
+"authors":"Prabhanjan Ananth and Alex Lombardi",
+"id":"2018/759",
+"title":"Succinct Garbling Schemes from Functional Encryption through a Local Simulation Paradigm"
+},
+{
+"authors":"Christina Boura and Nicolas Gama and Mariya Georgieva",
+"id":"2018/758",
+"title":"Chimera: a unified framework for B/FV, TFHE and HEAAN fully homomorphic encryption and predictions for deep learning"
+},
+{
+"authors":"Assi Barak and Martin Hirt and Lior Koskas and Yehuda Lindell",
+"id":"2018/751",
+"title":"An End-to-End System for Large Scale P2P MPC-as-a-Service and Low-Bandwidth MPC for Weak Participants"
+},
+{
 "authors":"Leon J. Helsloot and Gamze Tillem and Zekeriya Erkin",
 "id":"2018/744",
 "title":"BAdASS: Preserving Privacy in Behavioural Advertising with Applied Secret Sharing"
