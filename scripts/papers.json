@@ -1,5 +1,10 @@
 [
 {
+"authors":"Itai Dinur",
+"id":"2018/772",
+"title":"Linear Equivalence of Block Ciphers with Partial Non-Linear Layers: Application to LowMC"
+},
+{
 "authors":"Toshinori Araki and Assi Barak and Jun Furukawa and Marcel Keller and Yehuda Lindell and Kazuma Ohara and Hikaru Tsuchida",
 "id":"2018/762",
 "title":"Generalizing the SPDZ Compiler For Other Protocols"
