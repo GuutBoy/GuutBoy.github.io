@@ -1,5 +1,30 @@
 [
 {
+"authors":"Deevashwer Rathee and Pradeep Kumar Mishra and Masaya Yasuda",
+"id":"2018/801",
+"title":"Faster PCA and Linear Regression through Hypercubes in HElib"
+},
+{
+"authors":"Louis Goubin and Francisco Vial-Prado",
+"id":"2018/794",
+"title":"Blending FHE-NTRU keys \u2013 The Excalibur Property"
+},
+{
+"authors":"Vladimir Kolesnikov",
+"id":"2018/789",
+"title":"Free IF: How to Omit Inactive Branches and Implement S-Universal Garbled Circuit (Almost) for Free"
+},
+{
+"authors":"Hao Chen and Zhicong Huang and Kim Laine and Peter Rindal",
+"id":"2018/787",
+"title":"Labeled PSI from Fully Homomorphic Encryption with Malicious Security"
+},
+{
+"authors":"Carl Bootland and Wouter Castryck and Ilia Iliashenko and Frederik Vercauteren",
+"id":"2018/785",
+"title":"Efficiently Processing Complex-Valued Data in Homomorphic Encryption"
+},
+{
 "authors":"Itai Dinur",
 "id":"2018/772",
 "title":"Linear Equivalence of Block Ciphers with Partial Non-Linear Layers: Application to LowMC"
