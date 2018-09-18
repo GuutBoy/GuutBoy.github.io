@@ -1,5 +1,10 @@
 [
 {
+"authors":"Carmit Hazay and Emmanuela Orsini and Peter Scholl and Eduardo Soria-Vazquez",
+"id":"2018/843",
+"title":"Concretely Efficient Large-Scale MPC with Active Security (or, TinyKeys for TinyOT)"
+},
+{
 "authors":"S\u00e9bastien Canard and David Pointcheval and Quentin Santos and Jacques Traor\u00e9",
 "id":"2018/827",
 "title":"Practical Strategy-Resistant Privacy-Preserving Elections"
