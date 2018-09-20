@@ -1,5 +1,10 @@
 [
 {
+"authors":"T-H. Hubert Chan and Jonathan Katz and Kartik Nayak and Antigoni Polychroniadou and Elaine Shi",
+"id":"2018/851",
+"title":"More is Less: Perfectly Secure Oblivious Algorithms in the Multi-Server Setting"
+},
+{
 "authors":"Carmit Hazay and Emmanuela Orsini and Peter Scholl and Eduardo Soria-Vazquez",
 "id":"2018/843",
 "title":"Concretely Efficient Large-Scale MPC with Active Security (or, TinyKeys for TinyOT)"
