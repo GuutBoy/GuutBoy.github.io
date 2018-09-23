@@ -1,5 +1,10 @@
 [
 {
+"authors":"Saikrishna Badrinarayanan and Rex Fernando and Venkata Koppula and Amit Sahai and Brent Waters",
+"id":"2018/866",
+"title":"Output Compression, MPC, and iO for Turing Machines"
+},
+{
 "authors":"T-H. Hubert Chan and Jonathan Katz and Kartik Nayak and Antigoni Polychroniadou and Elaine Shi",
 "id":"2018/851",
 "title":"More is Less: Perfectly Secure Oblivious Algorithms in the Multi-Server Setting"
