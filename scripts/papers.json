@@ -1,5 +1,20 @@
 [
 {
+"authors":"Benny Applebaum and Zvika Brakerski and Rotem Tsabary",
+"id":"2018/894",
+"title":"Perfect Secure Computation in Two Rounds"
+},
+{
+"authors":"Gilad Asharov and Ilan Komargodski and Wei-Kai Lin and Kartik Nayak and Elaine Shi",
+"id":"2018/892",
+"title":"OptORAMa: Optimal Oblivious RAM"
+},
+{
+"authors":"Varun Narayanan and Vinod M. Prabahakaran",
+"id":"2018/875",
+"title":"Oblivious Transfer in Incomplete Networks"
+},
+{
 "authors":"Saikrishna Badrinarayanan and Rex Fernando and Venkata Koppula and Amit Sahai and Brent Waters",
 "id":"2018/866",
 "title":"Output Compression, MPC, and iO for Turing Machines"
