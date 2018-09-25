@@ -1,5 +1,10 @@
 [
 {
+"authors":"Sanjam Garg and Yuval Ishai and Akshayaram Srinivasan",
+"id":"2018/909",
+"title":"Two-Round MPC: Information-Theoretic and Black-Box"
+},
+{
 "authors":"Benny Applebaum and Zvika Brakerski and Rotem Tsabary",
 "id":"2018/894",
 "title":"Perfect Secure Computation in Two Rounds"
