@@ -1,5 +1,10 @@
 [
 {
+"authors":"Shai Halevi and Yuval Ishai and Eyal Kushilevitz and Tal Rabin",
+"id":"2018/913",
+"title":"Best Possible Information-Theoretic MPC"
+},
+{
 "authors":"Sanjam Garg and Yuval Ishai and Akshayaram Srinivasan",
 "id":"2018/909",
 "title":"Two-Round MPC: Information-Theoretic and Black-Box"
