@@ -1,5 +1,25 @@
 [
 {
+"authors":"Jung Hee Cheon and Kyoohyung Han and Andrey Kim and Miran Kim and Yongsoo Song",
+"id":"2018/931",
+"title":"A Full RNS Variant of Approximate Homomorphic Encryption"
+},
+{
+"authors":"Beno\u00eet Libert and Damien Stehl\u00e9 and Radu Titiu",
+"id":"2018/927",
+"title":"Adaptively Secure Distributed PRFs from LWE"
+},
+{
+"authors":"Dakshita Khurana and Rafail Ostrovsky and Akshayaram Srinivasan",
+"id":"2018/921",
+"title":"Round Optimal Black-Box \"Commit-and-Prove\""
+},
+{
+"authors":"Alex Sangers and Maran van Heesch and Thomas Attema and Thijs Veugen and Mark Wiggerman and Jan Veldsink and Oscar Bloemen and Dani\\\"el Worm",
+"id":"2018/917",
+"title":"Secure multiparty PageRank algorithm for collaborative fraud detection"
+},
+{
 "authors":"Shai Halevi and Yuval Ishai and Eyal Kushilevitz and Tal Rabin",
 "id":"2018/913",
 "title":"Best Possible Information-Theoretic MPC"
