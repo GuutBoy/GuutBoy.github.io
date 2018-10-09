@@ -1,5 +1,20 @@
 [
 {
+"authors":"Shuoyao Zhao and Yu Yu and Jiang Zhang and Hanlin Liu",
+"id":"2018/943",
+"title":"Valiant's Universal Circuits Revisited: an Overall Improvement and a Lower Bound"
+},
+{
+"authors":"Carsten Baum and Bernardo David and Rafael Dowsley",
+"id":"2018/942",
+"title":"Insured MPC: Efficient Secure Multiparty Computation with Punishable Abort"
+},
+{
+"authors":"Melissa Chase and Yevgeniy Dodis and Yuval Ishai and Daniel Kraschewski and Tianren Liu and Rafail Ostrovsky and Vinod Vaikuntanathan",
+"id":"2018/940",
+"title":"Reusable Non-Interactive Secure Computation"
+},
+{
 "authors":"Jung Hee Cheon and Kyoohyung Han and Andrey Kim and Miran Kim and Yongsoo Song",
 "id":"2018/931",
 "title":"A Full RNS Variant of Approximate Homomorphic Encryption"
