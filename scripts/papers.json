@@ -1,5 +1,15 @@
 [
 {
+"authors":"Yehuda Lindell and Ariel Nof and Samuel Ranellucci",
+"id":"2018/987",
+"title":"Fast Secure Multiparty ECDSA with Practical Distributed Key Generation and Applications to Cryptocurrency Custody"
+},
+{
+"authors":"Ignacio Cascudo and Ivan Damg\u00e5rd and Bernardo David and Nico D\u00f6ttling and Rafael Dowsley and Irene Giacomelli",
+"id":"2018/983",
+"title":"Efficient UC Commitment Extension with Homomorphism for Free (and Applications)"
+},
+{
 "authors":"Duhyeong Kim and Yongsoo Song",
 "id":"2018/952",
 "title":"Approximate Homomorphic Encryption over the Conjugate-invariant Ring"
