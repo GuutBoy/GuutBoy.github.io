@@ -1,6 +1,21 @@
 [
 {
 "authors":"Yehuda Lindell and Ariel Nof and Samuel Ranellucci",
+"id":"2018/1006",
+"title":"Fast Secure Multiparty ECDSA with Practical Distributed Key Generation and Applications to Cryptocurrency Custody"
+},
+{
+"authors":"Adi Akavia and Dan Feldman and Hayim Shaul",
+"id":"2018/1003",
+"title":"Secure Data Retrieval On The Cloud Homomorphic Encryption Meets Coresets"
+},
+{
+"authors":"Leonid Reyzin and Adam Smith and Sophia Yakoubov",
+"id":"2018/997",
+"title":"Turning HATE Into LOVE: Homomorphic Ad Hoc Threshold Encryption for Scalable MPC"
+},
+{
+"authors":"Yehuda Lindell and Ariel Nof and Samuel Ranellucci",
 "id":"2018/987",
 "title":"Fast Secure Multiparty ECDSA with Practical Distributed Key Generation and Applications to Cryptocurrency Custody"
 },
