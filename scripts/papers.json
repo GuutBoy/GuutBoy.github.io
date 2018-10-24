@@ -1,5 +1,10 @@
 [
 {
+"authors":"Aggelos Kiayias and Murat Osmanoglu and Alexander Russell and Qiang Tang",
+"id":"2018/1010",
+"title":"Space Efficient Computational Multi-Secret Sharing and Its  Applications"
+},
+{
 "authors":"Yehuda Lindell and Ariel Nof and Samuel Ranellucci",
 "id":"2018/1006",
 "title":"Fast Secure Multiparty ECDSA with Practical Distributed Key Generation and Applications to Cryptocurrency Custody"
