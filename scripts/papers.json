@@ -1,5 +1,20 @@
 [
 {
+"authors":"Saikrishna Badrinarayanan and Abhishek Jain and Rafail Ostrovsky and Ivan Visconti",
+"id":"2018/1020",
+"title":"Non-Interactive Secure Computation from One-Way Functions"
+},
+{
+"authors":"Chlo\u00e9 H\u00e9bant and Duong Hieu Phan and David Pointcheval",
+"id":"2018/1019",
+"title":"Decentralized Evaluation of Quadratic Polynomials on Encrypted Data"
+},
+{
+"authors":"Eduardo Chielle and Oleg Mazonka and Nektarios Georgios Tsoutsos and Michail Maniatakos",
+"id":"2018/1013",
+"title":"E$^3$: A Framework for Compiling C++ Programs with Encrypted Operands"
+},
+{
 "authors":"Aggelos Kiayias and Murat Osmanoglu and Alexander Russell and Qiang Tang",
 "id":"2018/1010",
 "title":"Space Efficient Computational Multi-Secret Sharing and Its  Applications"
