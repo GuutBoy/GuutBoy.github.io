@@ -1,5 +1,15 @@
 [
 {
+"authors":"Yanan Bai and Jingwei Chen and Yong Feng and Wenyuan Wu",
+"id":"2018/1025",
+"title":"Integer Matrices Homomorphic Encryption and Its application"
+},
+{
+"authors":"Liang Wang and Gilad Asharov and Rafael Pass and Thomas Ristenpart and abhi shelat",
+"id":"2018/1022",
+"title":"Blind Certificate Authorities"
+},
+{
 "authors":"Saikrishna Badrinarayanan and Abhishek Jain and Rafail Ostrovsky and Ivan Visconti",
 "id":"2018/1020",
 "title":"Non-Interactive Secure Computation from One-Way Functions"
