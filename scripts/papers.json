@@ -1,5 +1,15 @@
 [
 {
+"authors":"Michael Kraitsberg and Yehuda Lindell and Valery Osheter and Younes Talibi Alaoui",
+"id":"2018/1034",
+"title":"Adding Distributed Decryption and Key Generation to a Ring-LWE Based CCA Encryption Scheme"
+},
+{
+"authors":"Diego Chialva and Ann Dooms",
+"id":"2018/1032",
+"title":"Conditionals in Homomorphic Encryption and Machine Learning Applications"
+},
+{
 "authors":"Yanan Bai and Jingwei Chen and Yong Feng and Wenyuan Wu",
 "id":"2018/1025",
 "title":"Integer Matrices Homomorphic Encryption and Its application"
