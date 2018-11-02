@@ -1,5 +1,35 @@
 [
 {
+"authors":"Ahmad Al Badawi and Jin Chao and Jie Lin and Chan Fook Mun and Sim Jun Jie and Benjamin Hong Meng Tan and Xiao Nan and Khin Mi Mi Aung and Vijay Ramaseshan Chandrasekhar",
+"id":"2018/1056",
+"title":"The AlexNet Moment for Homomorphic Encryption: HCNN, the First Homomorphic CNN on Encrypted Data with GPUs"
+},
+{
+"authors":"Tanping Zhou and Ningbo Li and Xiaoyuan Yang and Yiliang Han and Wenchao Liu",
+"id":"2018/1054",
+"title":"Efficient Multi-key FHE with short extended ciphertexts and less public parameters"
+},
+{
+"authors":"Giuseppe Persiano and Kevin Yeo",
+"id":"2018/1051",
+"title":"Lower Bounds for Differentially Private RAMs"
+},
+{
+"authors":"John Cartlidge and Nigel P. Smart and  Younes Talibi Alaoui",
+"id":"2018/1045",
+"title":"MPC Joins the Dark Side"
+},
+{
+"authors":"Hao Chen and Ilaria Chillotti and Yongsoo Song",
+"id":"2018/1043",
+"title":"Improved Bootstrapping for Approximate Homomorphic Encryption"
+},
+{
+"authors":"Xiaoqian Jiang and Miran Kim and Kristin Lauter and Yongsoo Song",
+"id":"2018/1041",
+"title":"Secure Outsourced Matrix Computation and Application to Neural Networks"
+},
+{
 "authors":"Michael Kraitsberg and Yehuda Lindell and Valery Osheter and Younes Talibi Alaoui",
 "id":"2018/1034",
 "title":"Adding Distributed Decryption and Key Generation to a Ring-LWE Based CCA Encryption Scheme"
