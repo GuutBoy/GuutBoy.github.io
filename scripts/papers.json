@@ -1,5 +1,30 @@
 [
 {
+"authors":"Alexandr Andoni and Tal Malkin and Negev Shekel Nosatzki",
+"id":"2018/1086",
+"title":"Two Party Distribution Testing: Communication and Security"
+},
+{
+"authors":"Prabhanjan Ananth and Arka Rai Choudhuri and Aarushi Goel and Abhishek Jain",
+"id":"2018/1078",
+"title":"Two Round Information-Theoretic MPC with Malicious Security"
+},
+{
+"authors":"Jung Hee Cheon and Kyoohyung Han and Minki Hhan",
+"id":"2018/1073",
+"title":"Faster Homomorphic Discrete Fourier Transforms and Improved FHE Bootstrapping"
+},
+{
+"authors":"Kwak Wi Song and Kim Chol Un",
+"id":"2018/1070",
+"title":"A New Batch FHE Scheme over the Integers"
+},
+{
+"authors":"Russell W. F. Lai and Giulio Malavolta and Dominique Schr\u00f6der ",
+"id":"2018/1065",
+"title":"Homomorphic Secret Sharing for Low Degree Polynomials"
+},
+{
 "authors":"Ahmad Al Badawi and Jin Chao and Jie Lin and Chan Fook Mun and Sim Jun Jie and Benjamin Hong Meng Tan and Xiao Nan and Khin Mi Mi Aung and Vijay Ramaseshan Chandrasekhar",
 "id":"2018/1056",
 "title":"The AlexNet Moment for Homomorphic Encryption: HCNN, the First Homomorphic CNN on Encrypted Data with GPUs"
