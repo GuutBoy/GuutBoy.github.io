@@ -1,5 +1,10 @@
 [
 {
+"authors":"\u00c1gnes Kiss and Masoud Naderpour and Jian Liu and N. Asokan and Thomas Schneider",
+"id":"2018/1099",
+"title":"SoK: Modular and Efficient Private Decision Tree Evaluation"
+},
+{
 "authors":"Alexandr Andoni and Tal Malkin and Negev Shekel Nosatzki",
 "id":"2018/1086",
 "title":"Two Party Distribution Testing: Communication and Security"
