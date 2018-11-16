@@ -1,5 +1,10 @@
 [
 {
+"authors":"Cheng Hong and Jonathan Katz and Vladimir Kolesnikov and Wen-jie Lu and Xiao Wang",
+"id":"2018/1108",
+"title":"Covert Security with Public Verifiability: Faster, Leaner, and Simpler"
+},
+{
 "authors":"Thijs Veugen",
 "id":"2018/1100",
 "title":"Correction to \"Improving the DGK comparison protocol\""
