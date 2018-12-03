@@ -1,5 +1,30 @@
 [
 {
+"authors":"Chenglu Jin and Marten van Dijk and Michael Reiter and Haibin Zhang",
+"id":"2018/1171",
+"title":"PwoP: Intrusion-Tolerant and Privacy-Preserving Sensor Fusion"
+},
+{
+"authors":"Ran Cohen and abhi shelat and Daniel Wichs",
+"id":"2018/1161",
+"title":"Adaptively Secure MPC with Sublinear Communication Complexity"
+},
+{
+"authors":"Eunkyung Kim and Hyang-Sook Lee and Jeongeun Park",
+"id":"2018/1156",
+"title":"Towards Round-Optimal Secure Multiparty Computations: Multikey FHE without a CRS"
+},
+{
+"authors":"Akshayaram Srinivasan and Prashant Nalini Vasudevan",
+"id":"2018/1154",
+"title":"Leakage Resilient Secret Sharing and Applications"
+},
+{
+"authors":"Fenghua Li and Hui Li and Ben Niu and Jinjun Chen",
+"id":"2018/1145",
+"title":"Privacy Computing: Concept, Computing Framework And Future Development Trends"
+},
+{
 "authors":"Cheng Hong and Jonathan Katz and Vladimir Kolesnikov and Wen-jie Lu and Xiao Wang",
 "id":"2018/1108",
 "title":"Covert Security with Public Verifiability: Faster, Leaner, and Simpler"
