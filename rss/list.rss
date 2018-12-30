@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Dec 2018 09:35:37 +0000</lastBuildDate>
-    <item>
-      <title>Faster PCA and Linear Regression through Hypercubes in HElib</title>
-      <link>https://eprint.iacr.org/2018/801</link>
-      <description>Deevashwer Rathee and Pradeep Kumar Mishra and Masaya Yasuda</description>
-      <guid isPermaLink="false">2018/801</guid>
-    </item>
-    <item>
-      <title>Practical Strategy-Resistant Privacy-Preserving Elections</title>
-      <link>https://eprint.iacr.org/2018/827</link>
-      <description>Sébastien Canard and David Pointcheval and Quentin Santos and Jacques Traoré</description>
-      <guid isPermaLink="false">2018/827</guid>
-    </item>
-    <item>
-      <title>Concretely Efficient Large-Scale MPC with Active Security (or, TinyKeys for TinyOT)</title>
-      <link>https://eprint.iacr.org/2018/843</link>
-      <description>Carmit Hazay and Emmanuela Orsini and Peter Scholl and Eduardo Soria-Vazquez</description>
-      <guid isPermaLink="false">2018/843</guid>
-    </item>
-    <item>
-      <title>More is Less: Perfectly Secure Oblivious Algorithms in the Multi-Server Setting</title>
-      <link>https://eprint.iacr.org/2018/851</link>
-      <description>T-H. Hubert Chan and Jonathan Katz and Kartik Nayak and Antigoni Polychroniadou and Elaine Shi</description>
-      <guid isPermaLink="false">2018/851</guid>
-    </item>
-    <item>
-      <title>Output Compression, MPC, and iO for Turing Machines</title>
-      <link>https://eprint.iacr.org/2018/866</link>
-      <description>Saikrishna Badrinarayanan and Rex Fernando and Venkata Koppula and Amit Sahai and Brent Waters</description>
-      <guid isPermaLink="false">2018/866</guid>
-    </item>
+    <lastBuildDate>Sun, 30 Dec 2018 15:38:35 +0000</lastBuildDate>
     <item>
       <title>Oblivious Transfer in Incomplete Networks</title>
       <link>https://eprint.iacr.org/2018/875</link>
@@ -307,6 +277,36 @@
       <link>https://eprint.iacr.org/2018/1171</link>
       <description>Chenglu Jin and Marten van Dijk and Michael Reiter and Haibin Zhang</description>
       <guid isPermaLink="false">2018/1171</guid>
+    </item>
+    <item>
+      <title>ARPA Whitepaper</title>
+      <link>https://eprint.iacr.org/2018/1206</link>
+      <description>Derek Zhang and Alex Su and Felix Xu and Jiang Chen</description>
+      <guid isPermaLink="false">2018/1206</guid>
+    </item>
+    <item>
+      <title>Teleportation-based quantum homomorphic encryption scheme with quasi-compactness and perfect security</title>
+      <link>https://eprint.iacr.org/2018/1209</link>
+      <description>Min Liang</description>
+      <guid isPermaLink="false">2018/1209</guid>
+    </item>
+    <item>
+      <title>Exploring Crypto Dark Matter: New Simple PRF Candidates and Their Applications</title>
+      <link>https://eprint.iacr.org/2018/1218</link>
+      <description>Dan Boneh and Yuval Ishai and Alain Passel\`egue and Amit Sahai and David J. Wu</description>
+      <guid isPermaLink="false">2018/1218</guid>
+    </item>
+    <item>
+      <title>Efficient Information Theoretic Multi-Party Computation from Oblivious Linear Evaluation</title>
+      <link>https://eprint.iacr.org/2018/1227</link>
+      <description>Louis Cianciullo and Hossein Ghodosi </description>
+      <guid isPermaLink="false">2018/1227</guid>
+    </item>
+    <item>
+      <title>Multi-Party Oblivious RAM based on Function Secret Sharing and Replicated Secret Sharing Arithmetic</title>
+      <link>https://eprint.iacr.org/2018/1228</link>
+      <description>Marina Blanton and Chen Yuan</description>
+      <guid isPermaLink="false">2018/1228</guid>
     </item>
   </channel>
 </rss>

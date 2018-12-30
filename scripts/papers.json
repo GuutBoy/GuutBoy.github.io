@@ -1,5 +1,30 @@
 [
 {
+"authors":"Marina Blanton and Chen Yuan",
+"id":"2018/1228",
+"title":"Multi-Party Oblivious RAM based on Function Secret Sharing and Replicated Secret Sharing Arithmetic"
+},
+{
+"authors":"Louis Cianciullo and Hossein Ghodosi ",
+"id":"2018/1227",
+"title":"Efficient Information Theoretic Multi-Party Computation from Oblivious Linear Evaluation"
+},
+{
+"authors":"Dan Boneh and Yuval Ishai and Alain Passel\\`egue and Amit Sahai and David J. Wu",
+"id":"2018/1218",
+"title":"Exploring Crypto Dark Matter: New Simple PRF Candidates and Their Applications"
+},
+{
+"authors":"Min Liang",
+"id":"2018/1209",
+"title":"Teleportation-based quantum homomorphic encryption scheme with quasi-compactness and perfect security"
+},
+{
+"authors":"Derek Zhang and Alex Su and Felix Xu and Jiang Chen",
+"id":"2018/1206",
+"title":"ARPA Whitepaper"
+},
+{
 "authors":"Chenglu Jin and Marten van Dijk and Michael Reiter and Haibin Zhang",
 "id":"2018/1171",
 "title":"PwoP: Intrusion-Tolerant and Privacy-Preserving Sensor Fusion"
