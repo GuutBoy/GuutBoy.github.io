@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Dec 2018 15:38:35 +0000</lastBuildDate>
-    <item>
-      <title>Oblivious Transfer in Incomplete Networks</title>
-      <link>https://eprint.iacr.org/2018/875</link>
-      <description>Varun Narayanan and Vinod M. Prabahakaran</description>
-      <guid isPermaLink="false">2018/875</guid>
-    </item>
-    <item>
-      <title>OptORAMa: Optimal Oblivious RAM</title>
-      <link>https://eprint.iacr.org/2018/892</link>
-      <description>Gilad Asharov and Ilan Komargodski and Wei-Kai Lin and Kartik Nayak and Elaine Shi</description>
-      <guid isPermaLink="false">2018/892</guid>
-    </item>
+    <lastBuildDate>Mon, 31 Dec 2018 13:52:25 +0000</lastBuildDate>
     <item>
       <title>Perfect Secure Computation in Two Rounds</title>
       <link>https://eprint.iacr.org/2018/894</link>
@@ -307,6 +295,18 @@
       <link>https://eprint.iacr.org/2018/1228</link>
       <description>Marina Blanton and Chen Yuan</description>
       <guid isPermaLink="false">2018/1228</guid>
+    </item>
+    <item>
+      <title>Setup-Free Secure Search on Encrypted Data: Faster and Post-Processing Free</title>
+      <link>https://eprint.iacr.org/2018/1235</link>
+      <description>Adi Akavia and Craig Gentry and Shai Halevi and Max Leibovich</description>
+      <guid isPermaLink="false">2018/1235</guid>
+    </item>
+    <item>
+      <title>Fast Secure Comparison for Medium-Sized Integers and Its Application in Binarized Neural Networks</title>
+      <link>https://eprint.iacr.org/2018/1236</link>
+      <description>Mark Abspoel and Niek J. Bouman and Berry Schoenmakers and Niels de Vreede</description>
+      <guid isPermaLink="false">2018/1236</guid>
     </item>
   </channel>
 </rss>

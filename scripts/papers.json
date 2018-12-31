@@ -1,5 +1,15 @@
 [
 {
+"authors":"Mark Abspoel and Niek J. Bouman and Berry Schoenmakers and Niels de Vreede",
+"id":"2018/1236",
+"title":"Fast Secure Comparison for Medium-Sized Integers and Its Application in Binarized Neural Networks"
+},
+{
+"authors":"Adi Akavia and Craig Gentry and Shai Halevi and Max Leibovich",
+"id":"2018/1235",
+"title":"Setup-Free Secure Search on Encrypted Data: Faster and Post-Processing Free"
+},
+{
 "authors":"Marina Blanton and Chen Yuan",
 "id":"2018/1228",
 "title":"Multi-Party Oblivious RAM based on Function Secret Sharing and Replicated Secret Sharing Arithmetic"
