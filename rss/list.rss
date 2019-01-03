@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Dec 2018 13:52:25 +0000</lastBuildDate>
-    <item>
-      <title>Perfect Secure Computation in Two Rounds</title>
-      <link>https://eprint.iacr.org/2018/894</link>
-      <description>Benny Applebaum and Zvika Brakerski and Rotem Tsabary</description>
-      <guid isPermaLink="false">2018/894</guid>
-    </item>
-    <item>
-      <title>Two-Round MPC: Information-Theoretic and Black-Box</title>
-      <link>https://eprint.iacr.org/2018/909</link>
-      <description>Sanjam Garg and Yuval Ishai and Akshayaram Srinivasan</description>
-      <guid isPermaLink="false">2018/909</guid>
-    </item>
+    <lastBuildDate>Thu, 03 Jan 2019 18:47:23 +0000</lastBuildDate>
     <item>
       <title>Best Possible Information-Theoretic MPC</title>
       <link>https://eprint.iacr.org/2018/913</link>
@@ -307,6 +295,18 @@
       <link>https://eprint.iacr.org/2018/1236</link>
       <description>Mark Abspoel and Niek J. Bouman and Berry Schoenmakers and Niels de Vreede</description>
       <guid isPermaLink="false">2018/1236</guid>
+    </item>
+    <item>
+      <title>Multi-dimensional Packing for HEAAN for Approximate Matrix Arithmetics</title>
+      <link>https://eprint.iacr.org/2018/1245</link>
+      <description>Jung Hee Cheon and Andrey Kim and Donggeon Yhee </description>
+      <guid isPermaLink="false">2018/1245</guid>
+    </item>
+    <item>
+      <title>Two round multiparty computation via Multi-key fully homomorphic encryption with faster homomorphic evaluations</title>
+      <link>https://eprint.iacr.org/2018/1249</link>
+      <description>NingBo Li and TanPing Zhou and XiaoYuan Yang and YiLiang Han and Longfei Liu and WenChao Liu</description>
+      <guid isPermaLink="false">2018/1249</guid>
     </item>
   </channel>
 </rss>
