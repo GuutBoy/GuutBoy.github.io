@@ -1,5 +1,10 @@
 [
 {
+"authors":"Daniele Cozzo and Nigel P. Smart",
+"id":"2019/035",
+"title":"Using TopGear in Overdrive: A more efficient ZKPoK for SPDZ"
+},
+{
 "authors":"NingBo Li and TanPing Zhou and XiaoYuan Yang and YiLiang Han and Longfei Liu and WenChao Liu",
 "id":"2018/1249",
 "title":"Two round multiparty computation via Multi-key fully homomorphic encryption with faster homomorphic evaluations"
