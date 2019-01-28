@@ -1,5 +1,30 @@
 [
 {
+"authors":"Chun Guo and Jonathan Katz and Xiao Wang and Yu Yu",
+"id":"2019/074",
+"title":"Efficient and Secure Multiparty Computation from Fixed-Key Block Ciphers"
+},
+{
+"authors":"Zhilin Zhang and Ke Wang and Weipeng Lin and Ada Wai-Chee Fu and Raymond Chi-Wing Wong",
+"id":"2019/071",
+"title":"Repeatable Oblivious Shuffling of Large Outsourced Data Blocks"
+},
+{
+"authors":"Michael Clear and Ciaran McGoldrick",
+"id":"2019/062",
+"title":"Additively Homomorphic IBE from Higher Residuosity"
+},
+{
+"authors":"Rafael del Pino and Vadim Lyubashevsky and Gregor Seiler",
+"id":"2019/057",
+"title":"Short Discrete Log Proofs for FHE and Ring-LWE Ciphertexts"
+},
+{
+"authors":"Eyal Kushilevitz and Tamer Mour",
+"id":"2019/048",
+"title":"Sub-logarithmic Distributed Oblivious RAM with Small Block Size"
+},
+{
 "authors":"Daniele Cozzo and Nigel P. Smart",
 "id":"2019/035",
 "title":"Using TopGear in Overdrive: A more efficient ZKPoK for SPDZ"

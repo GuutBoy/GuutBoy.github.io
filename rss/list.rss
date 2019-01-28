@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Jan 2019 08:19:25 +0000</lastBuildDate>
-    <item>
-      <title>Secure multiparty PageRank algorithm for collaborative fraud detection</title>
-      <link>https://eprint.iacr.org/2018/917</link>
-      <description>Alex Sangers and Maran van Heesch and Thomas Attema and Thijs Veugen and Mark Wiggerman and Jan Veldsink and Oscar Bloemen and Dani\"el Worm</description>
-      <guid isPermaLink="false">2018/917</guid>
-    </item>
-    <item>
-      <title>Round Optimal Black-Box "Commit-and-Prove"</title>
-      <link>https://eprint.iacr.org/2018/921</link>
-      <description>Dakshita Khurana and Rafail Ostrovsky and Akshayaram Srinivasan</description>
-      <guid isPermaLink="false">2018/921</guid>
-    </item>
-    <item>
-      <title>Adaptively Secure Distributed PRFs from LWE</title>
-      <link>https://eprint.iacr.org/2018/927</link>
-      <description>Benoît Libert and Damien Stehlé and Radu Titiu</description>
-      <guid isPermaLink="false">2018/927</guid>
-    </item>
-    <item>
-      <title>A Full RNS Variant of Approximate Homomorphic Encryption</title>
-      <link>https://eprint.iacr.org/2018/931</link>
-      <description>Jung Hee Cheon and Kyoohyung Han and Andrey Kim and Miran Kim and Yongsoo Song</description>
-      <guid isPermaLink="false">2018/931</guid>
-    </item>
-    <item>
-      <title>Reusable Non-Interactive Secure Computation</title>
-      <link>https://eprint.iacr.org/2018/940</link>
-      <description>Melissa Chase and Yevgeniy Dodis and Yuval Ishai and Daniel Kraschewski and Tianren Liu and Rafail Ostrovsky and Vinod Vaikuntanathan</description>
-      <guid isPermaLink="false">2018/940</guid>
-    </item>
+    <lastBuildDate>Mon, 28 Jan 2019 12:33:05 +0000</lastBuildDate>
     <item>
       <title>Insured MPC: Efficient Secure Multiparty Computation with Punishable Abort</title>
       <link>https://eprint.iacr.org/2018/942</link>
@@ -307,6 +277,36 @@
       <link>https://eprint.iacr.org/2019/035</link>
       <description>Daniele Cozzo and Nigel P. Smart</description>
       <guid isPermaLink="false">2019/035</guid>
+    </item>
+    <item>
+      <title>Sub-logarithmic Distributed Oblivious RAM with Small Block Size</title>
+      <link>https://eprint.iacr.org/2019/048</link>
+      <description>Eyal Kushilevitz and Tamer Mour</description>
+      <guid isPermaLink="false">2019/048</guid>
+    </item>
+    <item>
+      <title>Short Discrete Log Proofs for FHE and Ring-LWE Ciphertexts</title>
+      <link>https://eprint.iacr.org/2019/057</link>
+      <description>Rafael del Pino and Vadim Lyubashevsky and Gregor Seiler</description>
+      <guid isPermaLink="false">2019/057</guid>
+    </item>
+    <item>
+      <title>Additively Homomorphic IBE from Higher Residuosity</title>
+      <link>https://eprint.iacr.org/2019/062</link>
+      <description>Michael Clear and Ciaran McGoldrick</description>
+      <guid isPermaLink="false">2019/062</guid>
+    </item>
+    <item>
+      <title>Repeatable Oblivious Shuffling of Large Outsourced Data Blocks</title>
+      <link>https://eprint.iacr.org/2019/071</link>
+      <description>Zhilin Zhang and Ke Wang and Weipeng Lin and Ada Wai-Chee Fu and Raymond Chi-Wing Wong</description>
+      <guid isPermaLink="false">2019/071</guid>
+    </item>
+    <item>
+      <title>Efficient and Secure Multiparty Computation from Fixed-Key Block Ciphers</title>
+      <link>https://eprint.iacr.org/2019/074</link>
+      <description>Chun Guo and Jonathan Katz and Xiao Wang and Yu Yu</description>
+      <guid isPermaLink="false">2019/074</guid>
     </item>
   </channel>
 </rss>
