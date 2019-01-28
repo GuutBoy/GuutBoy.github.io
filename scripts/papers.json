@@ -1,5 +1,15 @@
 [
 {
+"authors":"Nils Fleischhacker and Giulio Malavolta and Dominique Schr\u00f6der",
+"id":"2019/082",
+"title":"Arithmetic Garbling from Bilinear Maps"
+},
+{
+"authors":"Aner Ben Efraim and Eran Omri",
+"id":"2019/080",
+"title":"Turbospeedz: Double Your Online SPDZ! Improving SPDZ using Function Dependent Preprocessing"
+},
+{
 "authors":"Chun Guo and Jonathan Katz and Xiao Wang and Yu Yu",
 "id":"2019/074",
 "title":"Efficient and Secure Multiparty Computation from Fixed-Key Block Ciphers"
