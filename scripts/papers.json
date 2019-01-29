@@ -1,5 +1,10 @@
 [
 {
+"authors":"Li Hongda and Pan Dongxue and Ni Peifang",
+"id":"2019/091",
+"title":"Efficient Zero-Knowledge for NP from Secure Two-Party Computation"
+},
+{
 "authors":"Nils Fleischhacker and Giulio Malavolta and Dominique Schr\u00f6der",
 "id":"2019/082",
 "title":"Arithmetic Garbling from Bilinear Maps"

@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Jan 2019 17:02:13 +0000</lastBuildDate>
-    <item>
-      <title>Approximate Homomorphic Encryption over the Conjugate-invariant Ring</title>
-      <link>https://eprint.iacr.org/2018/952</link>
-      <description>Duhyeong Kim and Yongsoo Song</description>
-      <guid isPermaLink="false">2018/952</guid>
-    </item>
+    <lastBuildDate>Tue, 29 Jan 2019 16:50:56 +0000</lastBuildDate>
     <item>
       <title>Efficient UC Commitment Extension with Homomorphism for Free (and Applications)</title>
       <link>https://eprint.iacr.org/2018/983</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2019/082</link>
       <description>Nils Fleischhacker and Giulio Malavolta and Dominique Schröder</description>
       <guid isPermaLink="false">2019/082</guid>
+    </item>
+    <item>
+      <title>Efficient Zero-Knowledge for NP from Secure Two-Party Computation</title>
+      <link>https://eprint.iacr.org/2019/091</link>
+      <description>Li Hongda and Pan Dongxue and Ni Peifang</description>
+      <guid isPermaLink="false">2019/091</guid>
     </item>
   </channel>
 </rss>
