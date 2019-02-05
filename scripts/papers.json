@@ -1,5 +1,10 @@
 [
 {
+"authors":"Ahmet Can Mert and Erdinc Ozturk and Erkay Savas",
+"id":"2019/109",
+"title":"Design and Implementation of a Fast and Scalable NTT-Based Polynomial Multiplier Architecture"
+},
+{
 "authors":"Sergiu Carpov and Nicolas Gama and Mariya Georgieva and Juan Ramon Troncoso-Pastoriza",
 "id":"2019/101",
 "title":"Privacy-preserving semi-parallel logistic regression training with Fully Homomorphic Encryption"

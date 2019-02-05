@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Feb 2019 05:54:44 +0000</lastBuildDate>
-    <item>
-      <title>Fast Secure Multiparty ECDSA with Practical Distributed Key Generation and Applications to Cryptocurrency Custody</title>
-      <link>https://eprint.iacr.org/2018/987</link>
-      <description>Yehuda Lindell and Ariel Nof and Samuel Ranellucci</description>
-      <guid isPermaLink="false">2018/987</guid>
-    </item>
+    <lastBuildDate>Tue, 05 Feb 2019 20:28:09 +0000</lastBuildDate>
     <item>
       <title>Turning HATE Into LOVE: Homomorphic Ad Hoc Threshold Encryption for Scalable MPC</title>
       <link>https://eprint.iacr.org/2018/997</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2019/101</link>
       <description>Sergiu Carpov and Nicolas Gama and Mariya Georgieva and Juan Ramon Troncoso-Pastoriza</description>
       <guid isPermaLink="false">2019/101</guid>
+    </item>
+    <item>
+      <title>Design and Implementation of a Fast and Scalable NTT-Based Polynomial Multiplier Architecture</title>
+      <link>https://eprint.iacr.org/2019/109</link>
+      <description>Ahmet Can Mert and Erdinc Ozturk and Erkay Savas</description>
+      <guid isPermaLink="false">2019/109</guid>
     </item>
   </channel>
 </rss>
