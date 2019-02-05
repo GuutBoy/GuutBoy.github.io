@@ -1,5 +1,10 @@
 [
 {
+"authors":"Sergiu Carpov and Nicolas Gama and Mariya Georgieva and Juan Ramon Troncoso-Pastoriza",
+"id":"2019/101",
+"title":"Privacy-preserving semi-parallel logistic regression training with Fully Homomorphic Encryption"
+},
+{
 "authors":"Li Hongda and Pan Dongxue and Ni Peifang",
 "id":"2019/091",
 "title":"Efficient Zero-Knowledge for NP from Secure Two-Party Computation"

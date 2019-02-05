@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Jan 2019 16:50:56 +0000</lastBuildDate>
-    <item>
-      <title>Efficient UC Commitment Extension with Homomorphism for Free (and Applications)</title>
-      <link>https://eprint.iacr.org/2018/983</link>
-      <description>Ignacio Cascudo and Ivan Damgård and Bernardo David and Nico Döttling and Rafael Dowsley and Irene Giacomelli</description>
-      <guid isPermaLink="false">2018/983</guid>
-    </item>
+    <lastBuildDate>Tue, 05 Feb 2019 05:54:44 +0000</lastBuildDate>
     <item>
       <title>Fast Secure Multiparty ECDSA with Practical Distributed Key Generation and Applications to Cryptocurrency Custody</title>
       <link>https://eprint.iacr.org/2018/987</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2019/091</link>
       <description>Li Hongda and Pan Dongxue and Ni Peifang</description>
       <guid isPermaLink="false">2019/091</guid>
+    </item>
+    <item>
+      <title>Privacy-preserving semi-parallel logistic regression training with Fully Homomorphic Encryption</title>
+      <link>https://eprint.iacr.org/2019/101</link>
+      <description>Sergiu Carpov and Nicolas Gama and Mariya Georgieva and Juan Ramon Troncoso-Pastoriza</description>
+      <guid isPermaLink="false">2019/101</guid>
     </item>
   </channel>
 </rss>
