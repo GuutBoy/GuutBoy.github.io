@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Mar 2019 08:18:39 +0000</lastBuildDate>
-    <item>
-      <title>Correction to "Improving the DGK comparison protocol"</title>
-      <link>https://eprint.iacr.org/2018/1100</link>
-      <description>Thijs Veugen</description>
-      <guid isPermaLink="false">2018/1100</guid>
-    </item>
-    <item>
-      <title>Covert Security with Public Verifiability: Faster, Leaner, and Simpler</title>
-      <link>https://eprint.iacr.org/2018/1108</link>
-      <description>Cheng Hong and Jonathan Katz and Vladimir Kolesnikov and Wen-jie Lu and Xiao Wang</description>
-      <guid isPermaLink="false">2018/1108</guid>
-    </item>
+    <lastBuildDate>Sun, 31 Mar 2019 08:22:28 +0000</lastBuildDate>
     <item>
       <title>Privacy Computing: Concept, Computing Framework And Future Development Trends</title>
       <link>https://eprint.iacr.org/2018/1145</link>
@@ -307,6 +295,18 @@
       <link>https://eprint.iacr.org/2019/253</link>
       <description>Arka Rai Choudhuri and Vipul Goyal and Abhishek Jain</description>
       <guid isPermaLink="false">2019/253</guid>
+    </item>
+    <item>
+      <title>Robust MPC: Asynchronous Responsiveness yet Synchronous Security</title>
+      <link>https://eprint.iacr.org/2019/159</link>
+      <description>Chen-Da Liu-Zhang and Julian Loss and Ueli Maurer and Tal Moran and Daniel Tschudi</description>
+      <guid isPermaLink="false">2019/159</guid>
+    </item>
+    <item>
+      <title>FPGA-based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data</title>
+      <link>https://eprint.iacr.org/2019/160</link>
+      <description>Sujoy Sinha Roy and Furkan Turan and Kimmo Jarvinen and Frederik Vercauteren and Ingrid Verbauwhede</description>
+      <guid isPermaLink="false">2019/160</guid>
     </item>
   </channel>
 </rss>

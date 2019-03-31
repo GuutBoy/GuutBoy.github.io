@@ -1,5 +1,15 @@
 [
 {
+"authors":"Sujoy Sinha Roy and Furkan Turan and Kimmo Jarvinen and Frederik Vercauteren and Ingrid Verbauwhede",
+"id":"2019/160",
+"title":"FPGA-based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data"
+},
+{
+"authors":"Chen-Da Liu-Zhang and Julian Loss and Ueli Maurer and Tal Moran and Daniel Tschudi",
+"id":"2019/159",
+"title":"Robust MPC: Asynchronous Responsiveness yet Synchronous Security"
+},
+{
 "authors":"Arka Rai Choudhuri and Vipul Goyal and Abhishek Jain",
 "id":"2019/253",
 "title":"Founding Secure Computation on Blockchains"
