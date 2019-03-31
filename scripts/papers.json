@@ -1,5 +1,15 @@
 [
 {
+"authors":"Peter T. Breuer and Simon Pickin",
+"id":"2019/301",
+"title":"Safe Compilation for Encrypted Computing"
+},
+{
+"authors":"Hao Chen and Ilaria Chillotti and Yongsoo Song",
+"id":"2019/116",
+"title":"Multi-Key Homomophic Encryption from TFHE"
+},
+{
 "authors":"Hiroki Sudo and Koji Nuida and Kana Shimizu",
 "id":"2019/325",
 "title":"An Efficient Private Evaluation of a Decision Graph"

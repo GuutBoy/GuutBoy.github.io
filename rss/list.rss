@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Mar 2019 08:31:32 +0000</lastBuildDate>
-    <item>
-      <title>Multi-dimensional Packing for HEAAN for Approximate Matrix Arithmetics</title>
-      <link>https://eprint.iacr.org/2018/1245</link>
-      <description>Jung Hee Cheon and Andrey Kim and Donggeon Yhee </description>
-      <guid isPermaLink="false">2018/1245</guid>
-    </item>
-    <item>
-      <title>Two round multiparty computation via Multi-key fully homomorphic encryption with faster homomorphic evaluations</title>
-      <link>https://eprint.iacr.org/2018/1249</link>
-      <description>NingBo Li and TanPing Zhou and XiaoYuan Yang and YiLiang Han and Longfei Liu and WenChao Liu</description>
-      <guid isPermaLink="false">2018/1249</guid>
-    </item>
+    <lastBuildDate>Sun, 31 Mar 2019 08:33:35 +0000</lastBuildDate>
     <item>
       <title>Using TopGear in Overdrive: A more efficient ZKPoK for SPDZ</title>
       <link>https://eprint.iacr.org/2019/035</link>
@@ -307,6 +295,18 @@
       <link>https://eprint.iacr.org/2019/325</link>
       <description>Hiroki Sudo and Koji Nuida and Kana Shimizu</description>
       <guid isPermaLink="false">2019/325</guid>
+    </item>
+    <item>
+      <title>Multi-Key Homomophic Encryption from TFHE</title>
+      <link>https://eprint.iacr.org/2019/116</link>
+      <description>Hao Chen and Ilaria Chillotti and Yongsoo Song</description>
+      <guid isPermaLink="false">2019/116</guid>
+    </item>
+    <item>
+      <title>Safe Compilation for Encrypted Computing</title>
+      <link>https://eprint.iacr.org/2019/301</link>
+      <description>Peter T. Breuer and Simon Pickin</description>
+      <guid isPermaLink="false">2019/301</guid>
     </item>
   </channel>
 </rss>
