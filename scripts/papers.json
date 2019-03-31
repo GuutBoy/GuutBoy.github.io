@@ -1,5 +1,10 @@
 [
 {
+"authors":"Hiroki Sudo and Koji Nuida and Kana Shimizu",
+"id":"2019/325",
+"title":"An Efficient Private Evaluation of a Decision Graph"
+},
+{
 "authors":"Kimia Tajik and Akshith Gunasekaran and Rhea Dutta and Brandon Ellis and Rakesh B. Bobba and Mike Rosulek and Charles V. Wright and Wu-chi Feng",
 "id":"2019/295",
 "title":"Balancing Image Privacy and Usability with Thumbnail-Preserving Encryption"
