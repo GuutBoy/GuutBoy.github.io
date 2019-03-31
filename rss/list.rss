@@ -7,145 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Feb 2019 20:28:09 +0000</lastBuildDate>
-    <item>
-      <title>Turning HATE Into LOVE: Homomorphic Ad Hoc Threshold Encryption for Scalable MPC</title>
-      <link>https://eprint.iacr.org/2018/997</link>
-      <description>Leonid Reyzin and Adam Smith and Sophia Yakoubov</description>
-      <guid isPermaLink="false">2018/997</guid>
-    </item>
-    <item>
-      <title>Secure Data Retrieval On The Cloud Homomorphic Encryption Meets Coresets</title>
-      <link>https://eprint.iacr.org/2018/1003</link>
-      <description>Adi Akavia and Dan Feldman and Hayim Shaul</description>
-      <guid isPermaLink="false">2018/1003</guid>
-    </item>
-    <item>
-      <title>Fast Secure Multiparty ECDSA with Practical Distributed Key Generation and Applications to Cryptocurrency Custody</title>
-      <link>https://eprint.iacr.org/2018/1006</link>
-      <description>Yehuda Lindell and Ariel Nof and Samuel Ranellucci</description>
-      <guid isPermaLink="false">2018/1006</guid>
-    </item>
-    <item>
-      <title>Space Efficient Computational Multi-Secret Sharing and Its  Applications</title>
-      <link>https://eprint.iacr.org/2018/1010</link>
-      <description>Aggelos Kiayias and Murat Osmanoglu and Alexander Russell and Qiang Tang</description>
-      <guid isPermaLink="false">2018/1010</guid>
-    </item>
-    <item>
-      <title>E$^3$: A Framework for Compiling C++ Programs with Encrypted Operands</title>
-      <link>https://eprint.iacr.org/2018/1013</link>
-      <description>Eduardo Chielle and Oleg Mazonka and Nektarios Georgios Tsoutsos and Michail Maniatakos</description>
-      <guid isPermaLink="false">2018/1013</guid>
-    </item>
-    <item>
-      <title>Decentralized Evaluation of Quadratic Polynomials on Encrypted Data</title>
-      <link>https://eprint.iacr.org/2018/1019</link>
-      <description>Chloé Hébant and Duong Hieu Phan and David Pointcheval</description>
-      <guid isPermaLink="false">2018/1019</guid>
-    </item>
-    <item>
-      <title>Non-Interactive Secure Computation from One-Way Functions</title>
-      <link>https://eprint.iacr.org/2018/1020</link>
-      <description>Saikrishna Badrinarayanan and Abhishek Jain and Rafail Ostrovsky and Ivan Visconti</description>
-      <guid isPermaLink="false">2018/1020</guid>
-    </item>
-    <item>
-      <title>Blind Certificate Authorities</title>
-      <link>https://eprint.iacr.org/2018/1022</link>
-      <description>Liang Wang and Gilad Asharov and Rafael Pass and Thomas Ristenpart and abhi shelat</description>
-      <guid isPermaLink="false">2018/1022</guid>
-    </item>
-    <item>
-      <title>Integer Matrices Homomorphic Encryption and Its application</title>
-      <link>https://eprint.iacr.org/2018/1025</link>
-      <description>Yanan Bai and Jingwei Chen and Yong Feng and Wenyuan Wu</description>
-      <guid isPermaLink="false">2018/1025</guid>
-    </item>
-    <item>
-      <title>Conditionals in Homomorphic Encryption and Machine Learning Applications</title>
-      <link>https://eprint.iacr.org/2018/1032</link>
-      <description>Diego Chialva and Ann Dooms</description>
-      <guid isPermaLink="false">2018/1032</guid>
-    </item>
-    <item>
-      <title>Adding Distributed Decryption and Key Generation to a Ring-LWE Based CCA Encryption Scheme</title>
-      <link>https://eprint.iacr.org/2018/1034</link>
-      <description>Michael Kraitsberg and Yehuda Lindell and Valery Osheter and Younes Talibi Alaoui</description>
-      <guid isPermaLink="false">2018/1034</guid>
-    </item>
-    <item>
-      <title>Secure Outsourced Matrix Computation and Application to Neural Networks</title>
-      <link>https://eprint.iacr.org/2018/1041</link>
-      <description>Xiaoqian Jiang and Miran Kim and Kristin Lauter and Yongsoo Song</description>
-      <guid isPermaLink="false">2018/1041</guid>
-    </item>
-    <item>
-      <title>Improved Bootstrapping for Approximate Homomorphic Encryption</title>
-      <link>https://eprint.iacr.org/2018/1043</link>
-      <description>Hao Chen and Ilaria Chillotti and Yongsoo Song</description>
-      <guid isPermaLink="false">2018/1043</guid>
-    </item>
-    <item>
-      <title>MPC Joins the Dark Side</title>
-      <link>https://eprint.iacr.org/2018/1045</link>
-      <description>John Cartlidge and Nigel P. Smart and  Younes Talibi Alaoui</description>
-      <guid isPermaLink="false">2018/1045</guid>
-    </item>
-    <item>
-      <title>Lower Bounds for Differentially Private RAMs</title>
-      <link>https://eprint.iacr.org/2018/1051</link>
-      <description>Giuseppe Persiano and Kevin Yeo</description>
-      <guid isPermaLink="false">2018/1051</guid>
-    </item>
-    <item>
-      <title>Efficient Multi-key FHE with short extended ciphertexts and less public parameters</title>
-      <link>https://eprint.iacr.org/2018/1054</link>
-      <description>Tanping Zhou and Ningbo Li and Xiaoyuan Yang and Yiliang Han and Wenchao Liu</description>
-      <guid isPermaLink="false">2018/1054</guid>
-    </item>
-    <item>
-      <title>The AlexNet Moment for Homomorphic Encryption: HCNN, the First Homomorphic CNN on Encrypted Data with GPUs</title>
-      <link>https://eprint.iacr.org/2018/1056</link>
-      <description>Ahmad Al Badawi and Jin Chao and Jie Lin and Chan Fook Mun and Sim Jun Jie and Benjamin Hong Meng Tan and Xiao Nan and Khin Mi Mi Aung and Vijay Ramaseshan Chandrasekhar</description>
-      <guid isPermaLink="false">2018/1056</guid>
-    </item>
-    <item>
-      <title>Homomorphic Secret Sharing for Low Degree Polynomials</title>
-      <link>https://eprint.iacr.org/2018/1065</link>
-      <description>Russell W. F. Lai and Giulio Malavolta and Dominique Schröder </description>
-      <guid isPermaLink="false">2018/1065</guid>
-    </item>
-    <item>
-      <title>A New Batch FHE Scheme over the Integers</title>
-      <link>https://eprint.iacr.org/2018/1070</link>
-      <description>Kwak Wi Song and Kim Chol Un</description>
-      <guid isPermaLink="false">2018/1070</guid>
-    </item>
-    <item>
-      <title>Faster Homomorphic Discrete Fourier Transforms and Improved FHE Bootstrapping</title>
-      <link>https://eprint.iacr.org/2018/1073</link>
-      <description>Jung Hee Cheon and Kyoohyung Han and Minki Hhan</description>
-      <guid isPermaLink="false">2018/1073</guid>
-    </item>
-    <item>
-      <title>Two Round Information-Theoretic MPC with Malicious Security</title>
-      <link>https://eprint.iacr.org/2018/1078</link>
-      <description>Prabhanjan Ananth and Arka Rai Choudhuri and Aarushi Goel and Abhishek Jain</description>
-      <guid isPermaLink="false">2018/1078</guid>
-    </item>
-    <item>
-      <title>Two Party Distribution Testing: Communication and Security</title>
-      <link>https://eprint.iacr.org/2018/1086</link>
-      <description>Alexandr Andoni and Tal Malkin and Negev Shekel Nosatzki</description>
-      <guid isPermaLink="false">2018/1086</guid>
-    </item>
-    <item>
-      <title>SoK: Modular and Efficient Private Decision Tree Evaluation</title>
-      <link>https://eprint.iacr.org/2018/1099</link>
-      <description>Ágnes Kiss and Masoud Naderpour and Jian Liu and N. Asokan and Thomas Schneider</description>
-      <guid isPermaLink="false">2018/1099</guid>
-    </item>
+    <lastBuildDate>Sun, 31 Mar 2019 08:18:39 +0000</lastBuildDate>
     <item>
       <title>Correction to "Improving the DGK comparison protocol"</title>
       <link>https://eprint.iacr.org/2018/1100</link>
@@ -307,6 +169,144 @@
       <link>https://eprint.iacr.org/2019/109</link>
       <description>Ahmet Can Mert and Erdinc Ozturk and Erkay Savas</description>
       <guid isPermaLink="false">2019/109</guid>
+    </item>
+    <item>
+      <title>Homomorphic Secret Sharing from Lattices Without FHE</title>
+      <link>https://eprint.iacr.org/2019/129</link>
+      <description>Elette Boyle and Lisa Kohl and Peter Scholl</description>
+      <guid isPermaLink="false">2019/129</guid>
+    </item>
+    <item>
+      <title>Secure Evaluation of Quantized Neural Networks</title>
+      <link>https://eprint.iacr.org/2019/131</link>
+      <description>Assi Barak and Daniel Escudero and Anders Dalskov and Marcel Keller</description>
+      <guid isPermaLink="false">2019/131</guid>
+    </item>
+    <item>
+      <title>CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning</title>
+      <link>https://eprint.iacr.org/2019/140</link>
+      <description>Jinhyun So and Basak Guler and A. Salman Avestimehr and Payman Mohassel</description>
+      <guid isPermaLink="false">2019/140</guid>
+    </item>
+    <item>
+      <title>Achieving GWAS with Homomorphic Encryption</title>
+      <link>https://eprint.iacr.org/2019/145</link>
+      <description>Jun Jie Sim and Fook Mun Chan and Shibin Chen and Benjamin Hong Meng Tan and Khin Mi Mi Aung</description>
+      <guid isPermaLink="false">2019/145</guid>
+    </item>
+    <item>
+      <title>Privacy-preserving Approximate GWAS computation based on Homomorphic Encryption</title>
+      <link>https://eprint.iacr.org/2019/152</link>
+      <description>Duhyeong Kim and Yongha Son and Dongwoo Kim and Andrey Kim and Seungwan Hong and Jung Hee Cheon</description>
+      <guid isPermaLink="false">2019/152</guid>
+    </item>
+    <item>
+      <title>Overdrive2k: Efficient Secure MPC over $Z_{2^k}$ from Somewhat Homomorphic Encryption</title>
+      <link>https://eprint.iacr.org/2019/153</link>
+      <description>Emmanuela Orsini and Nigel P. Smart and Frederik Vercauteren</description>
+      <guid isPermaLink="false">2019/153</guid>
+    </item>
+    <item>
+      <title>Efficient Constructions for Almost-everywhere Secure Computation</title>
+      <link>https://eprint.iacr.org/2019/156</link>
+      <description>Siddhartha Jayanti and Srinivasan Raghuraman and Nikhil Vyas</description>
+      <guid isPermaLink="false">2019/156</guid>
+    </item>
+    <item>
+      <title>Use your Brain! Arithmetic 3PC For Any Modulus with Active Security</title>
+      <link>https://eprint.iacr.org/2019/164</link>
+      <description>Hendrik Eerikson and Claudio Orlandi and Pille Pullonen and Joonas Puura and Mark Simkin</description>
+      <guid isPermaLink="false">2019/164</guid>
+    </item>
+    <item>
+      <title>XONN: XNOR-based Oblivious Deep Neural Network Inference</title>
+      <link>https://eprint.iacr.org/2019/171</link>
+      <description>M. Sadegh Riazi and Mohammad Samragh and Hao Chen and Kim Laine and Kristin Lauter and Farinaz Koushanfar</description>
+      <guid isPermaLink="false">2019/171</guid>
+    </item>
+    <item>
+      <title>The Communication Complexity of Threshold Private Set Intersection</title>
+      <link>https://eprint.iacr.org/2019/175</link>
+      <description>Satrajit Ghosh and Mark Simkin</description>
+      <guid isPermaLink="false">2019/175</guid>
+    </item>
+    <item>
+      <title>Homomorphic Encryption for Finite Automata</title>
+      <link>https://eprint.iacr.org/2019/176</link>
+      <description>Nicholas Genise and Craig Gentry and Shai Halevi and Baiyu Li and Daniele Micciancio</description>
+      <guid isPermaLink="false">2019/176</guid>
+    </item>
+    <item>
+      <title>How to Prove a Secret: Zero-Knowledge Proofs on Distributed Data via Fully Linear PCPs</title>
+      <link>https://eprint.iacr.org/2019/188</link>
+      <description>Dan Boneh and Elette Boyle and Henry Corrigan-Gibbs and Niv Gilboa and Yuval Ishai</description>
+      <guid isPermaLink="false">2019/188</guid>
+    </item>
+    <item>
+      <title>Degree 2 is Complete for the Round-Complexity of Malicious MPC</title>
+      <link>https://eprint.iacr.org/2019/200</link>
+      <description>Benny Applebaum and Zvika Brakerski and Rotem Tsabary</description>
+      <guid isPermaLink="false">2019/200</guid>
+    </item>
+    <item>
+      <title>MArBled Circuits: Mixing Arithmetic and Boolean Circuits with Active Security</title>
+      <link>https://eprint.iacr.org/2019/207</link>
+      <description>Dragos Rotaru and Tim Wood</description>
+      <guid isPermaLink="false">2019/207</guid>
+    </item>
+    <item>
+      <title>Mon$\mathbb{Z}_{2^k}$a: Fast Maliciously Secure Two Party Computation on $\mathbb{Z}_{2^k}$</title>
+      <link>https://eprint.iacr.org/2019/211</link>
+      <description>Dario Catalano and Mario Di Raimondo and Dario Fiore and Irene Giacomelli</description>
+      <guid isPermaLink="false">2019/211</guid>
+    </item>
+    <item>
+      <title>Four-Round Secure Multiparty Computation from General Assumptions</title>
+      <link>https://eprint.iacr.org/2019/214</link>
+      <description>Michele Ciampi and Rafail Ostrovsky</description>
+      <guid isPermaLink="false">2019/214</guid>
+    </item>
+    <item>
+      <title>On Round Optimal Secure Multiparty Computation from Minimal Assumptions</title>
+      <link>https://eprint.iacr.org/2019/216</link>
+      <description>Arka Rai Choudhuri and Vipul Goyal and Abhishek Jain</description>
+      <guid isPermaLink="false">2019/216</guid>
+    </item>
+    <item>
+      <title>Communication Lower Bounds for Statistically Secure MPC, with or without Preprocessing</title>
+      <link>https://eprint.iacr.org/2019/220</link>
+      <description>Ivan Damgård and Kasper Green Larsen and Jesper Buus Nielsen</description>
+      <guid isPermaLink="false">2019/220</guid>
+    </item>
+    <item>
+      <title>Logarithmic Quantum Single-Server PIR is Sometimes Possible</title>
+      <link>https://eprint.iacr.org/2019/232</link>
+      <description>Dorit Aharonov and Zvika Brakerski and Kai-Min Chung and Ayal Green and Ching-Yi Lai and Or Sattath</description>
+      <guid isPermaLink="false">2019/232</guid>
+    </item>
+    <item>
+      <title>Optimal Oblivious Priority Queues and Offline Oblivious RAM</title>
+      <link>https://eprint.iacr.org/2019/237</link>
+      <description>Zahra Jafargholi and Kasper Green Larsen and Mark Simkin</description>
+      <guid isPermaLink="false">2019/237</guid>
+    </item>
+    <item>
+      <title>Cheaper Private Set Intersection via Differentially Private Leakage</title>
+      <link>https://eprint.iacr.org/2019/239</link>
+      <description>Adam Groce and Peter Rindal and Mike Rosulek</description>
+      <guid isPermaLink="false">2019/239</guid>
+    </item>
+    <item>
+      <title>Efficient Circuit-based PSI with Linear Communication</title>
+      <link>https://eprint.iacr.org/2019/241</link>
+      <description>Benny Pinkas and Thomas Schneider and Oleksandr Tkachenko and Avishay Yanai</description>
+      <guid isPermaLink="false">2019/241</guid>
+    </item>
+    <item>
+      <title>Founding Secure Computation on Blockchains</title>
+      <link>https://eprint.iacr.org/2019/253</link>
+      <description>Arka Rai Choudhuri and Vipul Goyal and Abhishek Jain</description>
+      <guid isPermaLink="false">2019/253</guid>
     </item>
   </channel>
 </rss>

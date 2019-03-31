@@ -1,5 +1,120 @@
 [
 {
+"authors":"Arka Rai Choudhuri and Vipul Goyal and Abhishek Jain",
+"id":"2019/253",
+"title":"Founding Secure Computation on Blockchains"
+},
+{
+"authors":"Benny Pinkas and Thomas Schneider and Oleksandr Tkachenko and Avishay Yanai",
+"id":"2019/241",
+"title":"Efficient Circuit-based PSI with Linear Communication"
+},
+{
+"authors":"Adam Groce and Peter Rindal and Mike Rosulek",
+"id":"2019/239",
+"title":"Cheaper Private Set Intersection via Differentially Private Leakage"
+},
+{
+"authors":"Zahra Jafargholi and Kasper Green Larsen and Mark Simkin",
+"id":"2019/237",
+"title":"Optimal Oblivious Priority Queues and Offline Oblivious RAM"
+},
+{
+"authors":"Dorit Aharonov and Zvika Brakerski and Kai-Min Chung and Ayal Green and Ching-Yi Lai and Or Sattath",
+"id":"2019/232",
+"title":"Logarithmic Quantum Single-Server PIR is Sometimes Possible"
+},
+{
+"authors":"Ivan Damg\u00e5rd and Kasper Green Larsen and Jesper Buus Nielsen",
+"id":"2019/220",
+"title":"Communication Lower Bounds for Statistically Secure MPC, with or without Preprocessing"
+},
+{
+"authors":"Arka Rai Choudhuri and Vipul Goyal and Abhishek Jain",
+"id":"2019/216",
+"title":"On Round Optimal Secure Multiparty Computation from Minimal Assumptions"
+},
+{
+"authors":"Michele Ciampi and Rafail Ostrovsky",
+"id":"2019/214",
+"title":"Four-Round Secure Multiparty Computation from General Assumptions"
+},
+{
+"authors":"Dario Catalano and Mario Di Raimondo and Dario Fiore and Irene Giacomelli",
+"id":"2019/211",
+"title":"Mon$\\mathbb{Z}_{2^k}$a: Fast Maliciously Secure Two Party Computation on $\\mathbb{Z}_{2^k}$"
+},
+{
+"authors":"Dragos Rotaru and Tim Wood",
+"id":"2019/207",
+"title":"MArBled Circuits: Mixing Arithmetic and Boolean Circuits with Active Security"
+},
+{
+"authors":"Benny Applebaum and Zvika Brakerski and Rotem Tsabary",
+"id":"2019/200",
+"title":"Degree 2 is Complete for the Round-Complexity of Malicious MPC"
+},
+{
+"authors":"Dan Boneh and Elette Boyle and Henry Corrigan-Gibbs and Niv Gilboa and Yuval Ishai",
+"id":"2019/188",
+"title":"How to Prove a Secret: Zero-Knowledge Proofs on Distributed Data via Fully Linear PCPs"
+},
+{
+"authors":"Nicholas Genise and Craig Gentry and Shai Halevi and Baiyu Li and Daniele Micciancio",
+"id":"2019/176",
+"title":"Homomorphic Encryption for Finite Automata"
+},
+{
+"authors":"Satrajit Ghosh and Mark Simkin",
+"id":"2019/175",
+"title":"The Communication Complexity of Threshold Private Set Intersection"
+},
+{
+"authors":"M. Sadegh Riazi and Mohammad Samragh and Hao Chen and Kim Laine and Kristin Lauter and Farinaz Koushanfar",
+"id":"2019/171",
+"title":"XONN: XNOR-based Oblivious Deep Neural Network Inference"
+},
+{
+"authors":"Hendrik Eerikson and Claudio Orlandi and Pille Pullonen and Joonas Puura and Mark Simkin",
+"id":"2019/164",
+"title":"Use your Brain! Arithmetic 3PC For Any Modulus with Active Security"
+},
+{
+"authors":"Siddhartha Jayanti and Srinivasan Raghuraman and Nikhil Vyas",
+"id":"2019/156",
+"title":"Efficient Constructions for Almost-everywhere Secure Computation"
+},
+{
+"authors":"Emmanuela Orsini and Nigel P. Smart and Frederik Vercauteren",
+"id":"2019/153",
+"title":"Overdrive2k: Efficient Secure MPC over $Z_{2^k}$ from Somewhat Homomorphic Encryption"
+},
+{
+"authors":"Duhyeong Kim and Yongha Son and Dongwoo Kim and Andrey Kim and Seungwan Hong and Jung Hee Cheon",
+"id":"2019/152",
+"title":"Privacy-preserving Approximate GWAS computation based on Homomorphic Encryption"
+},
+{
+"authors":"Jun Jie Sim and Fook Mun Chan and Shibin Chen and Benjamin Hong Meng Tan and Khin Mi Mi Aung",
+"id":"2019/145",
+"title":"Achieving GWAS with Homomorphic Encryption"
+},
+{
+"authors":"Jinhyun So and Basak Guler and A. Salman Avestimehr and Payman Mohassel",
+"id":"2019/140",
+"title":"CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning"
+},
+{
+"authors":"Assi Barak and Daniel Escudero and Anders Dalskov and Marcel Keller",
+"id":"2019/131",
+"title":"Secure Evaluation of Quantized Neural Networks"
+},
+{
+"authors":"Elette Boyle and Lisa Kohl and Peter Scholl",
+"id":"2019/129",
+"title":"Homomorphic Secret Sharing from Lattices Without FHE"
+},
+{
 "authors":"Ahmet Can Mert and Erdinc Ozturk and Erkay Savas",
 "id":"2019/109",
 "title":"Design and Implementation of a Fast and Scalable NTT-Based Polynomial Multiplier Architecture"
