@@ -1,5 +1,60 @@
 [
 {
+"authors":"Kimia Tajik and Akshith Gunasekaran and Rhea Dutta and Brandon Ellis and Rakesh B. Bobba and Mike Rosulek and Charles V. Wright and Wu-chi Feng",
+"id":"2019/295",
+"title":"Balancing Image Privacy and Usability with Thumbnail-Preserving Encryption"
+},
+{
+"authors":"Miran Kim and Yongsoo Song and Baiyu Li and Daniele Micciancio",
+"id":"2019/294",
+"title":"Semi-parallel Logistic Regression for GWAS on Encrypted Data"
+},
+{
+"authors":"Phillipp Schoppmann and Adria Gascon and Mariana Raykova and Benny Pinkas",
+"id":"2019/281",
+"title":"Make Some ROOM for the Zeros: Data Sparsity in Secure Distributed Machine Learning"
+},
+{
+"authors":"Navneet Agarwal and Sanat Anand and Manoj Prabhakaran",
+"id":"2019/278",
+"title":"Uncovering Algebraic Structures in the MPC Landscape"
+},
+{
+"authors":"Erik-Oliver Blass and Florian Kerschbaum",
+"id":"2019/276",
+"title":"Secure Computation of the $k^\\text{th}$-ranked Integer on Blockchains"
+},
+{
+"authors":"M. Sadegh Riazi and Mojan Javaheripi and Siam U. Hussain and Farinaz Koushanfar",
+"id":"2019/275",
+"title":"MPCircuits: Optimized Circuit Generation for Secure Multi-Party Computation"
+},
+{
+"authors":"Elaine Shi",
+"id":"2019/274",
+"title":"Path Oblivious Heap"
+},
+{
+"authors":"Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai",
+"id":"2019/273",
+"title":"Compressing Vector OLE"
+},
+{
+"authors":"Benny Applebaum and Amos Beimel and Oriol Farr\u00e0s and Oded Nir and Naty Peter",
+"id":"2019/231",
+"title":"Secret-Sharing Schemes for General and Uniform Access Structures"
+},
+{
+"authors":"Marcelo Blatt and Alexander Gusev and Yuriy Polyakov and Kurt Rohloff and Vinod Vaikuntanathan",
+"id":"2019/223",
+"title":"Optimized Homomorphic Encryption Solution for Secure Genome-Wide Association Studies"
+},
+{
+"authors":"Antoine Joux",
+"id":"2019/187",
+"title":"Fully homomorphic encryption modulo Fermat numbers"
+},
+{
 "authors":"Sujoy Sinha Roy and Furkan Turan and Kimmo Jarvinen and Frederik Vercauteren and Ingrid Verbauwhede",
 "id":"2019/160",
 "title":"FPGA-based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data"
