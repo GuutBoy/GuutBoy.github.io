@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Mar 2019 08:33:35 +0000</lastBuildDate>
-    <item>
-      <title>Using TopGear in Overdrive: A more efficient ZKPoK for SPDZ</title>
-      <link>https://eprint.iacr.org/2019/035</link>
-      <description>Daniele Cozzo and Nigel P. Smart</description>
-      <guid isPermaLink="false">2019/035</guid>
-    </item>
-    <item>
-      <title>Sub-logarithmic Distributed Oblivious RAM with Small Block Size</title>
-      <link>https://eprint.iacr.org/2019/048</link>
-      <description>Eyal Kushilevitz and Tamer Mour</description>
-      <guid isPermaLink="false">2019/048</guid>
-    </item>
-    <item>
-      <title>Short Discrete Log Proofs for FHE and Ring-LWE Ciphertexts</title>
-      <link>https://eprint.iacr.org/2019/057</link>
-      <description>Rafael del Pino and Vadim Lyubashevsky and Gregor Seiler</description>
-      <guid isPermaLink="false">2019/057</guid>
-    </item>
-    <item>
-      <title>Additively Homomorphic IBE from Higher Residuosity</title>
-      <link>https://eprint.iacr.org/2019/062</link>
-      <description>Michael Clear and Ciaran McGoldrick</description>
-      <guid isPermaLink="false">2019/062</guid>
-    </item>
-    <item>
-      <title>Repeatable Oblivious Shuffling of Large Outsourced Data Blocks</title>
-      <link>https://eprint.iacr.org/2019/071</link>
-      <description>Zhilin Zhang and Ke Wang and Weipeng Lin and Ada Wai-Chee Fu and Raymond Chi-Wing Wong</description>
-      <guid isPermaLink="false">2019/071</guid>
-    </item>
-    <item>
-      <title>Efficient and Secure Multiparty Computation from Fixed-Key Block Ciphers</title>
-      <link>https://eprint.iacr.org/2019/074</link>
-      <description>Chun Guo and Jonathan Katz and Xiao Wang and Yu Yu</description>
-      <guid isPermaLink="false">2019/074</guid>
-    </item>
+    <lastBuildDate>Wed, 03 Apr 2019 16:16:00 +0000</lastBuildDate>
     <item>
       <title>Turbospeedz: Double Your Online SPDZ! Improving SPDZ using Function Dependent Preprocessing</title>
       <link>https://eprint.iacr.org/2019/080</link>
@@ -307,6 +271,42 @@
       <link>https://eprint.iacr.org/2019/301</link>
       <description>Peter T. Breuer and Simon Pickin</description>
       <guid isPermaLink="false">2019/301</guid>
+    </item>
+    <item>
+      <title>Efficient Private Comparison Queries over Encrypted Databases using Fully Homomorphic Encryption with Finite Fields</title>
+      <link>https://eprint.iacr.org/2019/332</link>
+      <description>Benjamin Hong Meng Tan and Hyung Tae Lee and Huaxiong Wang and Shu Qin Ren and Khin Mi Mi Aung</description>
+      <guid isPermaLink="false">2019/332</guid>
+    </item>
+    <item>
+      <title>Practically Efficient Secure Distributed Exponentiation without Bit-Decomposition</title>
+      <link>https://eprint.iacr.org/2019/334</link>
+      <description>Abdelrahaman Aly and Aysajan Abidin and Svetla Nikova </description>
+      <guid isPermaLink="false">2019/334</guid>
+    </item>
+    <item>
+      <title>Garbled Neural Networks are Practical</title>
+      <link>https://eprint.iacr.org/2019/338</link>
+      <description>Marshall Ball and Brent Carmer and Tal Malkin and Mike Rosulek and Nichole Shimanski</description>
+      <guid isPermaLink="false">2019/338</guid>
+    </item>
+    <item>
+      <title>Efficient and Scalable Universal Circuits</title>
+      <link>https://eprint.iacr.org/2019/348</link>
+      <description>Masaud Y. Alhassan and Daniel Günther and Ágnes Kiss and Thomas Schneider</description>
+      <guid isPermaLink="false">2019/348</guid>
+    </item>
+    <item>
+      <title>nGraph-HE: A Graph Compiler for Deep Learning on Homomorphically Encrypted Data</title>
+      <link>https://eprint.iacr.org/2019/350</link>
+      <description>Fabian Boemer and Yixing Lao and Rosario Cammarota and Casimir Wierzynski</description>
+      <guid isPermaLink="false">2019/350</guid>
+    </item>
+    <item>
+      <title>Benchmarking Privacy Preserving Scientific Operations</title>
+      <link>https://eprint.iacr.org/2019/354</link>
+      <description>Abdelrahaman Aly and Nigel P. Smart</description>
+      <guid isPermaLink="false">2019/354</guid>
     </item>
   </channel>
 </rss>

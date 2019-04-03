@@ -1,5 +1,35 @@
 [
 {
+"authors":"Abdelrahaman Aly and Nigel P. Smart",
+"id":"2019/354",
+"title":"Benchmarking Privacy Preserving Scientific Operations"
+},
+{
+"authors":"Fabian Boemer and Yixing Lao and Rosario Cammarota and Casimir Wierzynski",
+"id":"2019/350",
+"title":"nGraph-HE: A Graph Compiler for Deep Learning on Homomorphically Encrypted Data"
+},
+{
+"authors":"Masaud Y. Alhassan and Daniel G\u00fcnther and \u00c1gnes Kiss and Thomas Schneider",
+"id":"2019/348",
+"title":"Efficient and Scalable Universal Circuits"
+},
+{
+"authors":"Marshall Ball and Brent Carmer and Tal Malkin and Mike Rosulek and Nichole Shimanski",
+"id":"2019/338",
+"title":"Garbled Neural Networks are Practical"
+},
+{
+"authors":"Abdelrahaman Aly and Aysajan Abidin and Svetla Nikova ",
+"id":"2019/334",
+"title":"Practically Efficient Secure Distributed Exponentiation without Bit-Decomposition"
+},
+{
+"authors":"Benjamin Hong Meng Tan and Hyung Tae Lee and Huaxiong Wang and Shu Qin Ren and Khin Mi Mi Aung",
+"id":"2019/332",
+"title":"Efficient Private Comparison Queries over Encrypted Databases using Fully Homomorphic Encryption with Finite Fields"
+},
+{
 "authors":"Peter T. Breuer and Simon Pickin",
 "id":"2019/301",
 "title":"Safe Compilation for Encrypted Computing"
