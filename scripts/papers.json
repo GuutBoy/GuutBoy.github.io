@@ -1,5 +1,10 @@
 [
 {
+"authors":"Hao Chen and Ilaria Chillotti and Yihe Dong and Oxana Poburinnaya and Ilya Razenshteyn and M. Sadegh Riazi",
+"id":"2019/359",
+"title":"SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search"
+},
+{
 "authors":"Abdelrahaman Aly and Nigel P. Smart",
 "id":"2019/354",
 "title":"Benchmarking Privacy Preserving Scientific Operations"
