@@ -1,5 +1,10 @@
 [
 {
+"authors":"Martin R. Albrecht and Lorenzo Grassi and Le&#769;o Perrin and Sebastian Ramacher and Christian Rechberger and Dragos Rotaru and Arnab Roy and Markus Schofnegger",
+"id":"2019/397",
+"title":"Feistel Structures for MPC, and More "
+},
+{
 "authors":"Ryo Kikuchi and Nuttapong Attrapadung and Koki Hamada and Dai Ikarashi and Ai Ishida and Takahiro Matsuda and Yusuke Sakai and Jacob C. N. Schuldt",
 "id":"2019/386",
 "title":"Field Extension in Secret-Shared Form and Its Applications to Efficient Secure Computation"
