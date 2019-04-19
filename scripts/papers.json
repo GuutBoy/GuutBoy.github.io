@@ -1,5 +1,25 @@
 [
 {
+"authors":"Ryo Kikuchi and Nuttapong Attrapadung and Koki Hamada and Dai Ikarashi and Ai Ishida and Takahiro Matsuda and Yusuke Sakai and Jacob C. N. Schuldt",
+"id":"2019/386",
+"title":"Field Extension in Secret-Shared Form and Its Applications to Efficient Secure Computation"
+},
+{
+"authors":"Sarvar Patel and Giuseppe Persiano and Kevin Yeo",
+"id":"2019/384",
+"title":"What Storage Access Privacy is Achievable with Small Overhead?"
+},
+{
+"authors":"Kazumasa Shinagawa and Koji Nuida",
+"id":"2019/380",
+"title":"A Single Shuffle Is Enough for Secure Card-Based Computation of Any Circuit"
+},
+{
+"authors":"Kasper Green Larsen and Tal Malkin and Omri Weinstein and Kevin Yeo",
+"id":"2019/377",
+"title":"Lower Bounds for Oblivious Near-Neighbor Search"
+},
+{
 "authors":"Hao Chen and Ilaria Chillotti and Yihe Dong and Oxana Poburinnaya and Ilya Razenshteyn and M. Sadegh Riazi",
 "id":"2019/359",
 "title":"SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search"
