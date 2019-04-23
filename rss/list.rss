@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Apr 2019 14:26:52 +0000</lastBuildDate>
-    <item>
-      <title>Secure Evaluation of Quantized Neural Networks</title>
-      <link>https://eprint.iacr.org/2019/131</link>
-      <description>Assi Barak and Daniel Escudero and Anders Dalskov and Marcel Keller</description>
-      <guid isPermaLink="false">2019/131</guid>
-    </item>
+    <lastBuildDate>Tue, 23 Apr 2019 04:33:38 +0000</lastBuildDate>
     <item>
       <title>CodedPrivateML: A Fast and Privacy-Preserving Framework for Distributed Machine Learning</title>
       <link>https://eprint.iacr.org/2019/140</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2019/397</link>
       <description>Martin R. Albrecht and Lorenzo Grassi and Le&amp;#769;o Perrin and Sebastian Ramacher and Christian Rechberger and Dragos Rotaru and Arnab Roy and Markus Schofnegger</description>
       <guid isPermaLink="false">2019/397</guid>
+    </item>
+    <item>
+      <title>Two-Round Oblivious Transfer from CDH or LPN</title>
+      <link>https://eprint.iacr.org/2019/414</link>
+      <description>Nico Dottling and Sanjam Garg and Mohammad Hajiabadi and Daniel Masny and Daniel Wichs</description>
+      <guid isPermaLink="false">2019/414</guid>
     </item>
   </channel>
 </rss>

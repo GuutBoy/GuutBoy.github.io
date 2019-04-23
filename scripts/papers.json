@@ -1,5 +1,10 @@
 [
 {
+"authors":"Nico Dottling and Sanjam Garg and Mohammad Hajiabadi and Daniel Masny and Daniel Wichs",
+"id":"2019/414",
+"title":"Two-Round Oblivious Transfer from CDH or LPN"
+},
+{
 "authors":"Martin R. Albrecht and Lorenzo Grassi and Le&#769;o Perrin and Sebastian Ramacher and Christian Rechberger and Dragos Rotaru and Arnab Roy and Markus Schofnegger",
 "id":"2019/397",
 "title":"Feistel Structures for MPC, and More "
