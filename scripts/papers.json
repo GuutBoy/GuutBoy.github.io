@@ -1,5 +1,15 @@
 [
 {
+"authors":"Martin R. Albrecht and Carlos Cid and Lorenzo Grassi and Dmitry Khovratovich and Reinhard L\u00fcftenegger and Christian Rechberger and Markus Schofnegger",
+"id":"2019/419",
+"title":"Algebraic Cryptanalysis of STARK-Friendly Designs: Application to MARVELlous and MiMC"
+},
+{
+"authors":"Jung Hee Cheon and Dongwoo Kim and Duhyeong Kim and Hun Hee Lee and Keewoo Lee",
+"id":"2019/417",
+"title":"Numerical Methods for Comparison on Homomorphically Encrypted Numbers"
+},
+{
 "authors":"Nico Dottling and Sanjam Garg and Mohammad Hajiabadi and Daniel Masny and Daniel Wichs",
 "id":"2019/414",
 "title":"Two-Round Oblivious Transfer from CDH or LPN"
