@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Apr 2019 18:17:05 +0000</lastBuildDate>
-    <item>
-      <title>Privacy-preserving Approximate GWAS computation based on Homomorphic Encryption</title>
-      <link>https://eprint.iacr.org/2019/152</link>
-      <description>Duhyeong Kim and Yongha Son and Dongwoo Kim and Andrey Kim and Seungwan Hong and Jung Hee Cheon</description>
-      <guid isPermaLink="false">2019/152</guid>
-    </item>
-    <item>
-      <title>Overdrive2k: Efficient Secure MPC over $Z_{2^k}$ from Somewhat Homomorphic Encryption</title>
-      <link>https://eprint.iacr.org/2019/153</link>
-      <description>Emmanuela Orsini and Nigel P. Smart and Frederik Vercauteren</description>
-      <guid isPermaLink="false">2019/153</guid>
-    </item>
-    <item>
-      <title>Efficient Constructions for Almost-everywhere Secure Computation</title>
-      <link>https://eprint.iacr.org/2019/156</link>
-      <description>Siddhartha Jayanti and Srinivasan Raghuraman and Nikhil Vyas</description>
-      <guid isPermaLink="false">2019/156</guid>
-    </item>
+    <lastBuildDate>Sat, 27 Apr 2019 19:25:57 +0000</lastBuildDate>
     <item>
       <title>Use your Brain! Arithmetic 3PC For Any Modulus with Active Security</title>
       <link>https://eprint.iacr.org/2019/164</link>
@@ -307,6 +289,24 @@
       <link>https://eprint.iacr.org/2019/419</link>
       <description>Martin R. Albrecht and Carlos Cid and Lorenzo Grassi and Dmitry Khovratovich and Reinhard Lüftenegger and Christian Rechberger and Markus Schofnegger</description>
       <guid isPermaLink="false">2019/419</guid>
+    </item>
+    <item>
+      <title>Homomorphic Training of 30,000 Logistic Regression Models</title>
+      <link>https://eprint.iacr.org/2019/425</link>
+      <description>Flavio Bergamaschi and Shai Halevi and Tzipora T. Halevi and Hamish Hunt</description>
+      <guid isPermaLink="false">2019/425</guid>
+    </item>
+    <item>
+      <title>Efficient Symmetric Primitives for Advanced Cryptographic Protocols (A Marvellous Contribution)</title>
+      <link>https://eprint.iacr.org/2019/426</link>
+      <description>Abdelrahaman Aly and Tomer Ashur and Eli Ben-Sasson and Siemen Dhooghe and Alan Szepieniec</description>
+      <guid isPermaLink="false">2019/426</guid>
+    </item>
+    <item>
+      <title>Improved Secure Integer Comparison via Homomorphic Encryption</title>
+      <link>https://eprint.iacr.org/2019/427</link>
+      <description>Florian Bourse and Olivier Sanders and Jacques Traoré</description>
+      <guid isPermaLink="false">2019/427</guid>
     </item>
   </channel>
 </rss>

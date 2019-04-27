@@ -1,5 +1,20 @@
 [
 {
+"authors":"Florian Bourse and Olivier Sanders and Jacques Traor\u00e9",
+"id":"2019/427",
+"title":"Improved Secure Integer Comparison via Homomorphic Encryption"
+},
+{
+"authors":"Abdelrahaman Aly and Tomer Ashur and Eli Ben-Sasson and Siemen Dhooghe and Alan Szepieniec",
+"id":"2019/426",
+"title":"Efficient Symmetric Primitives for Advanced Cryptographic Protocols (A Marvellous Contribution)"
+},
+{
+"authors":"Flavio Bergamaschi and Shai Halevi and Tzipora T. Halevi and Hamish Hunt",
+"id":"2019/425",
+"title":"Homomorphic Training of 30,000 Logistic Regression Models"
+},
+{
 "authors":"Martin R. Albrecht and Carlos Cid and Lorenzo Grassi and Dmitry Khovratovich and Reinhard L\u00fcftenegger and Christian Rechberger and Markus Schofnegger",
 "id":"2019/419",
 "title":"Algebraic Cryptanalysis of STARK-Friendly Designs: Application to MARVELlous and MiMC"
