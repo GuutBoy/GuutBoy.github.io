@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Apr 2019 19:25:57 +0000</lastBuildDate>
-    <item>
-      <title>Use your Brain! Arithmetic 3PC For Any Modulus with Active Security</title>
-      <link>https://eprint.iacr.org/2019/164</link>
-      <description>Hendrik Eerikson and Claudio Orlandi and Pille Pullonen and Joonas Puura and Mark Simkin</description>
-      <guid isPermaLink="false">2019/164</guid>
-    </item>
+    <lastBuildDate>Sun, 28 Apr 2019 12:18:52 +0000</lastBuildDate>
     <item>
       <title>XONN: XNOR-based Oblivious Deep Neural Network Inference</title>
       <link>https://eprint.iacr.org/2019/171</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2019/427</link>
       <description>Florian Bourse and Olivier Sanders and Jacques Traoré</description>
       <guid isPermaLink="false">2019/427</guid>
+    </item>
+    <item>
+      <title>ASTRA: High Throughput 3PC over Rings with Application to Secure Prediction</title>
+      <link>https://eprint.iacr.org/2019/429</link>
+      <description>Harsh Chaudhari and Arpita Patra and Ajith Suresh</description>
+      <guid isPermaLink="false">2019/429</guid>
     </item>
   </channel>
 </rss>
