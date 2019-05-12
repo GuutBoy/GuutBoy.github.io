@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Apr 2019 12:18:52 +0000</lastBuildDate>
-    <item>
-      <title>XONN: XNOR-based Oblivious Deep Neural Network Inference</title>
-      <link>https://eprint.iacr.org/2019/171</link>
-      <description>M. Sadegh Riazi and Mohammad Samragh and Hao Chen and Kim Laine and Kristin Lauter and Farinaz Koushanfar</description>
-      <guid isPermaLink="false">2019/171</guid>
-    </item>
-    <item>
-      <title>The Communication Complexity of Threshold Private Set Intersection</title>
-      <link>https://eprint.iacr.org/2019/175</link>
-      <description>Satrajit Ghosh and Mark Simkin</description>
-      <guid isPermaLink="false">2019/175</guid>
-    </item>
-    <item>
-      <title>Homomorphic Encryption for Finite Automata</title>
-      <link>https://eprint.iacr.org/2019/176</link>
-      <description>Nicholas Genise and Craig Gentry and Shai Halevi and Baiyu Li and Daniele Micciancio</description>
-      <guid isPermaLink="false">2019/176</guid>
-    </item>
-    <item>
-      <title>How to Prove a Secret: Zero-Knowledge Proofs on Distributed Data via Fully Linear PCPs</title>
-      <link>https://eprint.iacr.org/2019/188</link>
-      <description>Dan Boneh and Elette Boyle and Henry Corrigan-Gibbs and Niv Gilboa and Yuval Ishai</description>
-      <guid isPermaLink="false">2019/188</guid>
-    </item>
-    <item>
-      <title>Degree 2 is Complete for the Round-Complexity of Malicious MPC</title>
-      <link>https://eprint.iacr.org/2019/200</link>
-      <description>Benny Applebaum and Zvika Brakerski and Rotem Tsabary</description>
-      <guid isPermaLink="false">2019/200</guid>
-    </item>
-    <item>
-      <title>MArBled Circuits: Mixing Arithmetic and Boolean Circuits with Active Security</title>
-      <link>https://eprint.iacr.org/2019/207</link>
-      <description>Dragos Rotaru and Tim Wood</description>
-      <guid isPermaLink="false">2019/207</guid>
-    </item>
+    <lastBuildDate>Sun, 12 May 2019 13:57:30 +0000</lastBuildDate>
     <item>
       <title>Mon$\mathbb{Z}_{2^k}$a: Fast Maliciously Secure Two Party Computation on $\mathbb{Z}_{2^k}$</title>
       <link>https://eprint.iacr.org/2019/211</link>
@@ -307,6 +271,42 @@
       <link>https://eprint.iacr.org/2019/429</link>
       <description>Harsh Chaudhari and Arpita Patra and Ajith Suresh</description>
       <guid isPermaLink="false">2019/429</guid>
+    </item>
+    <item>
+      <title>Efficient coding for secure computing with additively-homomorphic encrypted data</title>
+      <link>https://eprint.iacr.org/2019/437</link>
+      <description>Thijs Veugen</description>
+      <guid isPermaLink="false">2019/437</guid>
+    </item>
+    <item>
+      <title>Efficient Pseudorandom Correlation Generators: Silent OT Extension and More</title>
+      <link>https://eprint.iacr.org/2019/448</link>
+      <description>Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai and Lisa Kohl and Peter Scholl</description>
+      <guid isPermaLink="false">2019/448</guid>
+    </item>
+    <item>
+      <title>Non-Interactive MPC with Trusted Hardware Secure Against Residual Function Attacks</title>
+      <link>https://eprint.iacr.org/2019/454</link>
+      <description>Ryan Karl and Timothy Burchfield and Jonathan Takeshita and Taeho Jung</description>
+      <guid isPermaLink="false">2019/454</guid>
+    </item>
+    <item>
+      <title>Towards a Practical Clustering Analysis over Encrypted Data</title>
+      <link>https://eprint.iacr.org/2019/465</link>
+      <description>Jung Hee Cheon and Duhyeong Kim and Jai Hyun Park</description>
+      <guid isPermaLink="false">2019/465</guid>
+    </item>
+    <item>
+      <title>Privacy-Preserving K-means Clustering with Multiple Data Owners</title>
+      <link>https://eprint.iacr.org/2019/466</link>
+      <description>Jung Hee Cheon and Jinhyuck Jeong and Dohyeong Ki and Jiseung Kim and Joohee Lee and Seok Won Lee</description>
+      <guid isPermaLink="false">2019/466</guid>
+    </item>
+    <item>
+      <title>A Practical Approach to the Secure Computation of the Moore-Penrose Pseudoinverse over the Rationals</title>
+      <link>https://eprint.iacr.org/2019/470</link>
+      <description>Niek J. Bouman and Niels de Vreede</description>
+      <guid isPermaLink="false">2019/470</guid>
     </item>
   </channel>
 </rss>

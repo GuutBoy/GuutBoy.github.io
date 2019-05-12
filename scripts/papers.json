@@ -1,5 +1,35 @@
 [
 {
+"authors":"Niek J. Bouman and Niels de Vreede",
+"id":"2019/470",
+"title":"A Practical Approach to the Secure Computation of the Moore-Penrose Pseudoinverse over the Rationals"
+},
+{
+"authors":"Jung Hee Cheon and Jinhyuck Jeong and Dohyeong Ki and Jiseung Kim and Joohee Lee and Seok Won Lee",
+"id":"2019/466",
+"title":"Privacy-Preserving K-means Clustering with Multiple Data Owners"
+},
+{
+"authors":"Jung Hee Cheon and Duhyeong Kim and Jai Hyun Park",
+"id":"2019/465",
+"title":"Towards a Practical Clustering Analysis over Encrypted Data"
+},
+{
+"authors":"Ryan Karl and Timothy Burchfield and Jonathan Takeshita and Taeho Jung",
+"id":"2019/454",
+"title":"Non-Interactive MPC with Trusted Hardware Secure Against Residual Function Attacks"
+},
+{
+"authors":"Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai and Lisa Kohl and Peter Scholl",
+"id":"2019/448",
+"title":"Efficient Pseudorandom Correlation Generators: Silent OT Extension and More"
+},
+{
+"authors":"Thijs Veugen",
+"id":"2019/437",
+"title":"Efficient coding for secure computing with additively-homomorphic encrypted data"
+},
+{
 "authors":"Harsh Chaudhari and Arpita Patra and Ajith Suresh",
 "id":"2019/429",
 "title":"ASTRA: High Throughput 3PC over Rings with Application to Secure Prediction"
