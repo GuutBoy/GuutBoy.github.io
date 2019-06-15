@@ -1,5 +1,75 @@
 [
 {
+"authors":"Koji Chida and Koki Hamada and Dai Ikarashi and Ryo Kikuchi and Naoto Kiribuchi and Benny Pinkas",
+"id":"2019/695",
+"title":"An Efficient Secure Three-Party Sorting Protocol with an Honest Majority"
+},
+{
+"authors":"Kyoohyung Han and Dohyeong Ki",
+"id":"2019/688",
+"title":"Better Bootstrapping for Approximate Homomorphic Encryption"
+},
+{
+"authors":"Mingjia Huo and Kewen Wu and Qi Ye",
+"id":"2019/677",
+"title":"A Note on Lower Digits Extraction Polynomial for Bootstrapping"
+},
+{
+"authors":"Jun Furukawa and Yehuda Lindell",
+"id":"2019/658",
+"title":"Two-Thirds Honest-Majority MPC for Malicious Adversaries at Almost the Cost of Semi-Honest"
+},
+{
+"authors":"Leonard Assouline and Tianren Liu",
+"id":"2019/657",
+"title":"Multi-Party PSM, Revisited"
+},
+{
+"authors":"Muhammad Ishaq and Ana Milanova and Vassilis Zikas",
+"id":"2019/651",
+"title":"Efficient MPC via Program Analysis: A Framework for Efficient Optimal Mixing"
+},
+{
+"authors":"Vipul Goyal and Yanyi Liu and Yifan Song",
+"id":"2019/646",
+"title":"Communication-Efficient Unconditional MPC with Guaranteed Output Delivery"
+},
+{
+"authors":"Benny Pinkas and Mike Rosulek and Ni Trieu and Avishay Yanai",
+"id":"2019/634",
+"title":"SpOT-Light: Lightweight Private Set Intersection from Sparse OT Extension"
+},
+{
+"authors":"Ariel Hamlin and Justin Holmgren and Mor Weiss and Daniel Wichs",
+"id":"2019/632",
+"title":"On the Plausibility of Fully Homomorphic Encryption for RAMs"
+},
+{
+"authors":"Andrej Bogdanov and Yuval Ishai and Akshayaram Srinivasan",
+"id":"2019/627",
+"title":"Unconditionally Secure Computation Against Low-Complexity Leakage"
+},
+{
+"authors":"Iftach Haitner and Noam Mazor and Ronen Shaltiel and Jad Silbak",
+"id":"2019/616",
+"title":"Channels of Small Log-Ratio Leakage and Characterization of Two-Party Differentially Private Computation"
+},
+{
+"authors":"Ivan Damg\u00e5rd and Daniel Escudero and Tore Frederiksen and Marcel Keller and Peter Scholl and Nikolaj Volgushev",
+"id":"2019/599",
+"title":"New Primitives for Actively-Secure MPC over Rings with Applications to Private Machine Learning"
+},
+{
+"authors":"Christina Boura and Nicolas Gama and Mariya Georgieva and Dimitar Jetchev",
+"id":"2019/591",
+"title":"Simulating Homomorphic Evaluation of Deep Learning Predictions"
+},
+{
+"authors":"Deevashwer Rathee and Thomas Schneider and K. K. Shukla",
+"id":"2019/577",
+"title":"Improved Multiplication Triple Generation over Rings via SHE"
+},
+{
 "authors":"Zhizhu Lian and Yupu Hu and Hu Chen and  Baocang Wang",
 "id":"2019/561",
 "title":"Faster Bootstrapping of FHE over the integers with large prime message space"
