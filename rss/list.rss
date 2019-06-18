@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Jun 2019 17:52:55 +0000</lastBuildDate>
-    <item>
-      <title>Safe Compilation for Encrypted Computing</title>
-      <link>https://eprint.iacr.org/2019/301</link>
-      <description>Peter T. Breuer and Simon Pickin</description>
-      <guid isPermaLink="false">2019/301</guid>
-    </item>
-    <item>
-      <title>Efficient Private Comparison Queries over Encrypted Databases using Fully Homomorphic Encryption with Finite Fields</title>
-      <link>https://eprint.iacr.org/2019/332</link>
-      <description>Benjamin Hong Meng Tan and Hyung Tae Lee and Huaxiong Wang and Shu Qin Ren and Khin Mi Mi Aung</description>
-      <guid isPermaLink="false">2019/332</guid>
-    </item>
-    <item>
-      <title>Practically Efficient Secure Distributed Exponentiation without Bit-Decomposition</title>
-      <link>https://eprint.iacr.org/2019/334</link>
-      <description>Abdelrahaman Aly and Aysajan Abidin and Svetla Nikova </description>
-      <guid isPermaLink="false">2019/334</guid>
-    </item>
-    <item>
-      <title>Garbled Neural Networks are Practical</title>
-      <link>https://eprint.iacr.org/2019/338</link>
-      <description>Marshall Ball and Brent Carmer and Tal Malkin and Mike Rosulek and Nichole Shimanski</description>
-      <guid isPermaLink="false">2019/338</guid>
-    </item>
-    <item>
-      <title>Efficient and Scalable Universal Circuits</title>
-      <link>https://eprint.iacr.org/2019/348</link>
-      <description>Masaud Y. Alhassan and Daniel Günther and Ágnes Kiss and Thomas Schneider</description>
-      <guid isPermaLink="false">2019/348</guid>
-    </item>
-    <item>
-      <title>nGraph-HE: A Graph Compiler for Deep Learning on Homomorphically Encrypted Data</title>
-      <link>https://eprint.iacr.org/2019/350</link>
-      <description>Fabian Boemer and Yixing Lao and Rosario Cammarota and Casimir Wierzynski</description>
-      <guid isPermaLink="false">2019/350</guid>
-    </item>
+    <lastBuildDate>Tue, 18 Jun 2019 20:33:59 +0000</lastBuildDate>
     <item>
       <title>Benchmarking Privacy Preserving Scientific Operations</title>
       <link>https://eprint.iacr.org/2019/354</link>
@@ -307,6 +271,42 @@
       <link>https://eprint.iacr.org/2019/695</link>
       <description>Koji Chida and Koki Hamada and Dai Ikarashi and Ryo Kikuchi and Naoto Kiribuchi and Benny Pinkas</description>
       <guid isPermaLink="false">2019/695</guid>
+    </item>
+    <item>
+      <title>Commodity-Based 2PC for Arithmetic Circuits</title>
+      <link>https://eprint.iacr.org/2019/705</link>
+      <description>Ivan Damgård and Helene Haagh and Michael Nielsen and Claudio Orlandi</description>
+      <guid isPermaLink="false">2019/705</guid>
+    </item>
+    <item>
+      <title>Endemic Oblivious Transfer</title>
+      <link>https://eprint.iacr.org/2019/706</link>
+      <description>Daniel Masny and Peter Rindal</description>
+      <guid isPermaLink="false">2019/706</guid>
+    </item>
+    <item>
+      <title>Secure Computation for Cloud data Storage</title>
+      <link>https://eprint.iacr.org/2019/709</link>
+      <description>Davood Rezaeipour</description>
+      <guid isPermaLink="false">2019/709</guid>
+    </item>
+    <item>
+      <title>Improved Building Blocks for Secure Multi-Party Computation based on Secret Sharing with Honest Majority</title>
+      <link>https://eprint.iacr.org/2019/718</link>
+      <description>Marina Blanton and Ahreum Kang and Chen Yuan</description>
+      <guid isPermaLink="false">2019/718</guid>
+    </item>
+    <item>
+      <title>Leveraging Linear Decryption: Rate-1 Fully-Homomorphic Encryption and Time-Lock Puzzles</title>
+      <link>https://eprint.iacr.org/2019/720</link>
+      <description>Zvika Brakerski and Nico Döttling and Sanjam Garg and Giulio Malavolta </description>
+      <guid isPermaLink="false">2019/720</guid>
+    </item>
+    <item>
+      <title>On Deploying Secure Computing Commercially: Private Intersection-Sum Protocols and their Business Applications</title>
+      <link>https://eprint.iacr.org/2019/723</link>
+      <description>Mihaela Ion and Ben Kreuter and Ahmet Erhan Nergiz and Sarvar Patel and Mariana Raykova and Shobhit Saxena and Karn Seth and David Shanahan and Moti Yung</description>
+      <guid isPermaLink="false">2019/723</guid>
     </item>
   </channel>
 </rss>

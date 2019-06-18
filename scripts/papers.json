@@ -1,5 +1,35 @@
 [
 {
+"authors":"Mihaela Ion and Ben Kreuter and Ahmet Erhan Nergiz and Sarvar Patel and Mariana Raykova and Shobhit Saxena and Karn Seth and David Shanahan and Moti Yung",
+"id":"2019/723",
+"title":"On Deploying Secure Computing Commercially: Private Intersection-Sum Protocols and their Business Applications"
+},
+{
+"authors":"Zvika Brakerski and Nico D\u00f6ttling and Sanjam Garg and Giulio Malavolta ",
+"id":"2019/720",
+"title":"Leveraging Linear Decryption: Rate-1 Fully-Homomorphic Encryption and Time-Lock Puzzles"
+},
+{
+"authors":"Marina Blanton and Ahreum Kang and Chen Yuan",
+"id":"2019/718",
+"title":"Improved Building Blocks for Secure Multi-Party Computation based on Secret Sharing with Honest Majority"
+},
+{
+"authors":"Davood Rezaeipour",
+"id":"2019/709",
+"title":"Secure Computation for Cloud data Storage"
+},
+{
+"authors":"Daniel Masny and Peter Rindal",
+"id":"2019/706",
+"title":"Endemic Oblivious Transfer"
+},
+{
+"authors":"Ivan Damg\u00e5rd and Helene Haagh and Michael Nielsen and Claudio Orlandi",
+"id":"2019/705",
+"title":"Commodity-Based 2PC for Arithmetic Circuits"
+},
+{
 "authors":"Koji Chida and Koki Hamada and Dai Ikarashi and Ryo Kikuchi and Naoto Kiribuchi and Benny Pinkas",
 "id":"2019/695",
 "title":"An Efficient Secure Three-Party Sorting Protocol with an Honest Majority"
