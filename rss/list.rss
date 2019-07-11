@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Jun 2019 20:33:59 +0000</lastBuildDate>
-    <item>
-      <title>Benchmarking Privacy Preserving Scientific Operations</title>
-      <link>https://eprint.iacr.org/2019/354</link>
-      <description>Abdelrahaman Aly and Nigel P. Smart</description>
-      <guid isPermaLink="false">2019/354</guid>
-    </item>
-    <item>
-      <title>SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search</title>
-      <link>https://eprint.iacr.org/2019/359</link>
-      <description>Hao Chen and Ilaria Chillotti and Yihe Dong and Oxana Poburinnaya and Ilya Razenshteyn and M. Sadegh Riazi</description>
-      <guid isPermaLink="false">2019/359</guid>
-    </item>
-    <item>
-      <title>Lower Bounds for Oblivious Near-Neighbor Search</title>
-      <link>https://eprint.iacr.org/2019/377</link>
-      <description>Kasper Green Larsen and Tal Malkin and Omri Weinstein and Kevin Yeo</description>
-      <guid isPermaLink="false">2019/377</guid>
-    </item>
-    <item>
-      <title>A Single Shuffle Is Enough for Secure Card-Based Computation of Any Circuit</title>
-      <link>https://eprint.iacr.org/2019/380</link>
-      <description>Kazumasa Shinagawa and Koji Nuida</description>
-      <guid isPermaLink="false">2019/380</guid>
-    </item>
-    <item>
-      <title>What Storage Access Privacy is Achievable with Small Overhead?</title>
-      <link>https://eprint.iacr.org/2019/384</link>
-      <description>Sarvar Patel and Giuseppe Persiano and Kevin Yeo</description>
-      <guid isPermaLink="false">2019/384</guid>
-    </item>
-    <item>
-      <title>Field Extension in Secret-Shared Form and Its Applications to Efficient Secure Computation</title>
-      <link>https://eprint.iacr.org/2019/386</link>
-      <description>Ryo Kikuchi and Nuttapong Attrapadung and Koki Hamada and Dai Ikarashi and Ai Ishida and Takahiro Matsuda and Yusuke Sakai and Jacob C. N. Schuldt</description>
-      <guid isPermaLink="false">2019/386</guid>
-    </item>
-    <item>
-      <title>Feistel Structures for MPC, and More </title>
-      <link>https://eprint.iacr.org/2019/397</link>
-      <description>Martin R. Albrecht and Lorenzo Grassi and Le&amp;#769;o Perrin and Sebastian Ramacher and Christian Rechberger and Dragos Rotaru and Arnab Roy and Markus Schofnegger</description>
-      <guid isPermaLink="false">2019/397</guid>
-    </item>
+    <lastBuildDate>Thu, 11 Jul 2019 11:00:51 +0000</lastBuildDate>
     <item>
       <title>Two-Round Oblivious Transfer from CDH or LPN</title>
       <link>https://eprint.iacr.org/2019/414</link>
@@ -307,6 +265,48 @@
       <link>https://eprint.iacr.org/2019/723</link>
       <description>Mihaela Ion and Ben Kreuter and Ahmet Erhan Nergiz and Sarvar Patel and Mariana Raykova and Shobhit Saxena and Karn Seth and David Shanahan and Moti Yung</description>
       <guid isPermaLink="false">2019/723</guid>
+    </item>
+    <item>
+      <title>Compressible FHE with Applications to PIR</title>
+      <link>https://eprint.iacr.org/2019/733</link>
+      <description>Craig Gentry and Shai Halevi</description>
+      <guid isPermaLink="false">2019/733</guid>
+    </item>
+    <item>
+      <title>From Usability to Secure Computing and Back Again</title>
+      <link>https://eprint.iacr.org/2019/734</link>
+      <description>Lucy Qin and Andrei Lapets and Frederick Jansen and Peter Flockhart and Kinan Dak Albab and Ira Globus-Harris and Shannon Roberts and Mayank Varia</description>
+      <guid isPermaLink="false">2019/734</guid>
+    </item>
+    <item>
+      <title>Onion Ring ORAM: Efficient Constant Bandwidth Oblivious RAM from (Leveled) TFHE</title>
+      <link>https://eprint.iacr.org/2019/736</link>
+      <description>Hao Chen and Ilaria Chillotti and Ling Ren</description>
+      <guid isPermaLink="false">2019/736</guid>
+    </item>
+    <item>
+      <title>Privacy-Preserving Classification of Personal Text Messages with Secure Multi-Party Computation: An Application to Hate-Speech Detection</title>
+      <link>https://eprint.iacr.org/2019/744</link>
+      <description>Martine De Cock and Rafael Dowsley and Anderson C. A. Nascimento and Devin Reich and Ariel Todoki</description>
+      <guid isPermaLink="false">2019/744</guid>
+    </item>
+    <item>
+      <title>Distributing any Elliptic Curve Based Protocol: With an Application to MixNets</title>
+      <link>https://eprint.iacr.org/2019/768</link>
+      <description>Nigel P. Smart and Younes Talibi Alaoui</description>
+      <guid isPermaLink="false">2019/768</guid>
+    </item>
+    <item>
+      <title>Efficient Secure Ridge Regression from Randomized Gaussian Elimination</title>
+      <link>https://eprint.iacr.org/2019/773</link>
+      <description>Frank Blom and Niek J. Bouman and Berry Schoenmakers and Niels de Vreede</description>
+      <guid isPermaLink="false">2019/773</guid>
+    </item>
+    <item>
+      <title>Scalable Private Set Union from Symmetric-Key Techniques </title>
+      <link>https://eprint.iacr.org/2019/776</link>
+      <description>Vladimir Kolesnikov and Mike Rosulek and Ni Trieu and Xiao Wang</description>
+      <guid isPermaLink="false">2019/776</guid>
     </item>
   </channel>
 </rss>

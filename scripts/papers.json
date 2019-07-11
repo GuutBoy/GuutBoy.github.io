@@ -1,5 +1,40 @@
 [
 {
+"authors":"Vladimir Kolesnikov and Mike Rosulek and Ni Trieu and Xiao Wang",
+"id":"2019/776",
+"title":"Scalable Private Set Union from Symmetric-Key Techniques "
+},
+{
+"authors":"Frank Blom and Niek J. Bouman and Berry Schoenmakers and Niels de Vreede",
+"id":"2019/773",
+"title":"Efficient Secure Ridge Regression from Randomized Gaussian Elimination"
+},
+{
+"authors":"Nigel P. Smart and Younes Talibi Alaoui",
+"id":"2019/768",
+"title":"Distributing any Elliptic Curve Based Protocol: With an Application to MixNets"
+},
+{
+"authors":"Martine De Cock and Rafael Dowsley and Anderson C. A. Nascimento and Devin Reich and Ariel Todoki",
+"id":"2019/744",
+"title":"Privacy-Preserving Classification of Personal Text Messages with Secure Multi-Party Computation: An Application to Hate-Speech Detection"
+},
+{
+"authors":"Hao Chen and Ilaria Chillotti and Ling Ren",
+"id":"2019/736",
+"title":"Onion Ring ORAM: Efficient Constant Bandwidth Oblivious RAM from (Leveled) TFHE"
+},
+{
+"authors":"Lucy Qin and Andrei Lapets and Frederick Jansen and Peter Flockhart and Kinan Dak Albab and Ira Globus-Harris and Shannon Roberts and Mayank Varia",
+"id":"2019/734",
+"title":"From Usability to Secure Computing and Back Again"
+},
+{
+"authors":"Craig Gentry and Shai Halevi",
+"id":"2019/733",
+"title":"Compressible FHE with Applications to PIR"
+},
+{
 "authors":"Mihaela Ion and Ben Kreuter and Ahmet Erhan Nergiz and Sarvar Patel and Mariana Raykova and Shobhit Saxena and Karn Seth and David Shanahan and Moti Yung",
 "id":"2019/723",
 "title":"On Deploying Secure Computing Commercially: Private Intersection-Sum Protocols and their Business Applications"
