@@ -7,67 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jul 2019 11:00:51 +0000</lastBuildDate>
-    <item>
-      <title>Two-Round Oblivious Transfer from CDH or LPN</title>
-      <link>https://eprint.iacr.org/2019/414</link>
-      <description>Nico Dottling and Sanjam Garg and Mohammad Hajiabadi and Daniel Masny and Daniel Wichs</description>
-      <guid isPermaLink="false">2019/414</guid>
-    </item>
-    <item>
-      <title>Numerical Methods for Comparison on Homomorphically Encrypted Numbers</title>
-      <link>https://eprint.iacr.org/2019/417</link>
-      <description>Jung Hee Cheon and Dongwoo Kim and Duhyeong Kim and Hun Hee Lee and Keewoo Lee</description>
-      <guid isPermaLink="false">2019/417</guid>
-    </item>
-    <item>
-      <title>Algebraic Cryptanalysis of STARK-Friendly Designs: Application to MARVELlous and MiMC</title>
-      <link>https://eprint.iacr.org/2019/419</link>
-      <description>Martin R. Albrecht and Carlos Cid and Lorenzo Grassi and Dmitry Khovratovich and Reinhard Lüftenegger and Christian Rechberger and Markus Schofnegger</description>
-      <guid isPermaLink="false">2019/419</guid>
-    </item>
-    <item>
-      <title>Homomorphic Training of 30,000 Logistic Regression Models</title>
-      <link>https://eprint.iacr.org/2019/425</link>
-      <description>Flavio Bergamaschi and Shai Halevi and Tzipora T. Halevi and Hamish Hunt</description>
-      <guid isPermaLink="false">2019/425</guid>
-    </item>
-    <item>
-      <title>Efficient Symmetric Primitives for Advanced Cryptographic Protocols (A Marvellous Contribution)</title>
-      <link>https://eprint.iacr.org/2019/426</link>
-      <description>Abdelrahaman Aly and Tomer Ashur and Eli Ben-Sasson and Siemen Dhooghe and Alan Szepieniec</description>
-      <guid isPermaLink="false">2019/426</guid>
-    </item>
-    <item>
-      <title>Improved Secure Integer Comparison via Homomorphic Encryption</title>
-      <link>https://eprint.iacr.org/2019/427</link>
-      <description>Florian Bourse and Olivier Sanders and Jacques Traoré</description>
-      <guid isPermaLink="false">2019/427</guid>
-    </item>
-    <item>
-      <title>ASTRA: High Throughput 3PC over Rings with Application to Secure Prediction</title>
-      <link>https://eprint.iacr.org/2019/429</link>
-      <description>Harsh Chaudhari and Arpita Patra and Ajith Suresh</description>
-      <guid isPermaLink="false">2019/429</guid>
-    </item>
-    <item>
-      <title>Efficient coding for secure computing with additively-homomorphic encrypted data</title>
-      <link>https://eprint.iacr.org/2019/437</link>
-      <description>Thijs Veugen</description>
-      <guid isPermaLink="false">2019/437</guid>
-    </item>
-    <item>
-      <title>Efficient Pseudorandom Correlation Generators: Silent OT Extension and More</title>
-      <link>https://eprint.iacr.org/2019/448</link>
-      <description>Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai and Lisa Kohl and Peter Scholl</description>
-      <guid isPermaLink="false">2019/448</guid>
-    </item>
-    <item>
-      <title>Non-Interactive MPC with Trusted Hardware Secure Against Residual Function Attacks</title>
-      <link>https://eprint.iacr.org/2019/454</link>
-      <description>Ryan Karl and Timothy Burchfield and Jonathan Takeshita and Taeho Jung</description>
-      <guid isPermaLink="false">2019/454</guid>
-    </item>
+    <lastBuildDate>Wed, 07 Aug 2019 19:07:12 +0000</lastBuildDate>
     <item>
       <title>Towards a Practical Clustering Analysis over Encrypted Data</title>
       <link>https://eprint.iacr.org/2019/465</link>
@@ -307,6 +247,66 @@
       <link>https://eprint.iacr.org/2019/776</link>
       <description>Vladimir Kolesnikov and Mike Rosulek and Ni Trieu and Xiao Wang</description>
       <guid isPermaLink="false">2019/776</guid>
+    </item>
+    <item>
+      <title>Blindfolded Evaluation of Random Forests with Multi-Key Homomorphic Encryption</title>
+      <link>https://eprint.iacr.org/2019/819</link>
+      <description>Asma Aloufi and Peizhao Hu and Harry W. H. Wong and Sherman S. M. Chow</description>
+      <guid isPermaLink="false">2019/819</guid>
+    </item>
+    <item>
+      <title>Universal Location Referencing and Homomorphic Evaluation of Geospatial Query</title>
+      <link>https://eprint.iacr.org/2019/820</link>
+      <description>Asma Aloufi and Peizhao Hu and Hang Liu and Sherman S. M. Chow</description>
+      <guid isPermaLink="false">2019/820</guid>
+    </item>
+    <item>
+      <title>Securely Sampling Biased Coins with Applications to Differential Privacy</title>
+      <link>https://eprint.iacr.org/2019/823</link>
+      <description>Jeffrey Champion and abhi shelat and Jonathan Ullman</description>
+      <guid isPermaLink="false">2019/823</guid>
+    </item>
+    <item>
+      <title>Asymptotically-Good Arithmetic Secret Sharing over Z/(p^\ell Z) with Strong Multiplication and Its Applications to Efficient MPC</title>
+      <link>https://eprint.iacr.org/2019/832</link>
+      <description>Ronald Cramer and Matthieu Rambaud and Chaoping Xing</description>
+      <guid isPermaLink="false">2019/832</guid>
+    </item>
+    <item>
+      <title>Optimizing Transport Layer for Secure Computation</title>
+      <link>https://eprint.iacr.org/2019/836</link>
+      <description>Markus Brandt and Claudio Orlandi and Kris Shrishak and Haya Shulman</description>
+      <guid isPermaLink="false">2019/836</guid>
+    </item>
+    <item>
+      <title>Key recovery attacks on the Legendre PRFs within the birthday bound</title>
+      <link>https://eprint.iacr.org/2019/862</link>
+      <description>Dmitry Khovratovich</description>
+      <guid isPermaLink="false">2019/862</guid>
+    </item>
+    <item>
+      <title>Fast Actively Secure Five-Party Computation with Security Beyond Abort</title>
+      <link>https://eprint.iacr.org/2019/863</link>
+      <description>Megha Byali and Carmit Hazay and Arpita Patra and Swati Singla</description>
+      <guid isPermaLink="false">2019/863</guid>
+    </item>
+    <item>
+      <title>Efficient Information-Theoretic Secure Multiparty Computation over $\mathbb{Z}/p^k \mathbb{Z}$ via Galois Rings</title>
+      <link>https://eprint.iacr.org/2019/872</link>
+      <description>Mark Abspoel and Ronald Cramer and Ivan Damgård and Daniel Escudero and Chen Yuan</description>
+      <guid isPermaLink="false">2019/872</guid>
+    </item>
+    <item>
+      <title>HoneyBadgerMPC and AsynchroMix: Practical AsynchronousMPC and its Application to Anonymous Communication</title>
+      <link>https://eprint.iacr.org/2019/883</link>
+      <description>Donghang Lu and Thomas Yurek and Samarth Kulshreshtha and Rahul Govind and Rahul Mahadev and Aniket Kate and Andrew Miller</description>
+      <guid isPermaLink="false">2019/883</guid>
+    </item>
+    <item>
+      <title>Securing DNSSEC Keys via Threshold ECDSA From Generic MPC</title>
+      <link>https://eprint.iacr.org/2019/889</link>
+      <description>Anders Dalskov and Marcel Keller and Claudio Orlandi and Kris Shrishak and Haya Shulman</description>
+      <guid isPermaLink="false">2019/889</guid>
     </item>
   </channel>
 </rss>

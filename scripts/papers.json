@@ -1,5 +1,55 @@
 [
 {
+"authors":"Anders Dalskov and Marcel Keller and Claudio Orlandi and Kris Shrishak and Haya Shulman",
+"id":"2019/889",
+"title":"Securing DNSSEC Keys via Threshold ECDSA From Generic MPC"
+},
+{
+"authors":"Donghang Lu and Thomas Yurek and Samarth Kulshreshtha and Rahul Govind and Rahul Mahadev and Aniket Kate and Andrew Miller",
+"id":"2019/883",
+"title":"HoneyBadgerMPC and AsynchroMix: Practical AsynchronousMPC and its Application to Anonymous Communication"
+},
+{
+"authors":"Mark Abspoel and Ronald Cramer and Ivan Damg\u00e5rd and Daniel Escudero and Chen Yuan",
+"id":"2019/872",
+"title":"Efficient Information-Theoretic Secure Multiparty Computation over $\\mathbb{Z}/p^k \\mathbb{Z}$ via Galois Rings"
+},
+{
+"authors":"Megha Byali and Carmit Hazay and Arpita Patra and Swati Singla",
+"id":"2019/863",
+"title":"Fast Actively Secure Five-Party Computation with Security Beyond Abort"
+},
+{
+"authors":"Dmitry Khovratovich",
+"id":"2019/862",
+"title":"Key recovery attacks on the Legendre PRFs within the birthday bound"
+},
+{
+"authors":"Markus Brandt and Claudio Orlandi and Kris Shrishak and Haya Shulman",
+"id":"2019/836",
+"title":"Optimizing Transport Layer for Secure Computation"
+},
+{
+"authors":"Ronald Cramer and Matthieu Rambaud and Chaoping Xing",
+"id":"2019/832",
+"title":"Asymptotically-Good Arithmetic Secret Sharing over Z/(p^\\ell Z) with Strong Multiplication and Its Applications to Efficient MPC"
+},
+{
+"authors":"Jeffrey Champion and abhi shelat and Jonathan Ullman",
+"id":"2019/823",
+"title":"Securely Sampling Biased Coins with Applications to Differential Privacy"
+},
+{
+"authors":"Asma Aloufi and Peizhao Hu and Hang Liu and Sherman S. M. Chow",
+"id":"2019/820",
+"title":"Universal Location Referencing and Homomorphic Evaluation of Geospatial Query"
+},
+{
+"authors":"Asma Aloufi and Peizhao Hu and Harry W. H. Wong and Sherman S. M. Chow",
+"id":"2019/819",
+"title":"Blindfolded Evaluation of Random Forests with Multi-Key Homomorphic Encryption"
+},
+{
 "authors":"Vladimir Kolesnikov and Mike Rosulek and Ni Trieu and Xiao Wang",
 "id":"2019/776",
 "title":"Scalable Private Set Union from Symmetric-Key Techniques "
