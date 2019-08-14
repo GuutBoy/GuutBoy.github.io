@@ -1,5 +1,10 @@
 [
 {
+"authors":"Karim Eldefrawy and Vitor Pereira",
+"id":"2019/922",
+"title":"A High-Assurance, Automatically-Synthesized, Evaluator for Machine-Checked (Proactively) Secure Multi-Party Computation"
+},
+{
 "authors":"Anders Dalskov and Marcel Keller and Claudio Orlandi and Kris Shrishak and Haya Shulman",
 "id":"2019/889",
 "title":"Securing DNSSEC Keys via Threshold ECDSA From Generic MPC"

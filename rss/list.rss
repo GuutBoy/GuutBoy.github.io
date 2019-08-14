@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Aug 2019 19:07:12 +0000</lastBuildDate>
-    <item>
-      <title>Towards a Practical Clustering Analysis over Encrypted Data</title>
-      <link>https://eprint.iacr.org/2019/465</link>
-      <description>Jung Hee Cheon and Duhyeong Kim and Jai Hyun Park</description>
-      <guid isPermaLink="false">2019/465</guid>
-    </item>
+    <lastBuildDate>Wed, 14 Aug 2019 19:22:25 +0000</lastBuildDate>
     <item>
       <title>Privacy-Preserving K-means Clustering with Multiple Data Owners</title>
       <link>https://eprint.iacr.org/2019/466</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2019/889</link>
       <description>Anders Dalskov and Marcel Keller and Claudio Orlandi and Kris Shrishak and Haya Shulman</description>
       <guid isPermaLink="false">2019/889</guid>
+    </item>
+    <item>
+      <title>A High-Assurance, Automatically-Synthesized, Evaluator for Machine-Checked (Proactively) Secure Multi-Party Computation</title>
+      <link>https://eprint.iacr.org/2019/922</link>
+      <description>Karim Eldefrawy and Vitor Pereira</description>
+      <guid isPermaLink="false">2019/922</guid>
     </item>
   </channel>
 </rss>
