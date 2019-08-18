@@ -1,5 +1,10 @@
 [
 {
+"authors":"Martin Albrecht and Melissa Chase and Hao Chen and Jintai Ding and Shafi Goldwasser and Sergey Gorbunov and Shai Halevi and Jeffrey Hoffstein and Kim Laine and Kristin Lauter and Satya Lokam and Daniele Micciancio and Dustin Moody and Travis Morrison and Amit Sahai and Vinod Vaikuntanathan ",
+"id":"2019/939",
+"title":"Homomorphic Encryption Standard"
+},
+{
 "authors":"Karim Eldefrawy and Vitor Pereira",
 "id":"2019/922",
 "title":"A High-Assurance, Automatically-Synthesized, Evaluator for Machine-Checked (Proactively) Secure Multi-Party Computation"

@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Aug 2019 19:22:25 +0000</lastBuildDate>
-    <item>
-      <title>Privacy-Preserving K-means Clustering with Multiple Data Owners</title>
-      <link>https://eprint.iacr.org/2019/466</link>
-      <description>Jung Hee Cheon and Jinhyuck Jeong and Dohyeong Ki and Jiseung Kim and Joohee Lee and Seok Won Lee</description>
-      <guid isPermaLink="false">2019/466</guid>
-    </item>
+    <lastBuildDate>Sun, 18 Aug 2019 18:13:40 +0000</lastBuildDate>
     <item>
       <title>A Practical Approach to the Secure Computation of the Moore-Penrose Pseudoinverse over the Rationals</title>
       <link>https://eprint.iacr.org/2019/470</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2019/922</link>
       <description>Karim Eldefrawy and Vitor Pereira</description>
       <guid isPermaLink="false">2019/922</guid>
+    </item>
+    <item>
+      <title>Homomorphic Encryption Standard</title>
+      <link>https://eprint.iacr.org/2019/939</link>
+      <description>Martin Albrecht and Melissa Chase and Hao Chen and Jintai Ding and Shafi Goldwasser and Sergey Gorbunov and Shai Halevi and Jeffrey Hoffstein and Kim Laine and Kristin Lauter and Satya Lokam and Daniele Micciancio and Dustin Moody and Travis Morrison and Amit Sahai and Vinod Vaikuntanathan </description>
+      <guid isPermaLink="false">2019/939</guid>
     </item>
   </channel>
 </rss>
