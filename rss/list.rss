@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Aug 2019 18:13:40 +0000</lastBuildDate>
-    <item>
-      <title>A Practical Approach to the Secure Computation of the Moore-Penrose Pseudoinverse over the Rationals</title>
-      <link>https://eprint.iacr.org/2019/470</link>
-      <description>Niek J. Bouman and Niels de Vreede</description>
-      <guid isPermaLink="false">2019/470</guid>
-    </item>
-    <item>
-      <title>Improved Filter Permutators: Combining Symmetric Encryption Design, Boolean Functions, Low Complexity Cryptography, and Homomorphic Encryption, for Private Delegation of Computations</title>
-      <link>https://eprint.iacr.org/2019/483</link>
-      <description>Pierrick Méaux and Claude Carlet and Anthony Journault and François-Xavier Standaert</description>
-      <guid isPermaLink="false">2019/483</guid>
-    </item>
+    <lastBuildDate>Thu, 22 Aug 2019 07:39:51 +0000</lastBuildDate>
     <item>
       <title>Homomorphic noise growth in practice: comparing BGV and FV</title>
       <link>https://eprint.iacr.org/2019/493</link>
@@ -307,6 +295,18 @@
       <link>https://eprint.iacr.org/2019/939</link>
       <description>Martin Albrecht and Melissa Chase and Hao Chen and Jintai Ding and Shafi Goldwasser and Sergey Gorbunov and Shai Halevi and Jeffrey Hoffstein and Kim Laine and Kristin Lauter and Satya Lokam and Daniele Micciancio and Dustin Moody and Travis Morrison and Amit Sahai and Vinod Vaikuntanathan </description>
       <guid isPermaLink="false">2019/939</guid>
+    </item>
+    <item>
+      <title>nGraph-HE2: A High-Throughput Framework for Neural Network Inference on Encrypted Data</title>
+      <link>https://eprint.iacr.org/2019/947</link>
+      <description>Fabian Boemer and Anamaria Costache and Rosario Cammarota and Casimir Wierzynski </description>
+      <guid isPermaLink="false">2019/947</guid>
+    </item>
+    <item>
+      <title>Collisions on Feistel-MiMC and univariate GMiMC</title>
+      <link>https://eprint.iacr.org/2019/951</link>
+      <description>Xavier Bonnetain</description>
+      <guid isPermaLink="false">2019/951</guid>
     </item>
   </channel>
 </rss>

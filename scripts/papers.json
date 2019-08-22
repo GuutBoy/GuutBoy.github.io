@@ -1,5 +1,15 @@
 [
 {
+"authors":"Xavier Bonnetain",
+"id":"2019/951",
+"title":"Collisions on Feistel-MiMC and univariate GMiMC"
+},
+{
+"authors":"Fabian Boemer and Anamaria Costache and Rosario Cammarota and Casimir Wierzynski ",
+"id":"2019/947",
+"title":"nGraph-HE2: A High-Throughput Framework for Neural Network Inference on Encrypted Data"
+},
+{
 "authors":"Martin Albrecht and Melissa Chase and Hao Chen and Jintai Ding and Shafi Goldwasser and Sergey Gorbunov and Shai Halevi and Jeffrey Hoffstein and Kim Laine and Kristin Lauter and Satya Lokam and Daniele Micciancio and Dustin Moody and Travis Morrison and Amit Sahai and Vinod Vaikuntanathan ",
 "id":"2019/939",
 "title":"Homomorphic Encryption Standard"
