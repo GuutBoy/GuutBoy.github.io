@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Aug 2019 07:39:51 +0000</lastBuildDate>
-    <item>
-      <title>Homomorphic noise growth in practice: comparing BGV and FV</title>
-      <link>https://eprint.iacr.org/2019/493</link>
-      <description>Anamaria Costache and Kim Laine and Rachel Player</description>
-      <guid isPermaLink="false">2019/493</guid>
-    </item>
-    <item>
-      <title>An HPR variant of the FV scheme: Computationally Cheaper, Asymptotically Faster</title>
-      <link>https://eprint.iacr.org/2019/500</link>
-      <description>Jean-Claude Bajard and Julien Eynard and Paulo Martins and Leonel Sousa and Vincent Zucca</description>
-      <guid isPermaLink="false">2019/500</guid>
-    </item>
-    <item>
-      <title>Two-Party ECDSA from Hash Proof Systems and Efficient Instantiations</title>
-      <link>https://eprint.iacr.org/2019/503</link>
-      <description>Guilhem Castagnos and Dario Catalano and  Fabien Laguillaumie and Federico Savasta and Ida Tucker</description>
-      <guid isPermaLink="false">2019/503</guid>
-    </item>
+    <lastBuildDate>Wed, 28 Aug 2019 06:22:50 +0000</lastBuildDate>
     <item>
       <title>Mobile Private Contact Discovery at Scale</title>
       <link>https://eprint.iacr.org/2019/517</link>
@@ -307,6 +289,24 @@
       <link>https://eprint.iacr.org/2019/951</link>
       <description>Xavier Bonnetain</description>
       <guid isPermaLink="false">2019/951</guid>
+    </item>
+    <item>
+      <title>TaaS: Commodity MPC via Triples-as-a-Service</title>
+      <link>https://eprint.iacr.org/2019/957</link>
+      <description>Nigel P. Smart and Titouan Tanguy</description>
+      <guid isPermaLink="false">2019/957</guid>
+    </item>
+    <item>
+      <title>Computing across Trust Boundaries using Distributed Homomorphic Cryptography</title>
+      <link>https://eprint.iacr.org/2019/961</link>
+      <description>Christian Mouchet and Juan Troncoso-Pastoriza and Jean-Pierre Hubaux</description>
+      <guid isPermaLink="false">2019/961</guid>
+    </item>
+    <item>
+      <title>Faster homomorphic encryption is not enough: improved heuristic for multiplicative depth minimization of Boolean circuits</title>
+      <link>https://eprint.iacr.org/2019/963</link>
+      <description>Pascal Aubry and Sergiu Carpov and Renaud Sirdey</description>
+      <guid isPermaLink="false">2019/963</guid>
     </item>
   </channel>
 </rss>

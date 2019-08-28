@@ -1,5 +1,20 @@
 [
 {
+"authors":"Pascal Aubry and Sergiu Carpov and Renaud Sirdey",
+"id":"2019/963",
+"title":"Faster homomorphic encryption is not enough: improved heuristic for multiplicative depth minimization of Boolean circuits"
+},
+{
+"authors":"Christian Mouchet and Juan Troncoso-Pastoriza and Jean-Pierre Hubaux",
+"id":"2019/961",
+"title":"Computing across Trust Boundaries using Distributed Homomorphic Cryptography"
+},
+{
+"authors":"Nigel P. Smart and Titouan Tanguy",
+"id":"2019/957",
+"title":"TaaS: Commodity MPC via Triples-as-a-Service"
+},
+{
 "authors":"Xavier Bonnetain",
 "id":"2019/951",
 "title":"Collisions on Feistel-MiMC and univariate GMiMC"
