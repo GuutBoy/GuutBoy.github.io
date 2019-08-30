@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Aug 2019 06:22:50 +0000</lastBuildDate>
-    <item>
-      <title>Mobile Private Contact Discovery at Scale</title>
-      <link>https://eprint.iacr.org/2019/517</link>
-      <description>Daniel Kales and Christian Rechberger and Thomas Schneider and Matthias Senker and Christian Weinert</description>
-      <guid isPermaLink="false">2019/517</guid>
-    </item>
-    <item>
-      <title>Fast Database Joins for Secret Shared Data</title>
-      <link>https://eprint.iacr.org/2019/518</link>
-      <description>Payman Mohassel and Peter Rindal and Mike Rosulek</description>
-      <guid isPermaLink="false">2019/518</guid>
-    </item>
-    <item>
-      <title>Fully Homomorphic Encryption with k-bit Arithmetic Operations</title>
-      <link>https://eprint.iacr.org/2019/521</link>
-      <description>Benjamin M. Case and Shuhong Gao and Gengran Hu and Qiuxia Xu</description>
-      <guid isPermaLink="false">2019/521</guid>
-    </item>
+    <lastBuildDate>Fri, 30 Aug 2019 06:34:50 +0000</lastBuildDate>
     <item>
       <title>Threshold ECDSA from ECDSA Assumptions: The Multiparty Case</title>
       <link>https://eprint.iacr.org/2019/523</link>
@@ -307,6 +289,24 @@
       <link>https://eprint.iacr.org/2019/963</link>
       <description>Pascal Aubry and Sergiu Carpov and Renaud Sirdey</description>
       <guid isPermaLink="false">2019/963</guid>
+    </item>
+    <item>
+      <title>Zaphod: Efficiently Combing LSSS and Garbled Circuits in SCALE</title>
+      <link>https://eprint.iacr.org/2019/974</link>
+      <description>Abdelrahaman Aly and Emmanuela Orsini and Drago Rotaru and Nigel P. Smart and Tim Wood</description>
+      <guid isPermaLink="false">2019/974</guid>
+    </item>
+    <item>
+      <title>Towards real-time hidden speaker recognition by means of fully homomorphic encryption</title>
+      <link>https://eprint.iacr.org/2019/976</link>
+      <description>Martin Zuber and Sergiu Carpov and Renaud Sirdey</description>
+      <guid isPermaLink="false">2019/976</guid>
+    </item>
+    <item>
+      <title>PrivFL: Practical Privacy-preserving Federated Regressions on High-dimensional Data over Mobile Networks</title>
+      <link>https://eprint.iacr.org/2019/979</link>
+      <description>Kalikinkar Mandal and Guang Gong</description>
+      <guid isPermaLink="false">2019/979</guid>
     </item>
   </channel>
 </rss>

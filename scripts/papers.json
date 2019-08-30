@@ -1,5 +1,20 @@
 [
 {
+"authors":"Kalikinkar Mandal and Guang Gong",
+"id":"2019/979",
+"title":"PrivFL: Practical Privacy-preserving Federated Regressions on High-dimensional Data over Mobile Networks"
+},
+{
+"authors":"Martin Zuber and Sergiu Carpov and Renaud Sirdey",
+"id":"2019/976",
+"title":"Towards real-time hidden speaker recognition by means of fully homomorphic encryption"
+},
+{
+"authors":"Abdelrahaman Aly and Emmanuela Orsini and Drago Rotaru and Nigel P. Smart and Tim Wood",
+"id":"2019/974",
+"title":"Zaphod: Efficiently Combing LSSS and Garbled Circuits in SCALE"
+},
+{
 "authors":"Pascal Aubry and Sergiu Carpov and Renaud Sirdey",
 "id":"2019/963",
 "title":"Faster homomorphic encryption is not enough: improved heuristic for multiplicative depth minimization of Boolean circuits"
