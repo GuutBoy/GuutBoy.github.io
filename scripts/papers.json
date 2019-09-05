@@ -1,5 +1,10 @@
 [
 {
+"authors":"David W. Archer and Jose Manuel Calderon Trilla and Jason Dagit and Alex J. Malozemoff and Yuriy Polyakov and Kurt Rohloff and Gerard Ryan",
+"id":"2019/988",
+"title":"RAMPARTS: A Programmer-Friendly System for Building Homomorphic Encryption Applications"
+},
+{
 "authors":"Kalikinkar Mandal and Guang Gong",
 "id":"2019/979",
 "title":"PrivFL: Practical Privacy-preserving Federated Regressions on High-dimensional Data over Mobile Networks"
