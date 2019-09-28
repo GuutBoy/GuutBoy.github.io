@@ -7,67 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Sep 2019 07:08:38 +0000</lastBuildDate>
-    <item>
-      <title>Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference</title>
-      <link>https://eprint.iacr.org/2019/524</link>
-      <description>Hao Chen and Wei Dai and Miran Kim and Yongsoo Song</description>
-      <guid isPermaLink="false">2019/524</guid>
-    </item>
-    <item>
-      <title>Faster Bootstrapping of FHE over the integers with large prime message space</title>
-      <link>https://eprint.iacr.org/2019/561</link>
-      <description>Zhizhu Lian and Yupu Hu and Hu Chen and  Baocang Wang</description>
-      <guid isPermaLink="false">2019/561</guid>
-    </item>
-    <item>
-      <title>Improved Multiplication Triple Generation over Rings via SHE</title>
-      <link>https://eprint.iacr.org/2019/577</link>
-      <description>Deevashwer Rathee and Thomas Schneider and K. K. Shukla</description>
-      <guid isPermaLink="false">2019/577</guid>
-    </item>
-    <item>
-      <title>Simulating Homomorphic Evaluation of Deep Learning Predictions</title>
-      <link>https://eprint.iacr.org/2019/591</link>
-      <description>Christina Boura and Nicolas Gama and Mariya Georgieva and Dimitar Jetchev</description>
-      <guid isPermaLink="false">2019/591</guid>
-    </item>
-    <item>
-      <title>New Primitives for Actively-Secure MPC over Rings with Applications to Private Machine Learning</title>
-      <link>https://eprint.iacr.org/2019/599</link>
-      <description>Ivan Damgård and Daniel Escudero and Tore Frederiksen and Marcel Keller and Peter Scholl and Nikolaj Volgushev</description>
-      <guid isPermaLink="false">2019/599</guid>
-    </item>
-    <item>
-      <title>Channels of Small Log-Ratio Leakage and Characterization of Two-Party Differentially Private Computation</title>
-      <link>https://eprint.iacr.org/2019/616</link>
-      <description>Iftach Haitner and Noam Mazor and Ronen Shaltiel and Jad Silbak</description>
-      <guid isPermaLink="false">2019/616</guid>
-    </item>
-    <item>
-      <title>Unconditionally Secure Computation Against Low-Complexity Leakage</title>
-      <link>https://eprint.iacr.org/2019/627</link>
-      <description>Andrej Bogdanov and Yuval Ishai and Akshayaram Srinivasan</description>
-      <guid isPermaLink="false">2019/627</guid>
-    </item>
-    <item>
-      <title>On the Plausibility of Fully Homomorphic Encryption for RAMs</title>
-      <link>https://eprint.iacr.org/2019/632</link>
-      <description>Ariel Hamlin and Justin Holmgren and Mor Weiss and Daniel Wichs</description>
-      <guid isPermaLink="false">2019/632</guid>
-    </item>
-    <item>
-      <title>SpOT-Light: Lightweight Private Set Intersection from Sparse OT Extension</title>
-      <link>https://eprint.iacr.org/2019/634</link>
-      <description>Benny Pinkas and Mike Rosulek and Ni Trieu and Avishay Yanai</description>
-      <guid isPermaLink="false">2019/634</guid>
-    </item>
-    <item>
-      <title>Communication-Efficient Unconditional MPC with Guaranteed Output Delivery</title>
-      <link>https://eprint.iacr.org/2019/646</link>
-      <description>Vipul Goyal and Yanyi Liu and Yifan Song</description>
-      <guid isPermaLink="false">2019/646</guid>
-    </item>
+    <lastBuildDate>Sat, 28 Sep 2019 18:01:02 +0000</lastBuildDate>
     <item>
       <title>Efficient MPC via Program Analysis: A Framework for Efficient Optimal Mixing</title>
       <link>https://eprint.iacr.org/2019/651</link>
@@ -307,6 +247,66 @@
       <link>https://eprint.iacr.org/2019/988</link>
       <description>David W. Archer and Jose Manuel Calderon Trilla and Jason Dagit and Alex J. Malozemoff and Yuriy Polyakov and Kurt Rohloff and Gerard Ryan</description>
       <guid isPermaLink="false">2019/988</guid>
+    </item>
+    <item>
+      <title>Randomly Rotate Qubits Compute and Reverse --- IT-Secure Non-Interactive Fully-Compact Homomorphic Quantum Computations over Classical Data Using Random Bases</title>
+      <link>https://eprint.iacr.org/2019/1023</link>
+      <description>Dor Bitan and Shlomi Dolev</description>
+      <guid isPermaLink="false">2019/1023</guid>
+    </item>
+    <item>
+      <title>Optimal-Round Preprocessing-MPC via Polynomial Representation and Distributed Random Matrix (extended abstract)</title>
+      <link>https://eprint.iacr.org/2019/1024</link>
+      <description>Dor Bitan and Shlomi Dolev</description>
+      <guid isPermaLink="false">2019/1024</guid>
+    </item>
+    <item>
+      <title>On Fully Secure MPC with Solitary Output </title>
+      <link>https://eprint.iacr.org/2019/1032</link>
+      <description>Shai Halevi and Yuval Ishai and Eyal Kushilevitz and Nikolaos Makriyannis and Tal Rabin</description>
+      <guid isPermaLink="false">2019/1032</guid>
+    </item>
+    <item>
+      <title>CrypTFlow: Secure TensorFlow Inference</title>
+      <link>https://eprint.iacr.org/2019/1049</link>
+      <description>Nishant Kumar and Mayank Rathee and Nishanth Chandran and Divya Gupta and Aseem Rastogi and Rahul Sharma</description>
+      <guid isPermaLink="false">2019/1049</guid>
+    </item>
+    <item>
+      <title>HEAX: High-Performance Architecture for Computation on Homomorphically Encrypted Data in the Cloud</title>
+      <link>https://eprint.iacr.org/2019/1066</link>
+      <description>M. Sadegh Riazi and Kim Laine and Blake Pelton and Wei Dai</description>
+      <guid isPermaLink="false">2019/1066</guid>
+    </item>
+    <item>
+      <title>Efficient Private PEZ Protocols for Symmetric Functions</title>
+      <link>https://eprint.iacr.org/2019/1069</link>
+      <description>Yoshiki Abe and Mitsugu Iwamoto and Kazuo Ohta</description>
+      <guid isPermaLink="false">2019/1069</guid>
+    </item>
+    <item>
+      <title>Adaptively Secure Garbling Schemes for Parallel Computations</title>
+      <link>https://eprint.iacr.org/2019/1077</link>
+      <description>Kai-Min Chung; Luowen Qian</description>
+      <guid isPermaLink="false">2019/1077</guid>
+    </item>
+    <item>
+      <title>On the Security of Multikey Homomorphic Encryption</title>
+      <link>https://eprint.iacr.org/2019/1082</link>
+      <description>Hyang-Sook Lee and Jeongeun Park</description>
+      <guid isPermaLink="false">2019/1082</guid>
+    </item>
+    <item>
+      <title>Distributed Vector-OLE: Improved Constructions and Implementation</title>
+      <link>https://eprint.iacr.org/2019/1084</link>
+      <description>Phillipp Schoppmann and Adrià Gascón and Leonie Reichert and Mariana Raykova</description>
+      <guid isPermaLink="false">2019/1084</guid>
+    </item>
+    <item>
+      <title>Cryptanalysis of a Protocol for Efficient Sorting on SHE Encrypted Data </title>
+      <link>https://eprint.iacr.org/2019/1087</link>
+      <description>Shyam Murthy and Srinivas Vivek</description>
+      <guid isPermaLink="false">2019/1087</guid>
     </item>
   </channel>
 </rss>

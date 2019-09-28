@@ -1,5 +1,55 @@
 [
 {
+"authors":"Shyam Murthy and Srinivas Vivek",
+"id":"2019/1087",
+"title":"Cryptanalysis of a Protocol for Efficient Sorting on SHE Encrypted Data "
+},
+{
+"authors":"Phillipp Schoppmann and Adri\u00e0 Gasc\u00f3n and Leonie Reichert and Mariana Raykova",
+"id":"2019/1084",
+"title":"Distributed Vector-OLE: Improved Constructions and Implementation"
+},
+{
+"authors":"Hyang-Sook Lee and Jeongeun Park",
+"id":"2019/1082",
+"title":"On the Security of Multikey Homomorphic Encryption"
+},
+{
+"authors":"Kai-Min Chung; Luowen Qian",
+"id":"2019/1077",
+"title":"Adaptively Secure Garbling Schemes for Parallel Computations"
+},
+{
+"authors":"Yoshiki Abe and Mitsugu Iwamoto and Kazuo Ohta",
+"id":"2019/1069",
+"title":"Efficient Private PEZ Protocols for Symmetric Functions"
+},
+{
+"authors":"M. Sadegh Riazi and Kim Laine and Blake Pelton and Wei Dai",
+"id":"2019/1066",
+"title":"HEAX: High-Performance Architecture for Computation on Homomorphically Encrypted Data in the Cloud"
+},
+{
+"authors":"Nishant Kumar and Mayank Rathee and Nishanth Chandran and Divya Gupta and Aseem Rastogi and Rahul Sharma",
+"id":"2019/1049",
+"title":"CrypTFlow: Secure TensorFlow Inference"
+},
+{
+"authors":"Shai Halevi and Yuval Ishai and Eyal Kushilevitz and Nikolaos Makriyannis and Tal Rabin",
+"id":"2019/1032",
+"title":"On Fully Secure MPC with Solitary Output "
+},
+{
+"authors":"Dor Bitan and Shlomi Dolev",
+"id":"2019/1024",
+"title":"Optimal-Round Preprocessing-MPC via Polynomial Representation and Distributed Random Matrix (extended abstract)"
+},
+{
+"authors":"Dor Bitan and Shlomi Dolev",
+"id":"2019/1023",
+"title":"Randomly Rotate Qubits Compute and Reverse --- IT-Secure Non-Interactive Fully-Compact Homomorphic Quantum Computations over Classical Data Using Random Bases"
+},
+{
 "authors":"David W. Archer and Jose Manuel Calderon Trilla and Jason Dagit and Alex J. Malozemoff and Yuriy Polyakov and Kurt Rohloff and Gerard Ryan",
 "id":"2019/988",
 "title":"RAMPARTS: A Programmer-Friendly System for Building Homomorphic Encryption Applications"
