@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Sep 2019 18:01:02 +0000</lastBuildDate>
-    <item>
-      <title>Efficient MPC via Program Analysis: A Framework for Efficient Optimal Mixing</title>
-      <link>https://eprint.iacr.org/2019/651</link>
-      <description>Muhammad Ishaq and Ana Milanova and Vassilis Zikas</description>
-      <guid isPermaLink="false">2019/651</guid>
-    </item>
-    <item>
-      <title>Multi-Party PSM, Revisited</title>
-      <link>https://eprint.iacr.org/2019/657</link>
-      <description>Leonard Assouline and Tianren Liu</description>
-      <guid isPermaLink="false">2019/657</guid>
-    </item>
-    <item>
-      <title>Two-Thirds Honest-Majority MPC for Malicious Adversaries at Almost the Cost of Semi-Honest</title>
-      <link>https://eprint.iacr.org/2019/658</link>
-      <description>Jun Furukawa and Yehuda Lindell</description>
-      <guid isPermaLink="false">2019/658</guid>
-    </item>
-    <item>
-      <title>A Note on Lower Digits Extraction Polynomial for Bootstrapping</title>
-      <link>https://eprint.iacr.org/2019/677</link>
-      <description>Mingjia Huo and Kewen Wu and Qi Ye</description>
-      <guid isPermaLink="false">2019/677</guid>
-    </item>
-    <item>
-      <title>Better Bootstrapping for Approximate Homomorphic Encryption</title>
-      <link>https://eprint.iacr.org/2019/688</link>
-      <description>Kyoohyung Han and Dohyeong Ki</description>
-      <guid isPermaLink="false">2019/688</guid>
-    </item>
-    <item>
-      <title>An Efficient Secure Three-Party Sorting Protocol with an Honest Majority</title>
-      <link>https://eprint.iacr.org/2019/695</link>
-      <description>Koji Chida and Koki Hamada and Dai Ikarashi and Ryo Kikuchi and Naoto Kiribuchi and Benny Pinkas</description>
-      <guid isPermaLink="false">2019/695</guid>
-    </item>
-    <item>
-      <title>Commodity-Based 2PC for Arithmetic Circuits</title>
-      <link>https://eprint.iacr.org/2019/705</link>
-      <description>Ivan Damgård and Helene Haagh and Michael Nielsen and Claudio Orlandi</description>
-      <guid isPermaLink="false">2019/705</guid>
-    </item>
+    <lastBuildDate>Tue, 01 Oct 2019 08:10:50 +0000</lastBuildDate>
     <item>
       <title>Endemic Oblivious Transfer</title>
       <link>https://eprint.iacr.org/2019/706</link>
@@ -307,6 +265,48 @@
       <link>https://eprint.iacr.org/2019/1087</link>
       <description>Shyam Murthy and Srinivas Vivek</description>
       <guid isPermaLink="false">2019/1087</guid>
+    </item>
+    <item>
+      <title>Beyond Honest Majority: The Round Complexity of Fair and Robust Multi-party Computation</title>
+      <link>https://eprint.iacr.org/2019/998</link>
+      <description>Arpita Patra and Divya Ravi</description>
+      <guid isPermaLink="false">2019/998</guid>
+    </item>
+    <item>
+      <title>Is Information-Theoretic Topology-Hiding Computation Possible?</title>
+      <link>https://eprint.iacr.org/2019/1094</link>
+      <description>Marshall Ball and Elette Boyle and Ran Cohen and Tal Malkin and Tal Moran</description>
+      <guid isPermaLink="false">2019/1094</guid>
+    </item>
+    <item>
+      <title>Secure Computation with Preprocessing via Function Secret Sharing</title>
+      <link>https://eprint.iacr.org/2019/1095</link>
+      <description>Elette Boyle and Niv Gilboa and Yuval Ishai</description>
+      <guid isPermaLink="false">2019/1095</guid>
+    </item>
+    <item>
+      <title>Full-Threshold Actively-Secure Multiparty Arithmetic Circuit Garbling</title>
+      <link>https://eprint.iacr.org/2019/1098</link>
+      <description>Eleftheria Makri and Tim Wood </description>
+      <guid isPermaLink="false">2019/1098</guid>
+    </item>
+    <item>
+      <title>More Efficient MPC from Improved Triple Generation and Authenticated Garbling</title>
+      <link>https://eprint.iacr.org/2019/1104</link>
+      <description>Kang Yang and Xiao Wang and Jiang Zhang</description>
+      <guid isPermaLink="false">2019/1104</guid>
+    </item>
+    <item>
+      <title>On a Generalization of Substitution-Permutation Networks: The HADES Design Strategy</title>
+      <link>https://eprint.iacr.org/2019/1107</link>
+      <description>Lorenzo Grassi and Reinhard Lüftenegger and Christian Rechberger and Dragos Rotaru and Markus Schofnegger</description>
+      <guid isPermaLink="false">2019/1107</guid>
+    </item>
+    <item>
+      <title>Lower Bounds for Multi-Server Oblivious RAMs</title>
+      <link>https://eprint.iacr.org/2019/1108</link>
+      <description>Kasper Green Larsen and Mark Simkin and Kevin Yeo</description>
+      <guid isPermaLink="false">2019/1108</guid>
     </item>
   </channel>
 </rss>

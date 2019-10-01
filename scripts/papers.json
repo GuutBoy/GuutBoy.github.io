@@ -1,5 +1,40 @@
 [
 {
+"authors":"Kasper Green Larsen and Mark Simkin and Kevin Yeo",
+"id":"2019/1108",
+"title":"Lower Bounds for Multi-Server Oblivious RAMs"
+},
+{
+"authors":"Lorenzo Grassi and Reinhard L\u00fcftenegger and Christian Rechberger and Dragos Rotaru and Markus Schofnegger",
+"id":"2019/1107",
+"title":"On a Generalization of Substitution-Permutation Networks: The HADES Design Strategy"
+},
+{
+"authors":"Kang Yang and Xiao Wang and Jiang Zhang",
+"id":"2019/1104",
+"title":"More Efficient MPC from Improved Triple Generation and Authenticated Garbling"
+},
+{
+"authors":"Eleftheria Makri and Tim Wood ",
+"id":"2019/1098",
+"title":"Full-Threshold Actively-Secure Multiparty Arithmetic Circuit Garbling"
+},
+{
+"authors":"Elette Boyle and Niv Gilboa and Yuval Ishai",
+"id":"2019/1095",
+"title":"Secure Computation with Preprocessing via Function Secret Sharing"
+},
+{
+"authors":"Marshall Ball and Elette Boyle and Ran Cohen and Tal Malkin and Tal Moran",
+"id":"2019/1094",
+"title":"Is Information-Theoretic Topology-Hiding Computation Possible?"
+},
+{
+"authors":"Arpita Patra and Divya Ravi",
+"id":"2019/998",
+"title":"Beyond Honest Majority: The Round Complexity of Fair and Robust Multi-party Computation"
+},
+{
 "authors":"Shyam Murthy and Srinivas Vivek",
 "id":"2019/1087",
 "title":"Cryptanalysis of a Protocol for Efficient Sorting on SHE Encrypted Data "
