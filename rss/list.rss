@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Oct 2019 08:10:50 +0000</lastBuildDate>
-    <item>
-      <title>Endemic Oblivious Transfer</title>
-      <link>https://eprint.iacr.org/2019/706</link>
-      <description>Daniel Masny and Peter Rindal</description>
-      <guid isPermaLink="false">2019/706</guid>
-    </item>
-    <item>
-      <title>Secure Computation for Cloud data Storage</title>
-      <link>https://eprint.iacr.org/2019/709</link>
-      <description>Davood Rezaeipour</description>
-      <guid isPermaLink="false">2019/709</guid>
-    </item>
-    <item>
-      <title>Improved Building Blocks for Secure Multi-Party Computation based on Secret Sharing with Honest Majority</title>
-      <link>https://eprint.iacr.org/2019/718</link>
-      <description>Marina Blanton and Ahreum Kang and Chen Yuan</description>
-      <guid isPermaLink="false">2019/718</guid>
-    </item>
+    <lastBuildDate>Mon, 07 Oct 2019 19:15:08 +0000</lastBuildDate>
     <item>
       <title>Leveraging Linear Decryption: Rate-1 Fully-Homomorphic Encryption and Time-Lock Puzzles</title>
       <link>https://eprint.iacr.org/2019/720</link>
@@ -307,6 +289,24 @@
       <link>https://eprint.iacr.org/2019/1108</link>
       <description>Kasper Green Larsen and Mark Simkin and Kevin Yeo</description>
       <guid isPermaLink="false">2019/1108</guid>
+    </item>
+    <item>
+      <title>Towards a Homomorphic Machine Learning Big Data Pipeline for the Financial Services Sector</title>
+      <link>https://eprint.iacr.org/2019/1113</link>
+      <description>Oliver Masters and Hamish Hunt and Enrico Steffinlongo and Jack Crawford and Flavio Bergamaschi</description>
+      <guid isPermaLink="false">2019/1113</guid>
+    </item>
+    <item>
+      <title>Practical Privacy-Preserving K-means Clustering</title>
+      <link>https://eprint.iacr.org/2019/1158</link>
+      <description>Payman Mohassel and Mike Rosulek and Ni Trieu</description>
+      <guid isPermaLink="false">2019/1158</guid>
+    </item>
+    <item>
+      <title>Efficient Two-Round OT Extension and Silent Non-Interactive Secure Computation</title>
+      <link>https://eprint.iacr.org/2019/1159</link>
+      <description>Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai and Lisa Kohl and Peter Rindal and Peter Scholl</description>
+      <guid isPermaLink="false">2019/1159</guid>
     </item>
   </channel>
 </rss>

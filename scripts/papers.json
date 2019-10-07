@@ -1,5 +1,20 @@
 [
 {
+"authors":"Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai and Lisa Kohl and Peter Rindal and Peter Scholl",
+"id":"2019/1159",
+"title":"Efficient Two-Round OT Extension and Silent Non-Interactive Secure Computation"
+},
+{
+"authors":"Payman Mohassel and Mike Rosulek and Ni Trieu",
+"id":"2019/1158",
+"title":"Practical Privacy-Preserving K-means Clustering"
+},
+{
+"authors":"Oliver Masters and Hamish Hunt and Enrico Steffinlongo and Jack Crawford and Flavio Bergamaschi",
+"id":"2019/1113",
+"title":"Towards a Homomorphic Machine Learning Big Data Pipeline for the Financial Services Sector"
+},
+{
 "authors":"Kasper Green Larsen and Mark Simkin and Kevin Yeo",
 "id":"2019/1108",
 "title":"Lower Bounds for Multi-Server Oblivious RAMs"
