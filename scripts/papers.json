@@ -1,5 +1,95 @@
 [
 {
+"authors":"Asra Ali and Tancr\u00e8de Lepoint and Sarvar Patel and Mariana Raykova and Phillipp Schoppmann and Karn Seth and Kevin Yeo",
+"id":"2019/1483",
+"title":"Communication--Computation Trade-offs in PIR"
+},
+{
+"authors":"Sigurd Eskeland",
+"id":"2019/1462",
+"title":"Privacy-preserving greater-than integer comparison without binary decomposition"
+},
+{
+"authors":"David Butler and David Aspinall and Adria Gascon",
+"id":"2019/1449",
+"title":"Formalising Oblivious Transfer in the Semi-Honest and Malicious Model in CryptHOL"
+},
+{
+"authors":"Claude Carlet and Pierrick M\u00e9aux",
+"id":"2019/1446",
+"title":"Boolean functions for homomorphic-friendly stream ciphers"
+},
+{
+"authors":"Vincent HERBERT",
+"id":"2019/1402",
+"title":"Automatize parameter tuning in Ring-Learning-With-Errors-based leveled homomorphic cryptosystem implementations"
+},
+{
+"authors":"Elette Boyle and Niv Gilboa and Yuval Ishai and Ariel Nof",
+"id":"2019/1390",
+"title":"Practical Fully Secure Three-Party Computation via Sublinear Distributed Zero-Knowledge Proofs"
+},
+{
+"authors":"Megha Byali and Harsh Chaudhari and Arpita Patra and Ajith Suresh",
+"id":"2019/1365",
+"title":"FLASH: Fast and Robust Framework for Privacy-preserving Machine Learning"
+},
+{
+"authors":"Ward Beullens and Tim Beyne and Aleksei Udovenko and Giuseppe Vitto",
+"id":"2019/1357",
+"title":"Cryptanalysis of the Legendre PRF and generalizations"
+},
+{
+"authors":"Bowen Liu and Qiang Tang",
+"id":"2019/1346",
+"title":"Privacy-Preserving Decentralised Singular Value Decomposition"
+},
+{
+"authors":"Ran Cohen and Iftach Haitner and Eran Omri and Lior Rotem",
+"id":"2019/1344",
+"title":"From Fairness to Full Security in Multiparty Computation"
+},
+{
+"authors":"Andrew Morgan and Rafael Pass and Antigoni Polychroniadou",
+"id":"2019/1341",
+"title":"Succinct Non-Interactive Secure Computation"
+},
+{
+"authors":"Melissa Chase and Esha Ghosh and Oxana Poburinnaya",
+"id":"2019/1340",
+"title":"Secret Shared Shuffle"
+},
+{
+"authors":"Phi Hung Le and Samuel Ranellucci and S. Dov Gordon",
+"id":"2019/1338",
+"title":"Two-party Private Set Intersection with an Untrusted Third Party"
+},
+{
+"authors":"Ye Dong and Xiaojun Chen and Liyan Shen",
+"id":"2019/1334",
+"title":"Privacy-Preserving Distributed Machine Learning based on Secret Sharing"
+},
+{
+"authors":"Samiran Bag and  Feng Hao and Siamak F. Shahandashti and Indranil G. Ray",
+"id":"2019/1332",
+"title":"SEAL: Sealed-Bid Auction Without Auctioneers"
+},
+{
+"authors":"Alisa Cherniaeva and Ilia Shirobokov and Omer Shlomovits",
+"id":"2019/1320",
+"title":"Homomorphic Encryption Random Beacon"
+},
+{
+"authors":"Suvradip Chakraborty and Stefan Dziembowski and Jesper Buus Nielsen",
+"id":"2019/1317",
+"title":"Reverse Firewalls for Actively Secure MPCs"
+},
+{
+"authors":"Rahul Rachuri and Ajith Suresh",
+"id":"2019/1315",
+"title":"Trident: Efficient 4PC Framework for Privacy Preserving Machine Learning"
+},
+{
 "authors":"Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai and Lisa Kohl and Peter Rindal and Peter Scholl",
 "id":"2019/1159",
 "title":"Efficient Two-Round OT Extension and Silent Non-Interactive Secure Computation"

@@ -7,115 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Oct 2019 19:15:08 +0000</lastBuildDate>
-    <item>
-      <title>Leveraging Linear Decryption: Rate-1 Fully-Homomorphic Encryption and Time-Lock Puzzles</title>
-      <link>https://eprint.iacr.org/2019/720</link>
-      <description>Zvika Brakerski and Nico Döttling and Sanjam Garg and Giulio Malavolta </description>
-      <guid isPermaLink="false">2019/720</guid>
-    </item>
-    <item>
-      <title>On Deploying Secure Computing Commercially: Private Intersection-Sum Protocols and their Business Applications</title>
-      <link>https://eprint.iacr.org/2019/723</link>
-      <description>Mihaela Ion and Ben Kreuter and Ahmet Erhan Nergiz and Sarvar Patel and Mariana Raykova and Shobhit Saxena and Karn Seth and David Shanahan and Moti Yung</description>
-      <guid isPermaLink="false">2019/723</guid>
-    </item>
-    <item>
-      <title>Compressible FHE with Applications to PIR</title>
-      <link>https://eprint.iacr.org/2019/733</link>
-      <description>Craig Gentry and Shai Halevi</description>
-      <guid isPermaLink="false">2019/733</guid>
-    </item>
-    <item>
-      <title>From Usability to Secure Computing and Back Again</title>
-      <link>https://eprint.iacr.org/2019/734</link>
-      <description>Lucy Qin and Andrei Lapets and Frederick Jansen and Peter Flockhart and Kinan Dak Albab and Ira Globus-Harris and Shannon Roberts and Mayank Varia</description>
-      <guid isPermaLink="false">2019/734</guid>
-    </item>
-    <item>
-      <title>Onion Ring ORAM: Efficient Constant Bandwidth Oblivious RAM from (Leveled) TFHE</title>
-      <link>https://eprint.iacr.org/2019/736</link>
-      <description>Hao Chen and Ilaria Chillotti and Ling Ren</description>
-      <guid isPermaLink="false">2019/736</guid>
-    </item>
-    <item>
-      <title>Privacy-Preserving Classification of Personal Text Messages with Secure Multi-Party Computation: An Application to Hate-Speech Detection</title>
-      <link>https://eprint.iacr.org/2019/744</link>
-      <description>Martine De Cock and Rafael Dowsley and Anderson C. A. Nascimento and Devin Reich and Ariel Todoki</description>
-      <guid isPermaLink="false">2019/744</guid>
-    </item>
-    <item>
-      <title>Distributing any Elliptic Curve Based Protocol: With an Application to MixNets</title>
-      <link>https://eprint.iacr.org/2019/768</link>
-      <description>Nigel P. Smart and Younes Talibi Alaoui</description>
-      <guid isPermaLink="false">2019/768</guid>
-    </item>
-    <item>
-      <title>Efficient Secure Ridge Regression from Randomized Gaussian Elimination</title>
-      <link>https://eprint.iacr.org/2019/773</link>
-      <description>Frank Blom and Niek J. Bouman and Berry Schoenmakers and Niels de Vreede</description>
-      <guid isPermaLink="false">2019/773</guid>
-    </item>
-    <item>
-      <title>Scalable Private Set Union from Symmetric-Key Techniques </title>
-      <link>https://eprint.iacr.org/2019/776</link>
-      <description>Vladimir Kolesnikov and Mike Rosulek and Ni Trieu and Xiao Wang</description>
-      <guid isPermaLink="false">2019/776</guid>
-    </item>
-    <item>
-      <title>Blindfolded Evaluation of Random Forests with Multi-Key Homomorphic Encryption</title>
-      <link>https://eprint.iacr.org/2019/819</link>
-      <description>Asma Aloufi and Peizhao Hu and Harry W. H. Wong and Sherman S. M. Chow</description>
-      <guid isPermaLink="false">2019/819</guid>
-    </item>
-    <item>
-      <title>Universal Location Referencing and Homomorphic Evaluation of Geospatial Query</title>
-      <link>https://eprint.iacr.org/2019/820</link>
-      <description>Asma Aloufi and Peizhao Hu and Hang Liu and Sherman S. M. Chow</description>
-      <guid isPermaLink="false">2019/820</guid>
-    </item>
-    <item>
-      <title>Securely Sampling Biased Coins with Applications to Differential Privacy</title>
-      <link>https://eprint.iacr.org/2019/823</link>
-      <description>Jeffrey Champion and abhi shelat and Jonathan Ullman</description>
-      <guid isPermaLink="false">2019/823</guid>
-    </item>
-    <item>
-      <title>Asymptotically-Good Arithmetic Secret Sharing over Z/(p^\ell Z) with Strong Multiplication and Its Applications to Efficient MPC</title>
-      <link>https://eprint.iacr.org/2019/832</link>
-      <description>Ronald Cramer and Matthieu Rambaud and Chaoping Xing</description>
-      <guid isPermaLink="false">2019/832</guid>
-    </item>
-    <item>
-      <title>Optimizing Transport Layer for Secure Computation</title>
-      <link>https://eprint.iacr.org/2019/836</link>
-      <description>Markus Brandt and Claudio Orlandi and Kris Shrishak and Haya Shulman</description>
-      <guid isPermaLink="false">2019/836</guid>
-    </item>
-    <item>
-      <title>Key recovery attacks on the Legendre PRFs within the birthday bound</title>
-      <link>https://eprint.iacr.org/2019/862</link>
-      <description>Dmitry Khovratovich</description>
-      <guid isPermaLink="false">2019/862</guid>
-    </item>
-    <item>
-      <title>Fast Actively Secure Five-Party Computation with Security Beyond Abort</title>
-      <link>https://eprint.iacr.org/2019/863</link>
-      <description>Megha Byali and Carmit Hazay and Arpita Patra and Swati Singla</description>
-      <guid isPermaLink="false">2019/863</guid>
-    </item>
-    <item>
-      <title>Efficient Information-Theoretic Secure Multiparty Computation over $\mathbb{Z}/p^k \mathbb{Z}$ via Galois Rings</title>
-      <link>https://eprint.iacr.org/2019/872</link>
-      <description>Mark Abspoel and Ronald Cramer and Ivan Damgård and Daniel Escudero and Chen Yuan</description>
-      <guid isPermaLink="false">2019/872</guid>
-    </item>
-    <item>
-      <title>HoneyBadgerMPC and AsynchroMix: Practical AsynchronousMPC and its Application to Anonymous Communication</title>
-      <link>https://eprint.iacr.org/2019/883</link>
-      <description>Donghang Lu and Thomas Yurek and Samarth Kulshreshtha and Rahul Govind and Rahul Mahadev and Aniket Kate and Andrew Miller</description>
-      <guid isPermaLink="false">2019/883</guid>
-    </item>
+    <lastBuildDate>Fri, 27 Dec 2019 19:24:03 +0000</lastBuildDate>
     <item>
       <title>Securing DNSSEC Keys via Threshold ECDSA From Generic MPC</title>
       <link>https://eprint.iacr.org/2019/889</link>
@@ -307,6 +199,114 @@
       <link>https://eprint.iacr.org/2019/1159</link>
       <description>Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai and Lisa Kohl and Peter Rindal and Peter Scholl</description>
       <guid isPermaLink="false">2019/1159</guid>
+    </item>
+    <item>
+      <title>Trident: Efficient 4PC Framework for Privacy Preserving Machine Learning</title>
+      <link>https://eprint.iacr.org/2019/1315</link>
+      <description>Rahul Rachuri and Ajith Suresh</description>
+      <guid isPermaLink="false">2019/1315</guid>
+    </item>
+    <item>
+      <title>Reverse Firewalls for Actively Secure MPCs</title>
+      <link>https://eprint.iacr.org/2019/1317</link>
+      <description>Suvradip Chakraborty and Stefan Dziembowski and Jesper Buus Nielsen</description>
+      <guid isPermaLink="false">2019/1317</guid>
+    </item>
+    <item>
+      <title>Homomorphic Encryption Random Beacon</title>
+      <link>https://eprint.iacr.org/2019/1320</link>
+      <description>Alisa Cherniaeva and Ilia Shirobokov and Omer Shlomovits</description>
+      <guid isPermaLink="false">2019/1320</guid>
+    </item>
+    <item>
+      <title>SEAL: Sealed-Bid Auction Without Auctioneers</title>
+      <link>https://eprint.iacr.org/2019/1332</link>
+      <description>Samiran Bag and  Feng Hao and Siamak F. Shahandashti and Indranil G. Ray</description>
+      <guid isPermaLink="false">2019/1332</guid>
+    </item>
+    <item>
+      <title>Privacy-Preserving Distributed Machine Learning based on Secret Sharing</title>
+      <link>https://eprint.iacr.org/2019/1334</link>
+      <description>Ye Dong and Xiaojun Chen and Liyan Shen</description>
+      <guid isPermaLink="false">2019/1334</guid>
+    </item>
+    <item>
+      <title>Two-party Private Set Intersection with an Untrusted Third Party</title>
+      <link>https://eprint.iacr.org/2019/1338</link>
+      <description>Phi Hung Le and Samuel Ranellucci and S. Dov Gordon</description>
+      <guid isPermaLink="false">2019/1338</guid>
+    </item>
+    <item>
+      <title>Secret Shared Shuffle</title>
+      <link>https://eprint.iacr.org/2019/1340</link>
+      <description>Melissa Chase and Esha Ghosh and Oxana Poburinnaya</description>
+      <guid isPermaLink="false">2019/1340</guid>
+    </item>
+    <item>
+      <title>Succinct Non-Interactive Secure Computation</title>
+      <link>https://eprint.iacr.org/2019/1341</link>
+      <description>Andrew Morgan and Rafael Pass and Antigoni Polychroniadou</description>
+      <guid isPermaLink="false">2019/1341</guid>
+    </item>
+    <item>
+      <title>From Fairness to Full Security in Multiparty Computation</title>
+      <link>https://eprint.iacr.org/2019/1344</link>
+      <description>Ran Cohen and Iftach Haitner and Eran Omri and Lior Rotem</description>
+      <guid isPermaLink="false">2019/1344</guid>
+    </item>
+    <item>
+      <title>Privacy-Preserving Decentralised Singular Value Decomposition</title>
+      <link>https://eprint.iacr.org/2019/1346</link>
+      <description>Bowen Liu and Qiang Tang</description>
+      <guid isPermaLink="false">2019/1346</guid>
+    </item>
+    <item>
+      <title>Cryptanalysis of the Legendre PRF and generalizations</title>
+      <link>https://eprint.iacr.org/2019/1357</link>
+      <description>Ward Beullens and Tim Beyne and Aleksei Udovenko and Giuseppe Vitto</description>
+      <guid isPermaLink="false">2019/1357</guid>
+    </item>
+    <item>
+      <title>FLASH: Fast and Robust Framework for Privacy-preserving Machine Learning</title>
+      <link>https://eprint.iacr.org/2019/1365</link>
+      <description>Megha Byali and Harsh Chaudhari and Arpita Patra and Ajith Suresh</description>
+      <guid isPermaLink="false">2019/1365</guid>
+    </item>
+    <item>
+      <title>Practical Fully Secure Three-Party Computation via Sublinear Distributed Zero-Knowledge Proofs</title>
+      <link>https://eprint.iacr.org/2019/1390</link>
+      <description>Elette Boyle and Niv Gilboa and Yuval Ishai and Ariel Nof</description>
+      <guid isPermaLink="false">2019/1390</guid>
+    </item>
+    <item>
+      <title>Automatize parameter tuning in Ring-Learning-With-Errors-based leveled homomorphic cryptosystem implementations</title>
+      <link>https://eprint.iacr.org/2019/1402</link>
+      <description>Vincent HERBERT</description>
+      <guid isPermaLink="false">2019/1402</guid>
+    </item>
+    <item>
+      <title>Boolean functions for homomorphic-friendly stream ciphers</title>
+      <link>https://eprint.iacr.org/2019/1446</link>
+      <description>Claude Carlet and Pierrick Méaux</description>
+      <guid isPermaLink="false">2019/1446</guid>
+    </item>
+    <item>
+      <title>Formalising Oblivious Transfer in the Semi-Honest and Malicious Model in CryptHOL</title>
+      <link>https://eprint.iacr.org/2019/1449</link>
+      <description>David Butler and David Aspinall and Adria Gascon</description>
+      <guid isPermaLink="false">2019/1449</guid>
+    </item>
+    <item>
+      <title>Privacy-preserving greater-than integer comparison without binary decomposition</title>
+      <link>https://eprint.iacr.org/2019/1462</link>
+      <description>Sigurd Eskeland</description>
+      <guid isPermaLink="false">2019/1462</guid>
+    </item>
+    <item>
+      <title>Communication--Computation Trade-offs in PIR</title>
+      <link>https://eprint.iacr.org/2019/1483</link>
+      <description>Asra Ali and Tancrède Lepoint and Sarvar Patel and Mariana Raykova and Phillipp Schoppmann and Karn Seth and Kevin Yeo</description>
+      <guid isPermaLink="false">2019/1483</guid>
     </item>
   </channel>
 </rss>
