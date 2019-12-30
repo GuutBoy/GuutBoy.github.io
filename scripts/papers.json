@@ -1,5 +1,10 @@
 [
 {
+"authors":"Joon-Woo Lee and Young-Sik Kim and Jong-Seon No",
+"id":"2019/1497",
+"title":"Analysis of Modified Shell Sort for Fully Homomorphic Encryption"
+},
+{
 "authors":"Asra Ali and Tancr\u00e8de Lepoint and Sarvar Patel and Mariana Raykova and Phillipp Schoppmann and Karn Seth and Kevin Yeo",
 "id":"2019/1483",
 "title":"Communication--Computation Trade-offs in PIR"
