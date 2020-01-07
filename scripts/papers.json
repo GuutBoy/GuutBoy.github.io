@@ -1,5 +1,10 @@
 [
 {
+"authors":"Hao Chen and Wei Dai and Miran Kim and Yongsoo Song",
+"id":"2020/015",
+"title":"Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts"
+},
+{
 "authors":"Joon-Woo Lee and Young-Sik Kim and Jong-Seon No",
 "id":"2019/1497",
 "title":"Analysis of Modified Shell Sort for Fully Homomorphic Encryption"

@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Dec 2019 20:23:08 +0000</lastBuildDate>
-    <item>
-      <title>A High-Assurance, Automatically-Synthesized, Evaluator for Machine-Checked (Proactively) Secure Multi-Party Computation</title>
-      <link>https://eprint.iacr.org/2019/922</link>
-      <description>Karim Eldefrawy and Vitor Pereira</description>
-      <guid isPermaLink="false">2019/922</guid>
-    </item>
+    <lastBuildDate>Tue, 07 Jan 2020 12:09:25 +0000</lastBuildDate>
     <item>
       <title>Homomorphic Encryption Standard</title>
       <link>https://eprint.iacr.org/2019/939</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2019/1497</link>
       <description>Joon-Woo Lee and Young-Sik Kim and Jong-Seon No</description>
       <guid isPermaLink="false">2019/1497</guid>
+    </item>
+    <item>
+      <title>Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts</title>
+      <link>https://eprint.iacr.org/2020/015</link>
+      <description>Hao Chen and Wei Dai and Miran Kim and Yongsoo Song</description>
+      <guid isPermaLink="false">2020/015</guid>
     </item>
   </channel>
 </rss>
