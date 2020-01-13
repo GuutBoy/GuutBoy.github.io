@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jan 2020 12:09:25 +0000</lastBuildDate>
-    <item>
-      <title>Homomorphic Encryption Standard</title>
-      <link>https://eprint.iacr.org/2019/939</link>
-      <description>Martin Albrecht and Melissa Chase and Hao Chen and Jintai Ding and Shafi Goldwasser and Sergey Gorbunov and Shai Halevi and Jeffrey Hoffstein and Kim Laine and Kristin Lauter and Satya Lokam and Daniele Micciancio and Dustin Moody and Travis Morrison and Amit Sahai and Vinod Vaikuntanathan </description>
-      <guid isPermaLink="false">2019/939</guid>
-    </item>
+    <lastBuildDate>Mon, 13 Jan 2020 20:55:08 +0000</lastBuildDate>
     <item>
       <title>nGraph-HE2: A High-Throughput Framework for Neural Network Inference on Encrypted Data</title>
       <link>https://eprint.iacr.org/2019/947</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2020/015</link>
       <description>Hao Chen and Wei Dai and Miran Kim and Yongsoo Song</description>
       <guid isPermaLink="false">2020/015</guid>
+    </item>
+    <item>
+      <title>Differentially-Private Multi-Party Sketching for Large-Scale Statistics</title>
+      <link>https://eprint.iacr.org/2020/029</link>
+      <description>Seung Geol Choi and Dana Dachman-Soled and Mukul Kulkarni and Arkady Yerukhimovich</description>
+      <guid isPermaLink="false">2020/029</guid>
     </item>
   </channel>
 </rss>
