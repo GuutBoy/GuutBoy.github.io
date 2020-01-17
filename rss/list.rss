@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jan 2020 20:55:08 +0000</lastBuildDate>
-    <item>
-      <title>nGraph-HE2: A High-Throughput Framework for Neural Network Inference on Encrypted Data</title>
-      <link>https://eprint.iacr.org/2019/947</link>
-      <description>Fabian Boemer and Anamaria Costache and Rosario Cammarota and Casimir Wierzynski </description>
-      <guid isPermaLink="false">2019/947</guid>
-    </item>
-    <item>
-      <title>Collisions on Feistel-MiMC and univariate GMiMC</title>
-      <link>https://eprint.iacr.org/2019/951</link>
-      <description>Xavier Bonnetain</description>
-      <guid isPermaLink="false">2019/951</guid>
-    </item>
+    <lastBuildDate>Fri, 17 Jan 2020 20:08:48 +0000</lastBuildDate>
     <item>
       <title>TaaS: Commodity MPC via Triples-as-a-Service</title>
       <link>https://eprint.iacr.org/2019/957</link>
@@ -307,6 +295,18 @@
       <link>https://eprint.iacr.org/2020/029</link>
       <description>Seung Geol Choi and Dana Dachman-Soled and Mukul Kulkarni and Arkady Yerukhimovich</description>
       <guid isPermaLink="false">2020/029</guid>
+    </item>
+    <item>
+      <title>BLAZE: Blazing Fast Privacy-Preserving Machine Learning</title>
+      <link>https://eprint.iacr.org/2020/042</link>
+      <description>Arpita Patra and Ajith Suresh</description>
+      <guid isPermaLink="false">2020/042</guid>
+    </item>
+    <item>
+      <title>Delphi: A Cryptographic Inference Service for Neural Networks</title>
+      <link>https://eprint.iacr.org/2020/050</link>
+      <description>Pratyush Mishra and Ryan Lehmkuhl and Akshayaram Srinivasan and Wenting Zheng and Raluca Ada Popa</description>
+      <guid isPermaLink="false">2020/050</guid>
     </item>
   </channel>
 </rss>

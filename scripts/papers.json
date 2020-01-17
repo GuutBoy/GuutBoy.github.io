@@ -1,5 +1,15 @@
 [
 {
+"authors":"Pratyush Mishra and Ryan Lehmkuhl and Akshayaram Srinivasan and Wenting Zheng and Raluca Ada Popa",
+"id":"2020/050",
+"title":"Delphi: A Cryptographic Inference Service for Neural Networks"
+},
+{
+"authors":"Arpita Patra and Ajith Suresh",
+"id":"2020/042",
+"title":"BLAZE: Blazing Fast Privacy-Preserving Machine Learning"
+},
+{
 "authors":"Seung Geol Choi and Dana Dachman-Soled and Mukul Kulkarni and Arkady Yerukhimovich",
 "id":"2020/029",
 "title":"Differentially-Private Multi-Party Sketching for Large-Scale Statistics"
