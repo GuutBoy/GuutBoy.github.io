@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jan 2020 20:08:48 +0000</lastBuildDate>
-    <item>
-      <title>TaaS: Commodity MPC via Triples-as-a-Service</title>
-      <link>https://eprint.iacr.org/2019/957</link>
-      <description>Nigel P. Smart and Titouan Tanguy</description>
-      <guid isPermaLink="false">2019/957</guid>
-    </item>
+    <lastBuildDate>Wed, 29 Jan 2020 21:11:14 +0000</lastBuildDate>
     <item>
       <title>Computing across Trust Boundaries using Distributed Homomorphic Cryptography</title>
       <link>https://eprint.iacr.org/2019/961</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2020/050</link>
       <description>Pratyush Mishra and Ryan Lehmkuhl and Akshayaram Srinivasan and Wenting Zheng and Raluca Ada Popa</description>
       <guid isPermaLink="false">2020/050</guid>
+    </item>
+    <item>
+      <title>Metal: A Metadata-Hiding File-Sharing System</title>
+      <link>https://eprint.iacr.org/2020/083</link>
+      <description>Weikeng Chen and Raluca Ada Popa</description>
+      <guid isPermaLink="false">2020/083</guid>
     </item>
   </channel>
 </rss>

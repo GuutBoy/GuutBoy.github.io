@@ -1,5 +1,10 @@
 [
 {
+"authors":"Weikeng Chen and Raluca Ada Popa",
+"id":"2020/083",
+"title":"Metal: A Metadata-Hiding File-Sharing System"
+},
+{
 "authors":"Pratyush Mishra and Ryan Lehmkuhl and Akshayaram Srinivasan and Wenting Zheng and Raluca Ada Popa",
 "id":"2020/050",
 "title":"Delphi: A Cryptographic Inference Service for Neural Networks"
