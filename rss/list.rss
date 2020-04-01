@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jan 2020 21:11:14 +0000</lastBuildDate>
-    <item>
-      <title>Computing across Trust Boundaries using Distributed Homomorphic Cryptography</title>
-      <link>https://eprint.iacr.org/2019/961</link>
-      <description>Christian Mouchet and Juan Troncoso-Pastoriza and Jean-Pierre Hubaux</description>
-      <guid isPermaLink="false">2019/961</guid>
-    </item>
-    <item>
-      <title>Faster homomorphic encryption is not enough: improved heuristic for multiplicative depth minimization of Boolean circuits</title>
-      <link>https://eprint.iacr.org/2019/963</link>
-      <description>Pascal Aubry and Sergiu Carpov and Renaud Sirdey</description>
-      <guid isPermaLink="false">2019/963</guid>
-    </item>
-    <item>
-      <title>Zaphod: Efficiently Combing LSSS and Garbled Circuits in SCALE</title>
-      <link>https://eprint.iacr.org/2019/974</link>
-      <description>Abdelrahaman Aly and Emmanuela Orsini and Drago Rotaru and Nigel P. Smart and Tim Wood</description>
-      <guid isPermaLink="false">2019/974</guid>
-    </item>
-    <item>
-      <title>Towards real-time hidden speaker recognition by means of fully homomorphic encryption</title>
-      <link>https://eprint.iacr.org/2019/976</link>
-      <description>Martin Zuber and Sergiu Carpov and Renaud Sirdey</description>
-      <guid isPermaLink="false">2019/976</guid>
-    </item>
-    <item>
-      <title>PrivFL: Practical Privacy-preserving Federated Regressions on High-dimensional Data over Mobile Networks</title>
-      <link>https://eprint.iacr.org/2019/979</link>
-      <description>Kalikinkar Mandal and Guang Gong</description>
-      <guid isPermaLink="false">2019/979</guid>
-    </item>
-    <item>
-      <title>RAMPARTS: A Programmer-Friendly System for Building Homomorphic Encryption Applications</title>
-      <link>https://eprint.iacr.org/2019/988</link>
-      <description>David W. Archer and Jose Manuel Calderon Trilla and Jason Dagit and Alex J. Malozemoff and Yuriy Polyakov and Kurt Rohloff and Gerard Ryan</description>
-      <guid isPermaLink="false">2019/988</guid>
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2020 19:45:55 +0000</lastBuildDate>
     <item>
       <title>Randomly Rotate Qubits Compute and Reverse --- IT-Secure Non-Interactive Fully-Compact Homomorphic Quantum Computations over Classical Data Using Random Bases</title>
       <link>https://eprint.iacr.org/2019/1023</link>
@@ -307,6 +271,42 @@
       <link>https://eprint.iacr.org/2020/083</link>
       <description>Weikeng Chen and Raluca Ada Popa</description>
       <guid isPermaLink="false">2020/083</guid>
+    </item>
+    <item>
+      <title>A Note on Secure Multiparty Computation via Higher Residue Symbol Techniques</title>
+      <link>https://eprint.iacr.org/2020/183</link>
+      <description>Ignacio Cascudo and Reto Schnyder</description>
+      <guid isPermaLink="false">2020/183</guid>
+    </item>
+    <item>
+      <title>Thresholdizing HashEdDSA: MPC to the Rescue</title>
+      <link>https://eprint.iacr.org/2020/214</link>
+      <description>Charlotte Bonte and Nigel P. Smart and Titouan Tanguy</description>
+      <guid isPermaLink="false">2020/214</guid>
+    </item>
+    <item>
+      <title>Secure Multiparty Computation (MPC)</title>
+      <link>https://eprint.iacr.org/2020/300</link>
+      <description>Yehuda Lindell</description>
+      <guid isPermaLink="false">2020/300</guid>
+    </item>
+    <item>
+      <title>Multiparty Homomorphic Encryption: From Theory to Practice</title>
+      <link>https://eprint.iacr.org/2020/304</link>
+      <description>Christian Mouchet and Juan Troncoso-Pastoriza and Jean-Pierre Hubaux</description>
+      <guid isPermaLink="false">2020/304</guid>
+    </item>
+    <item>
+      <title>Improved Primitives for MPC over Mixed Arithmetic-Binary Circuits</title>
+      <link>https://eprint.iacr.org/2020/338</link>
+      <description>Daniel Escudero and Satrajit Ghosh and Marcel Keller and Rahul Rachuri and Peter Scholl</description>
+      <guid isPermaLink="false">2020/338</guid>
+    </item>
+    <item>
+      <title>Efficient MPC with a Mixed Adversary</title>
+      <link>https://eprint.iacr.org/2020/356</link>
+      <description>Martin Hirt and Marta Mularczyk</description>
+      <guid isPermaLink="false">2020/356</guid>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,35 @@
 [
 {
+"authors":"Martin Hirt and Marta Mularczyk",
+"id":"2020/356",
+"title":"Efficient MPC with a Mixed Adversary"
+},
+{
+"authors":"Daniel Escudero and Satrajit Ghosh and Marcel Keller and Rahul Rachuri and Peter Scholl",
+"id":"2020/338",
+"title":"Improved Primitives for MPC over Mixed Arithmetic-Binary Circuits"
+},
+{
+"authors":"Christian Mouchet and Juan Troncoso-Pastoriza and Jean-Pierre Hubaux",
+"id":"2020/304",
+"title":"Multiparty Homomorphic Encryption: From Theory to Practice"
+},
+{
+"authors":"Yehuda Lindell",
+"id":"2020/300",
+"title":"Secure Multiparty Computation (MPC)"
+},
+{
+"authors":"Charlotte Bonte and Nigel P. Smart and Titouan Tanguy",
+"id":"2020/214",
+"title":"Thresholdizing HashEdDSA: MPC to the Rescue"
+},
+{
+"authors":"Ignacio Cascudo and Reto Schnyder",
+"id":"2020/183",
+"title":"A Note on Secure Multiparty Computation via Higher Residue Symbol Techniques"
+},
+{
 "authors":"Weikeng Chen and Raluca Ada Popa",
 "id":"2020/083",
 "title":"Metal: A Metadata-Hiding File-Sharing System"
