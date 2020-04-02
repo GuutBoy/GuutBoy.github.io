@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2020 19:45:55 +0000</lastBuildDate>
-    <item>
-      <title>Randomly Rotate Qubits Compute and Reverse --- IT-Secure Non-Interactive Fully-Compact Homomorphic Quantum Computations over Classical Data Using Random Bases</title>
-      <link>https://eprint.iacr.org/2019/1023</link>
-      <description>Dor Bitan and Shlomi Dolev</description>
-      <guid isPermaLink="false">2019/1023</guid>
-    </item>
-    <item>
-      <title>Optimal-Round Preprocessing-MPC via Polynomial Representation and Distributed Random Matrix (extended abstract)</title>
-      <link>https://eprint.iacr.org/2019/1024</link>
-      <description>Dor Bitan and Shlomi Dolev</description>
-      <guid isPermaLink="false">2019/1024</guid>
-    </item>
-    <item>
-      <title>On Fully Secure MPC with Solitary Output </title>
-      <link>https://eprint.iacr.org/2019/1032</link>
-      <description>Shai Halevi and Yuval Ishai and Eyal Kushilevitz and Nikolaos Makriyannis and Tal Rabin</description>
-      <guid isPermaLink="false">2019/1032</guid>
-    </item>
-    <item>
-      <title>CrypTFlow: Secure TensorFlow Inference</title>
-      <link>https://eprint.iacr.org/2019/1049</link>
-      <description>Nishant Kumar and Mayank Rathee and Nishanth Chandran and Divya Gupta and Aseem Rastogi and Rahul Sharma</description>
-      <guid isPermaLink="false">2019/1049</guid>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2020 19:08:02 +0000</lastBuildDate>
     <item>
       <title>HEAX: High-Performance Architecture for Computation on Homomorphically Encrypted Data in the Cloud</title>
       <link>https://eprint.iacr.org/2019/1066</link>
@@ -307,6 +283,30 @@
       <link>https://eprint.iacr.org/2020/356</link>
       <description>Martin Hirt and Marta Mularczyk</description>
       <guid isPermaLink="false">2020/356</guid>
+    </item>
+    <item>
+      <title>Multiparty Generation of an RSA Modulus</title>
+      <link>https://eprint.iacr.org/2020/370</link>
+      <description>Megan Chen and Ran Cohen and Jack Doerner and Yashvanth Kondi and Eysa Lee and Schuyler Rosefield and abhi shelat</description>
+      <guid isPermaLink="false">2020/370</guid>
+    </item>
+    <item>
+      <title>Diogenes: Lightweight Scalable RSA Modulus Generation with a Dishonest Majority</title>
+      <link>https://eprint.iacr.org/2020/374</link>
+      <description>Megan Chen and Carmit Hazay and Yuval Ishai and Yuriy Kashnikov and Daniele Micciancio and Tarik Riviere and abhi shelat and Muthu Venkitasubramaniam and Ruihan Wang</description>
+      <guid isPermaLink="false">2020/374</guid>
+    </item>
+    <item>
+      <title>Privacy-Preserving Contact Tracing of COVID-19 Patients</title>
+      <link>https://eprint.iacr.org/2020/375</link>
+      <description>Leonie Reichert and Samuel Brack and Björn Scheuermann</description>
+      <guid isPermaLink="false">2020/375</guid>
+    </item>
+    <item>
+      <title>Oblivious tight compaction in O(n) time with smaller constant</title>
+      <link>https://eprint.iacr.org/2020/377</link>
+      <description>Samuel Dittmer and Rafail Ostrovsky</description>
+      <guid isPermaLink="false">2020/377</guid>
     </item>
   </channel>
 </rss>

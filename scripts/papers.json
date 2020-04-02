@@ -1,5 +1,25 @@
 [
 {
+"authors":"Samuel Dittmer and Rafail Ostrovsky",
+"id":"2020/377",
+"title":"Oblivious tight compaction in O(n) time with smaller constant"
+},
+{
+"authors":"Leonie Reichert and Samuel Brack and Bj\u00f6rn Scheuermann",
+"id":"2020/375",
+"title":"Privacy-Preserving Contact Tracing of COVID-19 Patients"
+},
+{
+"authors":"Megan Chen and Carmit Hazay and Yuval Ishai and Yuriy Kashnikov and Daniele Micciancio and Tarik Riviere and abhi shelat and Muthu Venkitasubramaniam and Ruihan Wang",
+"id":"2020/374",
+"title":"Diogenes: Lightweight Scalable RSA Modulus Generation with a Dishonest Majority"
+},
+{
+"authors":"Megan Chen and Ran Cohen and Jack Doerner and Yashvanth Kondi and Eysa Lee and Schuyler Rosefield and abhi shelat",
+"id":"2020/370",
+"title":"Multiparty Generation of an RSA Modulus"
+},
+{
 "authors":"Martin Hirt and Marta Mularczyk",
 "id":"2020/356",
 "title":"Efficient MPC with a Mixed Adversary"
