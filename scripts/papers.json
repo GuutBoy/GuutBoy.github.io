@@ -1,5 +1,25 @@
 [
 {
+"authors":"Serge Vaudenay",
+"id":"2020/399",
+"title":"Analysis of DP3T"
+},
+{
+"authors":"Zvika Brakerski and Nico D\u00f6ttling and Sanjam Garg and Giulio Malavolta",
+"id":"2020/394",
+"title":"Candidate iO from Homomorphic Encryption Schemes"
+},
+{
+"authors":"Carmit Hazay and Yuval Ishai and Antonio Marcedone and Muthuramakrishnan Venkitasubramaniam",
+"id":"2020/393",
+"title":"LevioSA: Lightweight Secure Arithmetic Computation"
+},
+{
+"authors":"Peihan Miao and Sarvar Patel and Mariana Raykova and Karn Seth and Moti Yung",
+"id":"2020/385",
+"title":"Two-Sided Malicious Security for Private Intersection-Sum with Cardinality"
+},
+{
 "authors":"Samuel Dittmer and Rafail Ostrovsky",
 "id":"2020/377",
 "title":"Oblivious tight compaction in O(n) time with smaller constant"

@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2020 19:08:02 +0000</lastBuildDate>
-    <item>
-      <title>HEAX: High-Performance Architecture for Computation on Homomorphically Encrypted Data in the Cloud</title>
-      <link>https://eprint.iacr.org/2019/1066</link>
-      <description>M. Sadegh Riazi and Kim Laine and Blake Pelton and Wei Dai</description>
-      <guid isPermaLink="false">2019/1066</guid>
-    </item>
-    <item>
-      <title>Efficient Private PEZ Protocols for Symmetric Functions</title>
-      <link>https://eprint.iacr.org/2019/1069</link>
-      <description>Yoshiki Abe and Mitsugu Iwamoto and Kazuo Ohta</description>
-      <guid isPermaLink="false">2019/1069</guid>
-    </item>
-    <item>
-      <title>Adaptively Secure Garbling Schemes for Parallel Computations</title>
-      <link>https://eprint.iacr.org/2019/1077</link>
-      <description>Kai-Min Chung; Luowen Qian</description>
-      <guid isPermaLink="false">2019/1077</guid>
-    </item>
-    <item>
-      <title>On the Security of Multikey Homomorphic Encryption</title>
-      <link>https://eprint.iacr.org/2019/1082</link>
-      <description>Hyang-Sook Lee and Jeongeun Park</description>
-      <guid isPermaLink="false">2019/1082</guid>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2020 19:46:52 +0000</lastBuildDate>
     <item>
       <title>Distributed Vector-OLE: Improved Constructions and Implementation</title>
       <link>https://eprint.iacr.org/2019/1084</link>
@@ -307,6 +283,30 @@
       <link>https://eprint.iacr.org/2020/377</link>
       <description>Samuel Dittmer and Rafail Ostrovsky</description>
       <guid isPermaLink="false">2020/377</guid>
+    </item>
+    <item>
+      <title>Two-Sided Malicious Security for Private Intersection-Sum with Cardinality</title>
+      <link>https://eprint.iacr.org/2020/385</link>
+      <description>Peihan Miao and Sarvar Patel and Mariana Raykova and Karn Seth and Moti Yung</description>
+      <guid isPermaLink="false">2020/385</guid>
+    </item>
+    <item>
+      <title>LevioSA: Lightweight Secure Arithmetic Computation</title>
+      <link>https://eprint.iacr.org/2020/393</link>
+      <description>Carmit Hazay and Yuval Ishai and Antonio Marcedone and Muthuramakrishnan Venkitasubramaniam</description>
+      <guid isPermaLink="false">2020/393</guid>
+    </item>
+    <item>
+      <title>Candidate iO from Homomorphic Encryption Schemes</title>
+      <link>https://eprint.iacr.org/2020/394</link>
+      <description>Zvika Brakerski and Nico Döttling and Sanjam Garg and Giulio Malavolta</description>
+      <guid isPermaLink="false">2020/394</guid>
+    </item>
+    <item>
+      <title>Analysis of DP3T</title>
+      <link>https://eprint.iacr.org/2020/399</link>
+      <description>Serge Vaudenay</description>
+      <guid isPermaLink="false">2020/399</guid>
     </item>
   </channel>
 </rss>
