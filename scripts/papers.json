@@ -1,5 +1,15 @@
 [
 {
+"authors":"Niklas B\u00fcscher and Daniel Demmler and Nikolaos P. Karvelas and Stefan Katzenbeisser and Juliane Kr\u00e4mer and Deevashwer Rathee and Thomas Schneider and Patrick Struck",
+"id":"2020/411",
+"title":"Secure Two-Party Computation in a Quantum World"
+},
+{
+"authors":"Aydin Abadi and Sotirios Terzis and Changyu Dong",
+"id":"2020/407",
+"title":"Feather: Lightweight Multi-party Updatable Delegated Private Set Intersection"
+},
+{
 "authors":"Serge Vaudenay",
 "id":"2020/399",
 "title":"Analysis of DP3T"

@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2020 19:46:52 +0000</lastBuildDate>
-    <item>
-      <title>Distributed Vector-OLE: Improved Constructions and Implementation</title>
-      <link>https://eprint.iacr.org/2019/1084</link>
-      <description>Phillipp Schoppmann and Adrià Gascón and Leonie Reichert and Mariana Raykova</description>
-      <guid isPermaLink="false">2019/1084</guid>
-    </item>
-    <item>
-      <title>Cryptanalysis of a Protocol for Efficient Sorting on SHE Encrypted Data </title>
-      <link>https://eprint.iacr.org/2019/1087</link>
-      <description>Shyam Murthy and Srinivas Vivek</description>
-      <guid isPermaLink="false">2019/1087</guid>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2020 11:40:44 +0000</lastBuildDate>
     <item>
       <title>Beyond Honest Majority: The Round Complexity of Fair and Robust Multi-party Computation</title>
       <link>https://eprint.iacr.org/2019/998</link>
@@ -307,6 +295,18 @@
       <link>https://eprint.iacr.org/2020/399</link>
       <description>Serge Vaudenay</description>
       <guid isPermaLink="false">2020/399</guid>
+    </item>
+    <item>
+      <title>Feather: Lightweight Multi-party Updatable Delegated Private Set Intersection</title>
+      <link>https://eprint.iacr.org/2020/407</link>
+      <description>Aydin Abadi and Sotirios Terzis and Changyu Dong</description>
+      <guid isPermaLink="false">2020/407</guid>
+    </item>
+    <item>
+      <title>Secure Two-Party Computation in a Quantum World</title>
+      <link>https://eprint.iacr.org/2020/411</link>
+      <description>Niklas Büscher and Daniel Demmler and Nikolaos P. Karvelas and Stefan Katzenbeisser and Juliane Krämer and Deevashwer Rathee and Thomas Schneider and Patrick Struck</description>
+      <guid isPermaLink="false">2020/411</guid>
     </item>
   </channel>
 </rss>
