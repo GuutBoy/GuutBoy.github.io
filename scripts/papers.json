@@ -1,5 +1,10 @@
 [
 {
+"authors":"Krzysztof Pietrzak",
+"id":"2020/418",
+"title":"Delayed Authentication: Replay and Relay Attacks on DP-3T"
+},
+{
 "authors":"Niklas B\u00fcscher and Daniel Demmler and Nikolaos P. Karvelas and Stefan Katzenbeisser and Juliane Kr\u00e4mer and Deevashwer Rathee and Thomas Schneider and Patrick Struck",
 "id":"2020/411",
 "title":"Secure Two-Party Computation in a Quantum World"

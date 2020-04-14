@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2020 11:40:44 +0000</lastBuildDate>
-    <item>
-      <title>Beyond Honest Majority: The Round Complexity of Fair and Robust Multi-party Computation</title>
-      <link>https://eprint.iacr.org/2019/998</link>
-      <description>Arpita Patra and Divya Ravi</description>
-      <guid isPermaLink="false">2019/998</guid>
-    </item>
+    <lastBuildDate>Tue, 14 Apr 2020 06:37:17 +0000</lastBuildDate>
     <item>
       <title>Is Information-Theoretic Topology-Hiding Computation Possible?</title>
       <link>https://eprint.iacr.org/2019/1094</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2020/411</link>
       <description>Niklas Büscher and Daniel Demmler and Nikolaos P. Karvelas and Stefan Katzenbeisser and Juliane Krämer and Deevashwer Rathee and Thomas Schneider and Patrick Struck</description>
       <guid isPermaLink="false">2020/411</guid>
+    </item>
+    <item>
+      <title>Delayed Authentication: Replay and Relay Attacks on DP-3T</title>
+      <link>https://eprint.iacr.org/2020/418</link>
+      <description>Krzysztof Pietrzak</description>
+      <guid isPermaLink="false">2020/418</guid>
     </item>
   </channel>
 </rss>
