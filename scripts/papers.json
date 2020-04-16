@@ -1,5 +1,20 @@
 [
 {
+"authors":"Yaron Gvili",
+"id":"2020/428",
+"title":"Security Analysis of the COVID-19 Contact Tracing Specifications by Apple Inc. and Google Inc."
+},
+{
+"authors":"Qiang Tang",
+"id":"2020/426",
+"title":"Privacy-Preserving Contact Tracing: current solutions and open questions"
+},
+{
+"authors":"Kenji Yasunaga",
+"id":"2020/420",
+"title":"Practical Card-Based  Protocol for Three-Input Majority"
+},
+{
 "authors":"Krzysztof Pietrzak",
 "id":"2020/418",
 "title":"Delayed Authentication: Replay and Relay Attacks on DP-3T"
