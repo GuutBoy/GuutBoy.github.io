@@ -1,5 +1,10 @@
 [
 {
+"authors":"Thomas Agrikola and Geoffroy Couteau and Yuval Ishai and Stanislaw Jarecki and Amit Sahai",
+"id":"2020/445",
+"title":"On Pseudorandom Encodings"
+},
+{
 "authors":"Yaron Gvili",
 "id":"2020/428",
 "title":"Security Analysis of the COVID-19 Contact Tracing Specifications by Apple Inc. and Google Inc."
