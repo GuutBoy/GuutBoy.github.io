@@ -1,5 +1,15 @@
 [
 {
+"authors":"Hao Chen and Miran Kim and Ilya Razenshteyn and Dragos Rotaru and Yongsoo Song and Sameer Wagh",
+"id":"2020/451",
+"title":"Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning"
+},
+{
+"authors":"Asma Aloufi and Peizhao Hu and Yongsoo Song and and Kristin Lauter",
+"id":"2020/447",
+"title":"Computing Blindfolded on Data Homomorphically Encrypted under Multiple Keys: An Extended Survey"
+},
+{
 "authors":"Thomas Agrikola and Geoffroy Couteau and Yuval Ishai and Stanislaw Jarecki and Amit Sahai",
 "id":"2020/445",
 "title":"On Pseudorandom Encodings"
