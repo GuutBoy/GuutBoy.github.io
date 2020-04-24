@@ -1,5 +1,10 @@
 [
 {
+"authors":"Xiaoning Liu and Bang Wu and Xingliang Yuan and Xun Yi",
+"id":"2020/463",
+"title":"Leia: A Lightweight Cryptographic Neural Network Inference System at the Edge"
+},
+{
 "authors":"Hao Chen and Miran Kim and Ilya Razenshteyn and Dragos Rotaru and Yongsoo Song and Sameer Wagh",
 "id":"2020/451",
 "title":"Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning"

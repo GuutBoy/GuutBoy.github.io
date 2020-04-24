@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2020 19:04:04 +0000</lastBuildDate>
-    <item>
-      <title>Towards a Homomorphic Machine Learning Big Data Pipeline for the Financial Services Sector</title>
-      <link>https://eprint.iacr.org/2019/1113</link>
-      <description>Oliver Masters and Hamish Hunt and Enrico Steffinlongo and Jack Crawford and Flavio Bergamaschi</description>
-      <guid isPermaLink="false">2019/1113</guid>
-    </item>
+    <lastBuildDate>Fri, 24 Apr 2020 11:29:16 +0000</lastBuildDate>
     <item>
       <title>Practical Privacy-Preserving K-means Clustering</title>
       <link>https://eprint.iacr.org/2019/1158</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2020/451</link>
       <description>Hao Chen and Miran Kim and Ilya Razenshteyn and Dragos Rotaru and Yongsoo Song and Sameer Wagh</description>
       <guid isPermaLink="false">2020/451</guid>
+    </item>
+    <item>
+      <title>Leia: A Lightweight Cryptographic Neural Network Inference System at the Edge</title>
+      <link>https://eprint.iacr.org/2020/463</link>
+      <description>Xiaoning Liu and Bang Wu and Xingliang Yuan and Xun Yi</description>
+      <guid isPermaLink="false">2020/463</guid>
     </item>
   </channel>
 </rss>
