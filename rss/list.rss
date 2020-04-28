@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2020 11:29:16 +0000</lastBuildDate>
-    <item>
-      <title>Practical Privacy-Preserving K-means Clustering</title>
-      <link>https://eprint.iacr.org/2019/1158</link>
-      <description>Payman Mohassel and Mike Rosulek and Ni Trieu</description>
-      <guid isPermaLink="false">2019/1158</guid>
-    </item>
-    <item>
-      <title>Efficient Two-Round OT Extension and Silent Non-Interactive Secure Computation</title>
-      <link>https://eprint.iacr.org/2019/1159</link>
-      <description>Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai and Lisa Kohl and Peter Rindal and Peter Scholl</description>
-      <guid isPermaLink="false">2019/1159</guid>
-    </item>
-    <item>
-      <title>Trident: Efficient 4PC Framework for Privacy Preserving Machine Learning</title>
-      <link>https://eprint.iacr.org/2019/1315</link>
-      <description>Rahul Rachuri and Ajith Suresh</description>
-      <guid isPermaLink="false">2019/1315</guid>
-    </item>
-    <item>
-      <title>Reverse Firewalls for Actively Secure MPCs</title>
-      <link>https://eprint.iacr.org/2019/1317</link>
-      <description>Suvradip Chakraborty and Stefan Dziembowski and Jesper Buus Nielsen</description>
-      <guid isPermaLink="false">2019/1317</guid>
-    </item>
-    <item>
-      <title>Homomorphic Encryption Random Beacon</title>
-      <link>https://eprint.iacr.org/2019/1320</link>
-      <description>Alisa Cherniaeva and Ilia Shirobokov and Omer Shlomovits</description>
-      <guid isPermaLink="false">2019/1320</guid>
-    </item>
-    <item>
-      <title>SEAL: Sealed-Bid Auction Without Auctioneers</title>
-      <link>https://eprint.iacr.org/2019/1332</link>
-      <description>Samiran Bag and  Feng Hao and Siamak F. Shahandashti and Indranil G. Ray</description>
-      <guid isPermaLink="false">2019/1332</guid>
-    </item>
+    <lastBuildDate>Tue, 28 Apr 2020 20:22:05 +0000</lastBuildDate>
     <item>
       <title>Privacy-Preserving Distributed Machine Learning based on Secret Sharing</title>
       <link>https://eprint.iacr.org/2019/1334</link>
@@ -307,6 +271,42 @@
       <link>https://eprint.iacr.org/2020/463</link>
       <description>Xiaoning Liu and Bang Wu and Xingliang Yuan and Xun Yi</description>
       <guid isPermaLink="false">2020/463</guid>
+    </item>
+    <item>
+      <title>Near-optimal Polynomial for Modulus Reduction Using L2-norm for Approximate Homomorphic Encryption</title>
+      <link>https://eprint.iacr.org/2020/488</link>
+      <description>Yongwoo Lee and Joonwoo Lee and Young-Sik Kim and Jong-Seon No </description>
+      <guid isPermaLink="false">2020/488</guid>
+    </item>
+    <item>
+      <title>Pandemic Contact Tracing Apps: DP-3T, PEPP-PT NTK, and ROBERT from a Privacy Perspective</title>
+      <link>https://eprint.iacr.org/2020/489</link>
+      <description>Fraunhofer AISEC</description>
+      <guid isPermaLink="false">2020/489</guid>
+    </item>
+    <item>
+      <title>Efficient AGCD-based homomorphic encryption for matrix and vector arithmetic</title>
+      <link>https://eprint.iacr.org/2020/491</link>
+      <description>Hilder Vitor Lima Pereira</description>
+      <guid isPermaLink="false">2020/491</guid>
+    </item>
+    <item>
+      <title>UC Non-Interactive, Proactive, Threshold ECDSA</title>
+      <link>https://eprint.iacr.org/2020/492</link>
+      <description>Ran Canetti and Nikolaos Makriyannis and Udi Peled</description>
+      <guid isPermaLink="false">2020/492</guid>
+    </item>
+    <item>
+      <title>Towards Defeating Mass Surveillance and SARS-CoV-2: The Pronto-C2 Fully Decentralized Automatic Contact Tracing System</title>
+      <link>https://eprint.iacr.org/2020/493</link>
+      <description>Gennaro Avitabile and Vincenzo Botta and Vincenzo Iovino and Ivan Visconti</description>
+      <guid isPermaLink="false">2020/493</guid>
+    </item>
+    <item>
+      <title>Improved Black-Box Constructions of Composable Secure Computation</title>
+      <link>https://eprint.iacr.org/2020/494</link>
+      <description>Rohit Chatterjee and Xiao Liang and Omkant Pandey</description>
+      <guid isPermaLink="false">2020/494</guid>
     </item>
   </channel>
 </rss>

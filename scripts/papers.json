@@ -1,5 +1,35 @@
 [
 {
+"authors":"Rohit Chatterjee and Xiao Liang and Omkant Pandey",
+"id":"2020/494",
+"title":"Improved Black-Box Constructions of Composable Secure Computation"
+},
+{
+"authors":"Gennaro Avitabile and Vincenzo Botta and Vincenzo Iovino and Ivan Visconti",
+"id":"2020/493",
+"title":"Towards Defeating Mass Surveillance and SARS-CoV-2: The Pronto-C2 Fully Decentralized Automatic Contact Tracing System"
+},
+{
+"authors":"Ran Canetti and Nikolaos Makriyannis and Udi Peled",
+"id":"2020/492",
+"title":"UC Non-Interactive, Proactive, Threshold ECDSA"
+},
+{
+"authors":"Hilder Vitor Lima Pereira",
+"id":"2020/491",
+"title":"Efficient AGCD-based homomorphic encryption for matrix and vector arithmetic"
+},
+{
+"authors":"Fraunhofer AISEC",
+"id":"2020/489",
+"title":"Pandemic Contact Tracing Apps: DP-3T, PEPP-PT NTK, and ROBERT from a Privacy Perspective"
+},
+{
+"authors":"Yongwoo Lee and Joonwoo Lee and Young-Sik Kim and Jong-Seon No ",
+"id":"2020/488",
+"title":"Near-optimal Polynomial for Modulus Reduction Using L2-norm for Approximate Homomorphic Encryption"
+},
+{
 "authors":"Xiaoning Liu and Bang Wu and Xingliang Yuan and Xun Yi",
 "id":"2020/463",
 "title":"Leia: A Lightweight Cryptographic Neural Network Inference System at the Edge"
