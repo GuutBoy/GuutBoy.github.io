@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2020 20:22:05 +0000</lastBuildDate>
-    <item>
-      <title>Privacy-Preserving Distributed Machine Learning based on Secret Sharing</title>
-      <link>https://eprint.iacr.org/2019/1334</link>
-      <description>Ye Dong and Xiaojun Chen and Liyan Shen</description>
-      <guid isPermaLink="false">2019/1334</guid>
-    </item>
-    <item>
-      <title>Two-party Private Set Intersection with an Untrusted Third Party</title>
-      <link>https://eprint.iacr.org/2019/1338</link>
-      <description>Phi Hung Le and Samuel Ranellucci and S. Dov Gordon</description>
-      <guid isPermaLink="false">2019/1338</guid>
-    </item>
-    <item>
-      <title>Secret Shared Shuffle</title>
-      <link>https://eprint.iacr.org/2019/1340</link>
-      <description>Melissa Chase and Esha Ghosh and Oxana Poburinnaya</description>
-      <guid isPermaLink="false">2019/1340</guid>
-    </item>
-    <item>
-      <title>Succinct Non-Interactive Secure Computation</title>
-      <link>https://eprint.iacr.org/2019/1341</link>
-      <description>Andrew Morgan and Rafael Pass and Antigoni Polychroniadou</description>
-      <guid isPermaLink="false">2019/1341</guid>
-    </item>
+    <lastBuildDate>Fri, 01 May 2020 06:26:27 +0000</lastBuildDate>
     <item>
       <title>From Fairness to Full Security in Multiparty Computation</title>
       <link>https://eprint.iacr.org/2019/1344</link>
@@ -307,6 +283,30 @@
       <link>https://eprint.iacr.org/2020/494</link>
       <description>Rohit Chatterjee and Xiao Liang and Omkant Pandey</description>
       <guid isPermaLink="false">2020/494</guid>
+    </item>
+    <item>
+      <title>Collusion-Preserving Computation without a Mediator</title>
+      <link>https://eprint.iacr.org/2020/497</link>
+      <description>Michele Ciampi and Yun Lu and Vassilis Zikas</description>
+      <guid isPermaLink="false">2020/497</guid>
+    </item>
+    <item>
+      <title>Threshold ECDSA for Decentralized Asset Custody</title>
+      <link>https://eprint.iacr.org/2020/498</link>
+      <description>Adam G&amp;#261;gol and Damian Straszak</description>
+      <guid isPermaLink="false">2020/498</guid>
+    </item>
+    <item>
+      <title>Fast Threshold ECDSA with Honest Majority</title>
+      <link>https://eprint.iacr.org/2020/501</link>
+      <description>Ivan Damgård and Thomas Pelle Jakobsen and Jesper Buus Nielsen and Jakob Illeborg Pagter and Michael Bæksvang Østergård</description>
+      <guid isPermaLink="false">2020/501</guid>
+    </item>
+    <item>
+      <title>ConTra Corona: Contact Tracing against the Coronavirus by Bridging the Centralized-Decentralized Divide for Stronger Privacy</title>
+      <link>https://eprint.iacr.org/2020/505</link>
+      <description>Wasilij Beskorovajnov and Felix Dörre and Gunnar Hartung and Alexander Koch and Jörn Müller-Quade and Thorsten Strufe</description>
+      <guid isPermaLink="false">2020/505</guid>
     </item>
   </channel>
 </rss>

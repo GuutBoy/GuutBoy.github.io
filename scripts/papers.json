@@ -1,5 +1,25 @@
 [
 {
+"authors":"Wasilij Beskorovajnov and Felix D\u00f6rre and Gunnar Hartung and Alexander Koch and J\u00f6rn M\u00fcller-Quade and Thorsten Strufe",
+"id":"2020/505",
+"title":"ConTra Corona: Contact Tracing against the Coronavirus by Bridging the Centralized-Decentralized Divide for Stronger Privacy"
+},
+{
+"authors":"Ivan Damg\u00e5rd and Thomas Pelle Jakobsen and Jesper Buus Nielsen and Jakob Illeborg Pagter and Michael B\u00e6ksvang \u00d8sterg\u00e5rd",
+"id":"2020/501",
+"title":"Fast Threshold ECDSA with Honest Majority"
+},
+{
+"authors":"Adam G&#261;gol and Damian Straszak",
+"id":"2020/498",
+"title":"Threshold ECDSA for Decentralized Asset Custody"
+},
+{
+"authors":"Michele Ciampi and Yun Lu and Vassilis Zikas",
+"id":"2020/497",
+"title":"Collusion-Preserving Computation without a Mediator"
+},
+{
 "authors":"Rohit Chatterjee and Xiao Liang and Omkant Pandey",
 "id":"2020/494",
 "title":"Improved Black-Box Constructions of Composable Secure Computation"
