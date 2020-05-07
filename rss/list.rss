@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2020 06:26:27 +0000</lastBuildDate>
-    <item>
-      <title>From Fairness to Full Security in Multiparty Computation</title>
-      <link>https://eprint.iacr.org/2019/1344</link>
-      <description>Ran Cohen and Iftach Haitner and Eran Omri and Lior Rotem</description>
-      <guid isPermaLink="false">2019/1344</guid>
-    </item>
-    <item>
-      <title>Privacy-Preserving Decentralised Singular Value Decomposition</title>
-      <link>https://eprint.iacr.org/2019/1346</link>
-      <description>Bowen Liu and Qiang Tang</description>
-      <guid isPermaLink="false">2019/1346</guid>
-    </item>
-    <item>
-      <title>Cryptanalysis of the Legendre PRF and generalizations</title>
-      <link>https://eprint.iacr.org/2019/1357</link>
-      <description>Ward Beullens and Tim Beyne and Aleksei Udovenko and Giuseppe Vitto</description>
-      <guid isPermaLink="false">2019/1357</guid>
-    </item>
-    <item>
-      <title>FLASH: Fast and Robust Framework for Privacy-preserving Machine Learning</title>
-      <link>https://eprint.iacr.org/2019/1365</link>
-      <description>Megha Byali and Harsh Chaudhari and Arpita Patra and Ajith Suresh</description>
-      <guid isPermaLink="false">2019/1365</guid>
-    </item>
-    <item>
-      <title>Practical Fully Secure Three-Party Computation via Sublinear Distributed Zero-Knowledge Proofs</title>
-      <link>https://eprint.iacr.org/2019/1390</link>
-      <description>Elette Boyle and Niv Gilboa and Yuval Ishai and Ariel Nof</description>
-      <guid isPermaLink="false">2019/1390</guid>
-    </item>
-    <item>
-      <title>Automatize parameter tuning in Ring-Learning-With-Errors-based leveled homomorphic cryptosystem implementations</title>
-      <link>https://eprint.iacr.org/2019/1402</link>
-      <description>Vincent HERBERT</description>
-      <guid isPermaLink="false">2019/1402</guid>
-    </item>
+    <lastBuildDate>Thu, 07 May 2020 13:55:25 +0000</lastBuildDate>
     <item>
       <title>Boolean functions for homomorphic-friendly stream ciphers</title>
       <link>https://eprint.iacr.org/2019/1446</link>
@@ -307,6 +271,42 @@
       <link>https://eprint.iacr.org/2020/505</link>
       <description>Wasilij Beskorovajnov and Felix Dörre and Gunnar Hartung and Alexander Koch and Jörn Müller-Quade and Thorsten Strufe</description>
       <guid isPermaLink="false">2020/505</guid>
+    </item>
+    <item>
+      <title>Design &amp; Analysis of Optimal Coin-tossing: New Techniques</title>
+      <link>https://eprint.iacr.org/2020/519</link>
+      <description>Hamidreza Amini Khorasgani and Hemanta K. Maji and Mingyuan Wang</description>
+      <guid isPermaLink="false">2020/519</guid>
+    </item>
+    <item>
+      <title>MP-SPDZ: A Versatile Framework for Multi-Party Computation</title>
+      <link>https://eprint.iacr.org/2020/521</link>
+      <description>Marcel Keller</description>
+      <guid isPermaLink="false">2020/521</guid>
+    </item>
+    <item>
+      <title>Aggregated Private Information Retrieval: A First Practical Implementation to Support Large-Scale Disease Analytics</title>
+      <link>https://eprint.iacr.org/2020/522</link>
+      <description>Lukas Helminger and Daniel Kales and Christian Rechberger and Roman Walch</description>
+      <guid isPermaLink="false">2020/522</guid>
+    </item>
+    <item>
+      <title>Privacy-Preserving COVID-19 Contact Tracing App: A Zero-Knowledge Proof Approach</title>
+      <link>https://eprint.iacr.org/2020/528</link>
+      <description>Joseph K. Liu and Man Ho Au and Tsz Hon Yuen and Cong Zuo and Jiawei Wang and Amin Sakzad and Xiapu Luo and Li Li</description>
+      <guid isPermaLink="false">2020/528</guid>
+    </item>
+    <item>
+      <title>Determining the Multiplicative Complexity of Boolean Functions using SAT</title>
+      <link>https://eprint.iacr.org/2020/530</link>
+      <description>Mathias Soeken</description>
+      <guid isPermaLink="false">2020/530</guid>
+    </item>
+    <item>
+      <title>Centralized or Decentralized? The Contact Tracing Dilemma</title>
+      <link>https://eprint.iacr.org/2020/531</link>
+      <description>Serge Vaudenay</description>
+      <guid isPermaLink="false">2020/531</guid>
     </item>
   </channel>
 </rss>

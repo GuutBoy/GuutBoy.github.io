@@ -1,5 +1,35 @@
 [
 {
+"authors":"Serge Vaudenay",
+"id":"2020/531",
+"title":"Centralized or Decentralized? The Contact Tracing Dilemma"
+},
+{
+"authors":"Mathias Soeken",
+"id":"2020/530",
+"title":"Determining the Multiplicative Complexity of Boolean Functions using SAT"
+},
+{
+"authors":"Joseph K. Liu and Man Ho Au and Tsz Hon Yuen and Cong Zuo and Jiawei Wang and Amin Sakzad and Xiapu Luo and Li Li",
+"id":"2020/528",
+"title":"Privacy-Preserving COVID-19 Contact Tracing App: A Zero-Knowledge Proof Approach"
+},
+{
+"authors":"Lukas Helminger and Daniel Kales and Christian Rechberger and Roman Walch",
+"id":"2020/522",
+"title":"Aggregated Private Information Retrieval: A First Practical Implementation to Support Large-Scale Disease Analytics"
+},
+{
+"authors":"Marcel Keller",
+"id":"2020/521",
+"title":"MP-SPDZ: A Versatile Framework for Multi-Party Computation"
+},
+{
+"authors":"Hamidreza Amini Khorasgani and Hemanta K. Maji and Mingyuan Wang",
+"id":"2020/519",
+"title":"Design & Analysis of Optimal Coin-tossing: New Techniques"
+},
+{
 "authors":"Wasilij Beskorovajnov and Felix D\u00f6rre and Gunnar Hartung and Alexander Koch and J\u00f6rn M\u00fcller-Quade and Thorsten Strufe",
 "id":"2020/505",
 "title":"ConTra Corona: Contact Tracing against the Coronavirus by Bridging the Centralized-Decentralized Divide for Stronger Privacy"
