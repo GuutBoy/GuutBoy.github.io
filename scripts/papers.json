@@ -1,5 +1,10 @@
 [
 {
+"authors":"Rosario Gennaro and Steven Goldfeder",
+"id":"2020/540",
+"title":"One Round Threshold ECDSA with Identifiable Abort"
+},
+{
 "authors":"Carsten Baum and Bernardo David and Rafael Dowsley and Jesper Buus Nielsen and Sabine Oechsner",
 "id":"2020/537",
 "title":"TARDIS: Time And Relative Delays In Simulation"
