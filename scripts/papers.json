@@ -1,5 +1,10 @@
 [
 {
+"authors":"Benny Applebaum and Eliran Kachlon and Arpita Patra",
+"id":"2020/581",
+"title":"The Round Complexity of Perfect MPC with Active Security and Optimal Resiliency"
+},
+{
 "authors":"Jinkyu Cho and Young-Sik Kim and Jong-Seon No",
 "id":"2020/565",
 "title":"Homomorphic Computation in Reed-Muller Codes"

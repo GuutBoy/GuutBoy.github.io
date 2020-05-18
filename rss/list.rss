@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2020 05:57:50 +0000</lastBuildDate>
-    <item>
-      <title>Metal: A Metadata-Hiding File-Sharing System</title>
-      <link>https://eprint.iacr.org/2020/083</link>
-      <description>Weikeng Chen and Raluca Ada Popa</description>
-      <guid isPermaLink="false">2020/083</guid>
-    </item>
+    <lastBuildDate>Mon, 18 May 2020 18:15:46 +0000</lastBuildDate>
     <item>
       <title>A Note on Secure Multiparty Computation via Higher Residue Symbol Techniques</title>
       <link>https://eprint.iacr.org/2020/183</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2020/565</link>
       <description>Jinkyu Cho and Young-Sik Kim and Jong-Seon No</description>
       <guid isPermaLink="false">2020/565</guid>
+    </item>
+    <item>
+      <title>The Round Complexity of Perfect MPC with Active Security and Optimal Resiliency</title>
+      <link>https://eprint.iacr.org/2020/581</link>
+      <description>Benny Applebaum and Eliran Kachlon and Arpita Patra</description>
+      <guid isPermaLink="false">2020/581</guid>
     </item>
   </channel>
 </rss>
