@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2020 06:22:15 +0000</lastBuildDate>
-    <item>
-      <title>Privacy-preserving greater-than integer comparison without binary decomposition</title>
-      <link>https://eprint.iacr.org/2019/1462</link>
-      <description>Sigurd Eskeland</description>
-      <guid isPermaLink="false">2019/1462</guid>
-    </item>
-    <item>
-      <title>Communication--Computation Trade-offs in PIR</title>
-      <link>https://eprint.iacr.org/2019/1483</link>
-      <description>Asra Ali and Tancrède Lepoint and Sarvar Patel and Mariana Raykova and Phillipp Schoppmann and Karn Seth and Kevin Yeo</description>
-      <guid isPermaLink="false">2019/1483</guid>
-    </item>
-    <item>
-      <title>Analysis of Modified Shell Sort for Fully Homomorphic Encryption</title>
-      <link>https://eprint.iacr.org/2019/1497</link>
-      <description>Joon-Woo Lee and Young-Sik Kim and Jong-Seon No</description>
-      <guid isPermaLink="false">2019/1497</guid>
-    </item>
-    <item>
-      <title>Efficient Homomorphic Conversion Between (Ring) LWE Ciphertexts</title>
-      <link>https://eprint.iacr.org/2020/015</link>
-      <description>Hao Chen and Wei Dai and Miran Kim and Yongsoo Song</description>
-      <guid isPermaLink="false">2020/015</guid>
-    </item>
-    <item>
-      <title>Differentially-Private Multi-Party Sketching for Large-Scale Statistics</title>
-      <link>https://eprint.iacr.org/2020/029</link>
-      <description>Seung Geol Choi and Dana Dachman-Soled and Mukul Kulkarni and Arkady Yerukhimovich</description>
-      <guid isPermaLink="false">2020/029</guid>
-    </item>
-    <item>
-      <title>BLAZE: Blazing Fast Privacy-Preserving Machine Learning</title>
-      <link>https://eprint.iacr.org/2020/042</link>
-      <description>Arpita Patra and Ajith Suresh</description>
-      <guid isPermaLink="false">2020/042</guid>
-    </item>
-    <item>
-      <title>Delphi: A Cryptographic Inference Service for Neural Networks</title>
-      <link>https://eprint.iacr.org/2020/050</link>
-      <description>Pratyush Mishra and Ryan Lehmkuhl and Akshayaram Srinivasan and Wenting Zheng and Raluca Ada Popa</description>
-      <guid isPermaLink="false">2020/050</guid>
-    </item>
+    <lastBuildDate>Mon, 18 May 2020 05:57:50 +0000</lastBuildDate>
     <item>
       <title>Metal: A Metadata-Hiding File-Sharing System</title>
       <link>https://eprint.iacr.org/2020/083</link>
@@ -307,6 +265,48 @@
       <link>https://eprint.iacr.org/2020/540</link>
       <description>Rosario Gennaro and Steven Goldfeder</description>
       <guid isPermaLink="false">2020/540</guid>
+    </item>
+    <item>
+      <title>SNI-in-the-head: Protecting MPC-in-the-head Protocols against Side-channel Analysis</title>
+      <link>https://eprint.iacr.org/2020/544</link>
+      <description>Okan Seker and Sebastian Berndt and Thomas Eisenbarth</description>
+      <guid isPermaLink="false">2020/544</guid>
+    </item>
+    <item>
+      <title>Efficient and Round-Optimal Oblivious Transfer and Commitment with Adaptive Security</title>
+      <link>https://eprint.iacr.org/2020/545</link>
+      <description>Ran Canetti and Pratik Sarkar and Xiao Wang</description>
+      <guid isPermaLink="false">2020/545</guid>
+    </item>
+    <item>
+      <title>Practical MPC+FHE with Applications in Secure Multi-PartyNeural Network Evaluation</title>
+      <link>https://eprint.iacr.org/2020/550</link>
+      <description>Ruiyu Zhu and Changchang Ding and Yan Huang</description>
+      <guid isPermaLink="false">2020/550</guid>
+    </item>
+    <item>
+      <title>Optimal Minimax Polynomial Approximation of Modular Reduction for Bootstrapping of Approximate Homomorphic Encryption</title>
+      <link>https://eprint.iacr.org/2020/552</link>
+      <description>Joon-Woo Lee and Eunsang Lee and Yongwoo Lee and Young-Sik Kim and Jong-Seon No</description>
+      <guid isPermaLink="false">2020/552</guid>
+    </item>
+    <item>
+      <title>Striking the Balance: Effective yet Privacy Friendly Contact Tracing</title>
+      <link>https://eprint.iacr.org/2020/559</link>
+      <description>Giuseppe Garofalo and Tim Van hamme and Davy Preuveneers and Wouter Joosen and Aysajan Abidin and Mustafa A. Mustafa</description>
+      <guid isPermaLink="false">2020/559</guid>
+    </item>
+    <item>
+      <title>Secure large-scale genome-wide association studies using homomorphic encryption</title>
+      <link>https://eprint.iacr.org/2020/563</link>
+      <description>Marcelo Blatt and Alexander Gusev and Yuriy Polyakov and Shafi Goldwasser</description>
+      <guid isPermaLink="false">2020/563</guid>
+    </item>
+    <item>
+      <title>Homomorphic Computation in Reed-Muller Codes</title>
+      <link>https://eprint.iacr.org/2020/565</link>
+      <description>Jinkyu Cho and Young-Sik Kim and Jong-Seon No</description>
+      <guid isPermaLink="false">2020/565</guid>
     </item>
   </channel>
 </rss>

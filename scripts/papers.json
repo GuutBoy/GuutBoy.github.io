@@ -1,5 +1,40 @@
 [
 {
+"authors":"Jinkyu Cho and Young-Sik Kim and Jong-Seon No",
+"id":"2020/565",
+"title":"Homomorphic Computation in Reed-Muller Codes"
+},
+{
+"authors":"Marcelo Blatt and Alexander Gusev and Yuriy Polyakov and Shafi Goldwasser",
+"id":"2020/563",
+"title":"Secure large-scale genome-wide association studies using homomorphic encryption"
+},
+{
+"authors":"Giuseppe Garofalo and Tim Van hamme and Davy Preuveneers and Wouter Joosen and Aysajan Abidin and Mustafa A. Mustafa",
+"id":"2020/559",
+"title":"Striking the Balance: Effective yet Privacy Friendly Contact Tracing"
+},
+{
+"authors":"Joon-Woo Lee and Eunsang Lee and Yongwoo Lee and Young-Sik Kim and Jong-Seon No",
+"id":"2020/552",
+"title":"Optimal Minimax Polynomial Approximation of Modular Reduction for Bootstrapping of Approximate Homomorphic Encryption"
+},
+{
+"authors":"Ruiyu Zhu and Changchang Ding and Yan Huang",
+"id":"2020/550",
+"title":"Practical MPC+FHE with Applications in Secure Multi-PartyNeural Network Evaluation"
+},
+{
+"authors":"Ran Canetti and Pratik Sarkar and Xiao Wang",
+"id":"2020/545",
+"title":"Efficient and Round-Optimal Oblivious Transfer and Commitment with Adaptive Security"
+},
+{
+"authors":"Okan Seker and Sebastian Berndt and Thomas Eisenbarth",
+"id":"2020/544",
+"title":"SNI-in-the-head: Protecting MPC-in-the-head Protocols against Side-channel Analysis"
+},
+{
 "authors":"Rosario Gennaro and Steven Goldfeder",
 "id":"2020/540",
 "title":"One Round Threshold ECDSA with Identifiable Abort"
