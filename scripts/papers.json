@@ -5,11 +5,6 @@
 "title":"Perfectly Secure Oblivious Parallel RAM with $O(\\log^3 N/ \\log \\log N)$ Overhead"
 },
 {
-"authors":"Amir Dembo and Sreeram Kannan and Ertem Nusret Tas and David Tse and Pramod Viswanath and Xuechao Wang and Ofer Zeitouni",
-"id":"2020/601",
-"title":"Everything is a Race and Nakamoto Always Wins"
-},
-{
 "authors":"Saikrishna Badrinarayanan and Peihan Miao and Peter Rindal",
 "id":"2020/600",
 "title":"Multi-Party Threshold Private Set Intersection with Sublinear Communication"
