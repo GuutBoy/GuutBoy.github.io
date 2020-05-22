@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2020 18:15:46 +0000</lastBuildDate>
-    <item>
-      <title>A Note on Secure Multiparty Computation via Higher Residue Symbol Techniques</title>
-      <link>https://eprint.iacr.org/2020/183</link>
-      <description>Ignacio Cascudo and Reto Schnyder</description>
-      <guid isPermaLink="false">2020/183</guid>
-    </item>
-    <item>
-      <title>Thresholdizing HashEdDSA: MPC to the Rescue</title>
-      <link>https://eprint.iacr.org/2020/214</link>
-      <description>Charlotte Bonte and Nigel P. Smart and Titouan Tanguy</description>
-      <guid isPermaLink="false">2020/214</guid>
-    </item>
-    <item>
-      <title>Secure Multiparty Computation (MPC)</title>
-      <link>https://eprint.iacr.org/2020/300</link>
-      <description>Yehuda Lindell</description>
-      <guid isPermaLink="false">2020/300</guid>
-    </item>
-    <item>
-      <title>Multiparty Homomorphic Encryption: From Theory to Practice</title>
-      <link>https://eprint.iacr.org/2020/304</link>
-      <description>Christian Mouchet and Juan Troncoso-Pastoriza and Jean-Pierre Hubaux</description>
-      <guid isPermaLink="false">2020/304</guid>
-    </item>
-    <item>
-      <title>Improved Primitives for MPC over Mixed Arithmetic-Binary Circuits</title>
-      <link>https://eprint.iacr.org/2020/338</link>
-      <description>Daniel Escudero and Satrajit Ghosh and Marcel Keller and Rahul Rachuri and Peter Scholl</description>
-      <guid isPermaLink="false">2020/338</guid>
-    </item>
-    <item>
-      <title>Efficient MPC with a Mixed Adversary</title>
-      <link>https://eprint.iacr.org/2020/356</link>
-      <description>Martin Hirt and Marta Mularczyk</description>
-      <guid isPermaLink="false">2020/356</guid>
-    </item>
+    <lastBuildDate>Fri, 22 May 2020 20:01:36 +0000</lastBuildDate>
     <item>
       <title>Multiparty Generation of an RSA Modulus</title>
       <link>https://eprint.iacr.org/2020/370</link>
@@ -307,6 +271,42 @@
       <link>https://eprint.iacr.org/2020/581</link>
       <description>Benny Applebaum and Eliran Kachlon and Arpita Patra</description>
       <guid isPermaLink="false">2020/581</guid>
+    </item>
+    <item>
+      <title>Component-Based Comparison of Privacy-First Exposure Notification Protocols</title>
+      <link>https://eprint.iacr.org/2020/586</link>
+      <description>Ellie Daw</description>
+      <guid isPermaLink="false">2020/586</guid>
+    </item>
+    <item>
+      <title>SWIFT: Super-fast and Robust Privacy-Preserving Machine Learning</title>
+      <link>https://eprint.iacr.org/2020/592</link>
+      <description>Nishat Koti and Mahak Pancholi and Arpita Patra and Ajith Suresh</description>
+      <guid isPermaLink="false">2020/592</guid>
+    </item>
+    <item>
+      <title>Private Matching for Compute</title>
+      <link>https://eprint.iacr.org/2020/599</link>
+      <description>Prasad Buddhavarapu and Andrew Knox and Payman Mohassel and Shubho Sengupta and  Erik Taubeneck and Vlad Vlaskin </description>
+      <guid isPermaLink="false">2020/599</guid>
+    </item>
+    <item>
+      <title>Multi-Party Threshold Private Set Intersection with Sublinear Communication</title>
+      <link>https://eprint.iacr.org/2020/600</link>
+      <description>Saikrishna Badrinarayanan and Peihan Miao and Peter Rindal</description>
+      <guid isPermaLink="false">2020/600</guid>
+    </item>
+    <item>
+      <title>Everything is a Race and Nakamoto Always Wins</title>
+      <link>https://eprint.iacr.org/2020/601</link>
+      <description>Amir Dembo and Sreeram Kannan and Ertem Nusret Tas and David Tse and Pramod Viswanath and Xuechao Wang and Ofer Zeitouni</description>
+      <guid isPermaLink="false">2020/601</guid>
+    </item>
+    <item>
+      <title>Perfectly Secure Oblivious Parallel RAM with $O(\log^3 N/ \log \log N)$ Overhead</title>
+      <link>https://eprint.iacr.org/2020/604</link>
+      <description>T-H. Hubert Chan and Wei-Kai Lin and Kartik Nayak and Elaine Shi</description>
+      <guid isPermaLink="false">2020/604</guid>
     </item>
   </channel>
 </rss>

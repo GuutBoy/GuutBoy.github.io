@@ -1,5 +1,35 @@
 [
 {
+"authors":"T-H. Hubert Chan and Wei-Kai Lin and Kartik Nayak and Elaine Shi",
+"id":"2020/604",
+"title":"Perfectly Secure Oblivious Parallel RAM with $O(\\log^3 N/ \\log \\log N)$ Overhead"
+},
+{
+"authors":"Amir Dembo and Sreeram Kannan and Ertem Nusret Tas and David Tse and Pramod Viswanath and Xuechao Wang and Ofer Zeitouni",
+"id":"2020/601",
+"title":"Everything is a Race and Nakamoto Always Wins"
+},
+{
+"authors":"Saikrishna Badrinarayanan and Peihan Miao and Peter Rindal",
+"id":"2020/600",
+"title":"Multi-Party Threshold Private Set Intersection with Sublinear Communication"
+},
+{
+"authors":"Prasad Buddhavarapu and Andrew Knox and Payman Mohassel and Shubho Sengupta and  Erik Taubeneck and Vlad Vlaskin ",
+"id":"2020/599",
+"title":"Private Matching for Compute"
+},
+{
+"authors":"Nishat Koti and Mahak Pancholi and Arpita Patra and Ajith Suresh",
+"id":"2020/592",
+"title":"SWIFT: Super-fast and Robust Privacy-Preserving Machine Learning"
+},
+{
+"authors":"Ellie Daw",
+"id":"2020/586",
+"title":"Component-Based Comparison of Privacy-First Exposure Notification Protocols"
+},
+{
 "authors":"Benny Applebaum and Eliran Kachlon and Arpita Patra",
 "id":"2020/581",
 "title":"The Round Complexity of Perfect MPC with Active Security and Optimal Resiliency"
