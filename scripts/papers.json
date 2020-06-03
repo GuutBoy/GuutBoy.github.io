@@ -1,5 +1,20 @@
 [
 {
+"authors":"Jason H. M. Ying and Shuwei Cao and Geong Sen Poh and Jia Xu and Hoon Wei Lim",
+"id":"2020/623",
+"title":"PSI-Stats: Private Set Intersection Protocols Supporting Secure Statistical Functions"
+},
+{
+"authors":"Ben Kreuter and Sarvar Patel and Ben Terner",
+"id":"2020/620",
+"title":"Private Identity Agreement for Private Set Functionalities"
+},
+{
+"authors":"Ivan Damg\u00e5rd and Sophia Yakoubov",
+"id":"2020/618",
+"title":"Bounds on Ad Hoc Threshold Encryption"
+},
+{
 "authors":"T-H. Hubert Chan and Wei-Kai Lin and Kartik Nayak and Elaine Shi",
 "id":"2020/604",
 "title":"Perfectly Secure Oblivious Parallel RAM with $O(\\log^3 N/ \\log \\log N)$ Overhead"

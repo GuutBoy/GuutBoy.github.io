@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2020 20:01:36 +0000</lastBuildDate>
-    <item>
-      <title>Multiparty Generation of an RSA Modulus</title>
-      <link>https://eprint.iacr.org/2020/370</link>
-      <description>Megan Chen and Ran Cohen and Jack Doerner and Yashvanth Kondi and Eysa Lee and Schuyler Rosefield and abhi shelat</description>
-      <guid isPermaLink="false">2020/370</guid>
-    </item>
-    <item>
-      <title>Diogenes: Lightweight Scalable RSA Modulus Generation with a Dishonest Majority</title>
-      <link>https://eprint.iacr.org/2020/374</link>
-      <description>Megan Chen and Carmit Hazay and Yuval Ishai and Yuriy Kashnikov and Daniele Micciancio and Tarik Riviere and abhi shelat and Muthu Venkitasubramaniam and Ruihan Wang</description>
-      <guid isPermaLink="false">2020/374</guid>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2020 07:34:43 +0000</lastBuildDate>
     <item>
       <title>Privacy-Preserving Contact Tracing of COVID-19 Patients</title>
       <link>https://eprint.iacr.org/2020/375</link>
@@ -297,16 +285,28 @@
       <guid isPermaLink="false">2020/600</guid>
     </item>
     <item>
-      <title>Everything is a Race and Nakamoto Always Wins</title>
-      <link>https://eprint.iacr.org/2020/601</link>
-      <description>Amir Dembo and Sreeram Kannan and Ertem Nusret Tas and David Tse and Pramod Viswanath and Xuechao Wang and Ofer Zeitouni</description>
-      <guid isPermaLink="false">2020/601</guid>
-    </item>
-    <item>
       <title>Perfectly Secure Oblivious Parallel RAM with $O(\log^3 N/ \log \log N)$ Overhead</title>
       <link>https://eprint.iacr.org/2020/604</link>
       <description>T-H. Hubert Chan and Wei-Kai Lin and Kartik Nayak and Elaine Shi</description>
       <guid isPermaLink="false">2020/604</guid>
+    </item>
+    <item>
+      <title>Bounds on Ad Hoc Threshold Encryption</title>
+      <link>https://eprint.iacr.org/2020/618</link>
+      <description>Ivan Damgård and Sophia Yakoubov</description>
+      <guid isPermaLink="false">2020/618</guid>
+    </item>
+    <item>
+      <title>Private Identity Agreement for Private Set Functionalities</title>
+      <link>https://eprint.iacr.org/2020/620</link>
+      <description>Ben Kreuter and Sarvar Patel and Ben Terner</description>
+      <guid isPermaLink="false">2020/620</guid>
+    </item>
+    <item>
+      <title>PSI-Stats: Private Set Intersection Protocols Supporting Secure Statistical Functions</title>
+      <link>https://eprint.iacr.org/2020/623</link>
+      <description>Jason H. M. Ying and Shuwei Cao and Geong Sen Poh and Jia Xu and Hoon Wei Lim</description>
+      <guid isPermaLink="false">2020/623</guid>
     </item>
   </channel>
 </rss>
