@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2020 07:34:43 +0000</lastBuildDate>
-    <item>
-      <title>Privacy-Preserving Contact Tracing of COVID-19 Patients</title>
-      <link>https://eprint.iacr.org/2020/375</link>
-      <description>Leonie Reichert and Samuel Brack and Björn Scheuermann</description>
-      <guid isPermaLink="false">2020/375</guid>
-    </item>
-    <item>
-      <title>Oblivious tight compaction in O(n) time with smaller constant</title>
-      <link>https://eprint.iacr.org/2020/377</link>
-      <description>Samuel Dittmer and Rafail Ostrovsky</description>
-      <guid isPermaLink="false">2020/377</guid>
-    </item>
-    <item>
-      <title>Two-Sided Malicious Security for Private Intersection-Sum with Cardinality</title>
-      <link>https://eprint.iacr.org/2020/385</link>
-      <description>Peihan Miao and Sarvar Patel and Mariana Raykova and Karn Seth and Moti Yung</description>
-      <guid isPermaLink="false">2020/385</guid>
-    </item>
-    <item>
-      <title>LevioSA: Lightweight Secure Arithmetic Computation</title>
-      <link>https://eprint.iacr.org/2020/393</link>
-      <description>Carmit Hazay and Yuval Ishai and Antonio Marcedone and Muthuramakrishnan Venkitasubramaniam</description>
-      <guid isPermaLink="false">2020/393</guid>
-    </item>
-    <item>
-      <title>Candidate iO from Homomorphic Encryption Schemes</title>
-      <link>https://eprint.iacr.org/2020/394</link>
-      <description>Zvika Brakerski and Nico Döttling and Sanjam Garg and Giulio Malavolta</description>
-      <guid isPermaLink="false">2020/394</guid>
-    </item>
-    <item>
-      <title>Analysis of DP3T</title>
-      <link>https://eprint.iacr.org/2020/399</link>
-      <description>Serge Vaudenay</description>
-      <guid isPermaLink="false">2020/399</guid>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2020 11:57:26 +0000</lastBuildDate>
     <item>
       <title>Feather: Lightweight Multi-party Updatable Delegated Private Set Intersection</title>
       <link>https://eprint.iacr.org/2020/407</link>
@@ -307,6 +271,42 @@
       <link>https://eprint.iacr.org/2020/623</link>
       <description>Jason H. M. Ying and Shuwei Cao and Geong Sen Poh and Jia Xu and Hoon Wei Lim</description>
       <guid isPermaLink="false">2020/623</guid>
+    </item>
+    <item>
+      <title>ContactChaser: A Simple yet Effective Contact Tracing Scheme with Strong Privacy</title>
+      <link>https://eprint.iacr.org/2020/630</link>
+      <description>Zhiguo Wan and Xiaotong Liu</description>
+      <guid isPermaLink="false">2020/630</guid>
+    </item>
+    <item>
+      <title>Two-Round Oblivious Linear Evaluation from Learning with Errors</title>
+      <link>https://eprint.iacr.org/2020/635</link>
+      <description>Pedro Branco and Nico Döttling and Paulo Mateus </description>
+      <guid isPermaLink="false">2020/635</guid>
+    </item>
+    <item>
+      <title>Mixed-Technique, Maliciously-Secure, and Composed Multi-Party Computations</title>
+      <link>https://eprint.iacr.org/2020/636</link>
+      <description>Erik-Oliver Blass and Florian Kerschbaum</description>
+      <guid isPermaLink="false">2020/636</guid>
+    </item>
+    <item>
+      <title>ALBATROSS: publicly AttestabLe BATched Randomness based On Secret Sharing</title>
+      <link>https://eprint.iacr.org/2020/644</link>
+      <description>Ignacio Cascudo and Bernardo David</description>
+      <guid isPermaLink="false">2020/644</guid>
+    </item>
+    <item>
+      <title>A simple generic construction to build oblivious transfer protocols from homomorphic encryption schemes</title>
+      <link>https://eprint.iacr.org/2020/647</link>
+      <description>Saeid Esmaeilzade and Ziba Eslami and Nasrollah Pakniat</description>
+      <guid isPermaLink="false">2020/647</guid>
+    </item>
+    <item>
+      <title>Multi-Party Computation Mechanism for Anonymous Equity Block Trading: A Secure Implementation of Turquoise Plato Uncross</title>
+      <link>https://eprint.iacr.org/2020/662</link>
+      <description>John Cartlidge and Nigel P. Smart and Younes Talibi Alaoui</description>
+      <guid isPermaLink="false">2020/662</guid>
     </item>
   </channel>
 </rss>

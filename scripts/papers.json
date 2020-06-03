@@ -1,5 +1,35 @@
 [
 {
+"authors":"John Cartlidge and Nigel P. Smart and Younes Talibi Alaoui",
+"id":"2020/662",
+"title":"Multi-Party Computation Mechanism for Anonymous Equity Block Trading: A Secure Implementation of Turquoise Plato Uncross"
+},
+{
+"authors":"Saeid Esmaeilzade and Ziba Eslami and Nasrollah Pakniat",
+"id":"2020/647",
+"title":"A simple generic construction to build oblivious transfer protocols from homomorphic encryption schemes"
+},
+{
+"authors":"Ignacio Cascudo and Bernardo David",
+"id":"2020/644",
+"title":"ALBATROSS: publicly AttestabLe BATched Randomness based On Secret Sharing"
+},
+{
+"authors":"Erik-Oliver Blass and Florian Kerschbaum",
+"id":"2020/636",
+"title":"Mixed-Technique, Maliciously-Secure, and Composed Multi-Party Computations"
+},
+{
+"authors":"Pedro Branco and Nico D\u00f6ttling and Paulo Mateus ",
+"id":"2020/635",
+"title":"Two-Round Oblivious Linear Evaluation from Learning with Errors"
+},
+{
+"authors":"Zhiguo Wan and Xiaotong Liu",
+"id":"2020/630",
+"title":"ContactChaser: A Simple yet Effective Contact Tracing Scheme with Strong Privacy"
+},
+{
 "authors":"Jason H. M. Ying and Shuwei Cao and Geong Sen Poh and Jia Xu and Hoon Wei Lim",
 "id":"2020/623",
 "title":"PSI-Stats: Private Set Intersection Protocols Supporting Secure Statistical Functions"
