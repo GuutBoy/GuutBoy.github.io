@@ -1,5 +1,20 @@
 [
 {
+"authors":"Alexander Munch-Hansen and Claudio Orlandi and Sophia Yakoubov",
+"id":"2020/678",
+"title":"Stronger Notions and a More Efficient Construction of Threshold Ring Signatures"
+},
+{
+"authors":"Leonie Reichert and Samuel Brack and Bj\u00f6rn Scheuermann",
+"id":"2020/672",
+"title":"A Survey of Automatic Contact Tracing Approaches"
+},
+{
+"authors":"Crypto Group at IST Austria",
+"id":"2020/670",
+"title":"Inverse-Sybil Attacks in Automated Contact Tracing"
+},
+{
 "authors":"John Cartlidge and Nigel P. Smart and Younes Talibi Alaoui",
 "id":"2020/662",
 "title":"Multi-Party Computation Mechanism for Anonymous Equity Block Trading: A Secure Implementation of Turquoise Plato Uncross"

@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2020 11:57:26 +0000</lastBuildDate>
-    <item>
-      <title>Feather: Lightweight Multi-party Updatable Delegated Private Set Intersection</title>
-      <link>https://eprint.iacr.org/2020/407</link>
-      <description>Aydin Abadi and Sotirios Terzis and Changyu Dong</description>
-      <guid isPermaLink="false">2020/407</guid>
-    </item>
-    <item>
-      <title>Secure Two-Party Computation in a Quantum World</title>
-      <link>https://eprint.iacr.org/2020/411</link>
-      <description>Niklas Büscher and Daniel Demmler and Nikolaos P. Karvelas and Stefan Katzenbeisser and Juliane Krämer and Deevashwer Rathee and Thomas Schneider and Patrick Struck</description>
-      <guid isPermaLink="false">2020/411</guid>
-    </item>
-    <item>
-      <title>Delayed Authentication: Replay and Relay Attacks on DP-3T</title>
-      <link>https://eprint.iacr.org/2020/418</link>
-      <description>Krzysztof Pietrzak</description>
-      <guid isPermaLink="false">2020/418</guid>
-    </item>
+    <lastBuildDate>Mon, 08 Jun 2020 07:18:14 +0000</lastBuildDate>
     <item>
       <title>Practical Card-Based  Protocol for Three-Input Majority</title>
       <link>https://eprint.iacr.org/2020/420</link>
@@ -307,6 +289,24 @@
       <link>https://eprint.iacr.org/2020/662</link>
       <description>John Cartlidge and Nigel P. Smart and Younes Talibi Alaoui</description>
       <guid isPermaLink="false">2020/662</guid>
+    </item>
+    <item>
+      <title>Inverse-Sybil Attacks in Automated Contact Tracing</title>
+      <link>https://eprint.iacr.org/2020/670</link>
+      <description>Crypto Group at IST Austria</description>
+      <guid isPermaLink="false">2020/670</guid>
+    </item>
+    <item>
+      <title>A Survey of Automatic Contact Tracing Approaches</title>
+      <link>https://eprint.iacr.org/2020/672</link>
+      <description>Leonie Reichert and Samuel Brack and Björn Scheuermann</description>
+      <guid isPermaLink="false">2020/672</guid>
+    </item>
+    <item>
+      <title>Stronger Notions and a More Efficient Construction of Threshold Ring Signatures</title>
+      <link>https://eprint.iacr.org/2020/678</link>
+      <description>Alexander Munch-Hansen and Claudio Orlandi and Sophia Yakoubov</description>
+      <guid isPermaLink="false">2020/678</guid>
     </item>
   </channel>
 </rss>
