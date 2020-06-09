@@ -1,5 +1,10 @@
 [
 {
+"authors":"Shashank Agrawal and Saikrishna Badrinarayanan and Payman Mohassel and Pratyay Mukherjee and Sikhar Patranabis",
+"id":"2020/679",
+"title":"BETA: Biometric Enabled Threshold Authentication"
+},
+{
 "authors":"Alexander Munch-Hansen and Claudio Orlandi and Sophia Yakoubov",
 "id":"2020/678",
 "title":"Stronger Notions and a More Efficient Construction of Threshold Ring Signatures"
