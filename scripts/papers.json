@@ -1,5 +1,20 @@
 [
 {
+"authors":"Diego Aranha and Anders Dalskov and Daniel Escudero and Claudio Orlandi",
+"id":"2020/691",
+"title":"LSS Homomorphisms and Applications to Secure Signatures, Proactive Secret Sharing and Input Certification"
+},
+{
+"authors":"Leo de Castro and Chiraag Juvekar and Vinod Vaikuntanathan",
+"id":"2020/685",
+"title":"Fast Vector Oblivious Linear Evaluation from Ring Learning with Errors"
+},
+{
+"authors":"Abida Haque and Stephan Krenn and Daniel Slamanig and Christoph Striecks",
+"id":"2020/683",
+"title":"Logarithmic-Size (Linkable) Threshold Ring Signatures in the Plain Model"
+},
+{
 "authors":"Shashank Agrawal and Saikrishna Badrinarayanan and Payman Mohassel and Pratyay Mukherjee and Sikhar Patranabis",
 "id":"2020/679",
 "title":"BETA: Biometric Enabled Threshold Authentication"
