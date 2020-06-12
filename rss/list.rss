@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2020 17:52:51 +0000</lastBuildDate>
-    <item>
-      <title>Maliciously Secure Matrix Multiplication with Applications to Private Deep Learning</title>
-      <link>https://eprint.iacr.org/2020/451</link>
-      <description>Hao Chen and Miran Kim and Ilya Razenshteyn and Dragos Rotaru and Yongsoo Song and Sameer Wagh</description>
-      <guid isPermaLink="false">2020/451</guid>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2020 13:07:58 +0000</lastBuildDate>
     <item>
       <title>Leia: A Lightweight Cryptographic Neural Network Inference System at the Edge</title>
       <link>https://eprint.iacr.org/2020/463</link>
@@ -307,6 +301,12 @@
       <link>https://eprint.iacr.org/2020/701</link>
       <description>Bar Alon and Eran Omri and Anat Paskin-Cherniavsky</description>
       <guid isPermaLink="false">2020/701</guid>
+    </item>
+    <item>
+      <title>Secure Single-Server Aggregation with (Poly)Logarithmic Overhead</title>
+      <link>https://eprint.iacr.org/2020/704</link>
+      <description>James Bell and K. A. Bonawitz and Adrià Gascón and Tancrède Lepoint and Mariana Raykova</description>
+      <guid isPermaLink="false">2020/704</guid>
     </item>
   </channel>
 </rss>

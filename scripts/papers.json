@@ -1,5 +1,10 @@
 [
 {
+"authors":"James Bell and K. A. Bonawitz and Adri\u00e0 Gasc\u00f3n and Tancr\u00e8de Lepoint and Mariana Raykova",
+"id":"2020/704",
+"title":"Secure Single-Server Aggregation with (Poly)Logarithmic Overhead"
+},
+{
 "authors":"Bar Alon and Eran Omri and Anat Paskin-Cherniavsky",
 "id":"2020/701",
 "title":"MPC with Friends and Foes"
