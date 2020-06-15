@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2020 13:07:58 +0000</lastBuildDate>
-    <item>
-      <title>Leia: A Lightweight Cryptographic Neural Network Inference System at the Edge</title>
-      <link>https://eprint.iacr.org/2020/463</link>
-      <description>Xiaoning Liu and Bang Wu and Xingliang Yuan and Xun Yi</description>
-      <guid isPermaLink="false">2020/463</guid>
-    </item>
-    <item>
-      <title>Near-optimal Polynomial for Modulus Reduction Using L2-norm for Approximate Homomorphic Encryption</title>
-      <link>https://eprint.iacr.org/2020/488</link>
-      <description>Yongwoo Lee and Joonwoo Lee and Young-Sik Kim and Jong-Seon No </description>
-      <guid isPermaLink="false">2020/488</guid>
-    </item>
+    <lastBuildDate>Mon, 15 Jun 2020 06:45:44 +0000</lastBuildDate>
     <item>
       <title>Pandemic Contact Tracing Apps: DP-3T, PEPP-PT NTK, and ROBERT from a Privacy Perspective</title>
       <link>https://eprint.iacr.org/2020/489</link>
@@ -307,6 +295,18 @@
       <link>https://eprint.iacr.org/2020/704</link>
       <description>James Bell and K. A. Bonawitz and Adrià Gascón and Tancrède Lepoint and Mariana Raykova</description>
       <guid isPermaLink="false">2020/704</guid>
+    </item>
+    <item>
+      <title>A Logic Synthesis Toolbox for Reducing the Multiplicative Complexity in Logic Networks</title>
+      <link>https://eprint.iacr.org/2020/706</link>
+      <description>Eleonora Testa and Mathias Soeken and Heinz Riener and Luca Amaru and Giovanni De Micheli</description>
+      <guid isPermaLink="false">2020/706</guid>
+    </item>
+    <item>
+      <title>Crowd Verifiable Zero-Knowledge and End-to-end Verifiable Multiparty Computation</title>
+      <link>https://eprint.iacr.org/2020/711</link>
+      <description>Foteini Baldimtsi and Aggelos Kiayias and Thomas Zacharias and Bingsheng Zhang</description>
+      <guid isPermaLink="false">2020/711</guid>
     </item>
   </channel>
 </rss>
