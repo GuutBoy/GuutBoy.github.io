@@ -1,5 +1,15 @@
 [
 {
+"authors":"Melissa Chase and Peihan Miao",
+"id":"2020/729",
+"title":"Private Set Intersection in the Internet Setting From Lightweight Oblivious PRF"
+},
+{
+"authors":"Lukas Helminger and Daniel Kales and Sebastian Ramacher and Roman Walch",
+"id":"2020/724",
+"title":"Multi-Party Revocation in Sovrin: Performance through Distributed Trust"
+},
+{
 "authors":"Fabian Boemer and Rosario Cammarota and Daniel Demmler and Thomas Schneider and Hossein Yalame",
 "id":"2020/721",
 "title":"MP2ML: A Mixed-Protocol Machine Learning Framework for Private Inference"
