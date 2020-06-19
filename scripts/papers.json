@@ -1,5 +1,10 @@
 [
 {
+"authors":"Erica Blum and Chen-Da Liu-Zhang and Julian Loss",
+"id":"2020/740",
+"title":"Always Have a Backup Plan: Fully Secure Synchronous MPC with Asynchronous Fallback"
+},
+{
 "authors":"Melissa Chase and Peihan Miao",
 "id":"2020/729",
 "title":"Private Set Intersection in the Internet Setting From Lightweight Oblivious PRF"
