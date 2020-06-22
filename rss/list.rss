@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2020 06:10:10 +0000</lastBuildDate>
-    <item>
-      <title>Improved Black-Box Constructions of Composable Secure Computation</title>
-      <link>https://eprint.iacr.org/2020/494</link>
-      <description>Rohit Chatterjee and Xiao Liang and Omkant Pandey</description>
-      <guid isPermaLink="false">2020/494</guid>
-    </item>
-    <item>
-      <title>Collusion-Preserving Computation without a Mediator</title>
-      <link>https://eprint.iacr.org/2020/497</link>
-      <description>Michele Ciampi and Yun Lu and Vassilis Zikas</description>
-      <guid isPermaLink="false">2020/497</guid>
-    </item>
+    <lastBuildDate>Mon, 22 Jun 2020 12:34:57 +0000</lastBuildDate>
     <item>
       <title>Threshold ECDSA for Decentralized Asset Custody</title>
       <link>https://eprint.iacr.org/2020/498</link>
@@ -307,6 +295,18 @@
       <link>https://eprint.iacr.org/2020/740</link>
       <description>Erica Blum and Chen-Da Liu-Zhang and Julian Loss</description>
       <guid isPermaLink="false">2020/740</guid>
+    </item>
+    <item>
+      <title>Communication-Efficient (Proactive) Secure Computation for Dynamic General Adversary Structures and Dynamic Groups</title>
+      <link>https://eprint.iacr.org/2020/747</link>
+      <description>Karim Eldefrawy and Seoyeon Hwang and Rafail Ostrovsky and Moti Yung</description>
+      <guid isPermaLink="false">2020/747</guid>
+    </item>
+    <item>
+      <title>Fluid MPC: Secure Multiparty Computation with Dynamic Participants</title>
+      <link>https://eprint.iacr.org/2020/754</link>
+      <description>Arka Rai Choudhuri and Aarushi Goel and Matthew Green and Abhishek Jain and Gabriel Kaptchuk</description>
+      <guid isPermaLink="false">2020/754</guid>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,15 @@
 [
 {
+"authors":"Arka Rai Choudhuri and Aarushi Goel and Matthew Green and Abhishek Jain and Gabriel Kaptchuk",
+"id":"2020/754",
+"title":"Fluid MPC: Secure Multiparty Computation with Dynamic Participants"
+},
+{
+"authors":"Karim Eldefrawy and Seoyeon Hwang and Rafail Ostrovsky and Moti Yung",
+"id":"2020/747",
+"title":"Communication-Efficient (Proactive) Secure Computation for Dynamic General Adversary Structures and Dynamic Groups"
+},
+{
 "authors":"Erica Blum and Chen-Da Liu-Zhang and Julian Loss",
 "id":"2020/740",
 "title":"Always Have a Backup Plan: Fully Secure Synchronous MPC with Asynchronous Fallback"
