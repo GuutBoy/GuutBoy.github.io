@@ -1,5 +1,10 @@
 [
 {
+"authors":"Carsten Baum and Emmanuela Orsini and Peter Scholl and Eduardo Soria-Vazquez",
+"id":"2020/767",
+"title":"Efficient Constant-Round MPC with Identifiable Abort and Public Verifiability"
+},
+{
 "authors":"Arka Rai Choudhuri and Aarushi Goel and Matthew Green and Abhishek Jain and Gabriel Kaptchuk",
 "id":"2020/754",
 "title":"Fluid MPC: Secure Multiparty Computation with Dynamic Participants"
