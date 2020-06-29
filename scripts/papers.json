@@ -1,5 +1,20 @@
 [
 {
+"authors":"Mahabir Prasad Jhanwar and Sumanta Sarkar",
+"id":"2020/793",
+"title":"PHyCT : Privacy preserving Hybrid Contact Tracing"
+},
+{
+"authors":"Jean-Fran\u00e7ois Biasse and Sriram Chelleppan and Sherzod Kariev and Noyem Khan and Lynette Menezes and Efe Seyitoglu and Charurut Somboonwit and Attila Yavuz",
+"id":"2020/792",
+"title":"Trace-$\\Sigma$: a privacy-preserving contact tracing app"
+},
+{
+"authors":"Carsten Baum and Bernardo David and Rafael Dowsley and Jesper Buus Nielsen and Sabine Oechsner",
+"id":"2020/784",
+"title":"CRAFT: Composable Randomness and Almost Fairness from Time"
+},
+{
 "authors":"Carsten Baum and Emmanuela Orsini and Peter Scholl and Eduardo Soria-Vazquez",
 "id":"2020/767",
 "title":"Efficient Constant-Round MPC with Identifiable Abort and Public Verifiability"
