@@ -1,5 +1,15 @@
 [
 {
+"authors":"Brett Hemenway Falk and Rafail Ostrovsky",
+"id":"2020/807",
+"title":"Secure merge with $O(n \\log \\log n)$ secure operation"
+},
+{
+"authors":"Daxin Huang and Qingqing Gan and Xiaoming Wang and Chengpeng Huang and Yijian Lin",
+"id":"2020/806",
+"title":"Toward Comparable Homomorphic Encryption for Crowd-sensing Network"
+},
+{
 "authors":"Mahabir Prasad Jhanwar and Sumanta Sarkar",
 "id":"2020/793",
 "title":"PHyCT : Privacy preserving Hybrid Contact Tracing"
