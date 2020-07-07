@@ -1,5 +1,15 @@
 [
 {
+"authors":"Eunsang Lee and Joon-Woo Lee and Jong-Seon No and Young-Sik Kim",
+"id":"2020/834",
+"title":"Minimax Approximation of Sign Function by Composite Polynomial for Homomorphic Comparison"
+},
+{
+"authors":"Jiayu Qiang and Yi Deng",
+"id":"2020/825",
+"title":"Private Set Intersection from TFHE for Cloud Computing Scenarios"
+},
+{
 "authors":"Brett Hemenway Falk and Rafail Ostrovsky",
 "id":"2020/807",
 "title":"Secure merge with $O(n \\log \\log n)$ secure operation"

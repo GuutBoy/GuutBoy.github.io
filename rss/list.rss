@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2020 13:44:26 +0000</lastBuildDate>
-    <item>
-      <title>Privacy-Preserving COVID-19 Contact Tracing App: A Zero-Knowledge Proof Approach</title>
-      <link>https://eprint.iacr.org/2020/528</link>
-      <description>Joseph K. Liu and Man Ho Au and Tsz Hon Yuen and Cong Zuo and Jiawei Wang and Amin Sakzad and Xiapu Luo and Li Li</description>
-      <guid isPermaLink="false">2020/528</guid>
-    </item>
-    <item>
-      <title>Determining the Multiplicative Complexity of Boolean Functions using SAT</title>
-      <link>https://eprint.iacr.org/2020/530</link>
-      <description>Mathias Soeken</description>
-      <guid isPermaLink="false">2020/530</guid>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2020 10:55:48 +0000</lastBuildDate>
     <item>
       <title>Centralized or Decentralized? The Contact Tracing Dilemma</title>
       <link>https://eprint.iacr.org/2020/531</link>
@@ -307,6 +295,18 @@
       <link>https://eprint.iacr.org/2020/807</link>
       <description>Brett Hemenway Falk and Rafail Ostrovsky</description>
       <guid isPermaLink="false">2020/807</guid>
+    </item>
+    <item>
+      <title>Private Set Intersection from TFHE for Cloud Computing Scenarios</title>
+      <link>https://eprint.iacr.org/2020/825</link>
+      <description>Jiayu Qiang and Yi Deng</description>
+      <guid isPermaLink="false">2020/825</guid>
+    </item>
+    <item>
+      <title>Minimax Approximation of Sign Function by Composite Polynomial for Homomorphic Comparison</title>
+      <link>https://eprint.iacr.org/2020/834</link>
+      <description>Eunsang Lee and Joon-Woo Lee and Jong-Seon No and Young-Sik Kim</description>
+      <guid isPermaLink="false">2020/834</guid>
     </item>
   </channel>
 </rss>
