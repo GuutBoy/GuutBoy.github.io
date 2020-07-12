@@ -1,5 +1,40 @@
 [
 {
+"authors":"Ferhat Karako\u00e7 and Alptekin K\u00fcp\u00e7\u00fc",
+"id":"2020/864",
+"title":"Linear Complexity Private Set Intersection for Secure Two-Party Protocols"
+},
+{
+"authors":"Ran Canetti and Yael Tauman Kalai and Anna Lysyanskaya and Ronald L. Rivest and Adi Shamir and Emily Shen and Ari Trachtenberg and Mayank Varia and Daniel J. Weitzner",
+"id":"2020/863",
+"title":"Privacy-Preserving Automated Exposure Notification"
+},
+{
+"authors":"Pedro Geraldo M. R. Alves and Jheyne N. Ortiz and Diego F. Aranha",
+"id":"2020/861",
+"title":"Faster Homomorphic Encryption over GPGPUs via hierarchical DGT"
+},
+{
+"authors":"Gareth T. Davies and Christian Janson and Daniel P. Martin",
+"id":"2020/858",
+"title":"Client-oblivious OPRAM"
+},
+{
+"authors":"Ivan Oleynikov and Elena Pagnin and Andrei Sabelfeld",
+"id":"2020/857",
+"title":"Where are you Bob? Privacy-Preserving Proximity Testing with a Napping Party"
+},
+{
+"authors":"Marco Holz and \u00c1gnes Kiss and Deevashwer Rathee and Thomas Schneider",
+"id":"2020/853",
+"title":"Linear-Complexity Private Function Evaluation is Practical"
+},
+{
+"authors":"Chelsea Komlo and Ian Goldberg",
+"id":"2020/852",
+"title":"FROST: Flexible Round-Optimized Schnorr Threshold Signatures"
+},
+{
 "authors":"Eunsang Lee and Joon-Woo Lee and Jong-Seon No and Young-Sik Kim",
 "id":"2020/834",
 "title":"Minimax Approximation of Sign Function by Composite Polynomial for Homomorphic Comparison"

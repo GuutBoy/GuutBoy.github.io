@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2020 10:55:48 +0000</lastBuildDate>
-    <item>
-      <title>Centralized or Decentralized? The Contact Tracing Dilemma</title>
-      <link>https://eprint.iacr.org/2020/531</link>
-      <description>Serge Vaudenay</description>
-      <guid isPermaLink="false">2020/531</guid>
-    </item>
-    <item>
-      <title>TARDIS: Time And Relative Delays In Simulation</title>
-      <link>https://eprint.iacr.org/2020/537</link>
-      <description>Carsten Baum and Bernardo David and Rafael Dowsley and Jesper Buus Nielsen and Sabine Oechsner</description>
-      <guid isPermaLink="false">2020/537</guid>
-    </item>
-    <item>
-      <title>One Round Threshold ECDSA with Identifiable Abort</title>
-      <link>https://eprint.iacr.org/2020/540</link>
-      <description>Rosario Gennaro and Steven Goldfeder</description>
-      <guid isPermaLink="false">2020/540</guid>
-    </item>
-    <item>
-      <title>SNI-in-the-head: Protecting MPC-in-the-head Protocols against Side-channel Analysis</title>
-      <link>https://eprint.iacr.org/2020/544</link>
-      <description>Okan Seker and Sebastian Berndt and Thomas Eisenbarth</description>
-      <guid isPermaLink="false">2020/544</guid>
-    </item>
-    <item>
-      <title>Efficient and Round-Optimal Oblivious Transfer and Commitment with Adaptive Security</title>
-      <link>https://eprint.iacr.org/2020/545</link>
-      <description>Ran Canetti and Pratik Sarkar and Xiao Wang</description>
-      <guid isPermaLink="false">2020/545</guid>
-    </item>
-    <item>
-      <title>Practical MPC+FHE with Applications in Secure Multi-PartyNeural Network Evaluation</title>
-      <link>https://eprint.iacr.org/2020/550</link>
-      <description>Ruiyu Zhu and Changchang Ding and Yan Huang</description>
-      <guid isPermaLink="false">2020/550</guid>
-    </item>
-    <item>
-      <title>Optimal Minimax Polynomial Approximation of Modular Reduction for Bootstrapping of Approximate Homomorphic Encryption</title>
-      <link>https://eprint.iacr.org/2020/552</link>
-      <description>Joon-Woo Lee and Eunsang Lee and Yongwoo Lee and Young-Sik Kim and Jong-Seon No</description>
-      <guid isPermaLink="false">2020/552</guid>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2020 20:55:02 +0000</lastBuildDate>
     <item>
       <title>Striking the Balance: Effective yet Privacy Friendly Contact Tracing</title>
       <link>https://eprint.iacr.org/2020/559</link>
@@ -307,6 +265,48 @@
       <link>https://eprint.iacr.org/2020/834</link>
       <description>Eunsang Lee and Joon-Woo Lee and Jong-Seon No and Young-Sik Kim</description>
       <guid isPermaLink="false">2020/834</guid>
+    </item>
+    <item>
+      <title>FROST: Flexible Round-Optimized Schnorr Threshold Signatures</title>
+      <link>https://eprint.iacr.org/2020/852</link>
+      <description>Chelsea Komlo and Ian Goldberg</description>
+      <guid isPermaLink="false">2020/852</guid>
+    </item>
+    <item>
+      <title>Linear-Complexity Private Function Evaluation is Practical</title>
+      <link>https://eprint.iacr.org/2020/853</link>
+      <description>Marco Holz and Ágnes Kiss and Deevashwer Rathee and Thomas Schneider</description>
+      <guid isPermaLink="false">2020/853</guid>
+    </item>
+    <item>
+      <title>Where are you Bob? Privacy-Preserving Proximity Testing with a Napping Party</title>
+      <link>https://eprint.iacr.org/2020/857</link>
+      <description>Ivan Oleynikov and Elena Pagnin and Andrei Sabelfeld</description>
+      <guid isPermaLink="false">2020/857</guid>
+    </item>
+    <item>
+      <title>Client-oblivious OPRAM</title>
+      <link>https://eprint.iacr.org/2020/858</link>
+      <description>Gareth T. Davies and Christian Janson and Daniel P. Martin</description>
+      <guid isPermaLink="false">2020/858</guid>
+    </item>
+    <item>
+      <title>Faster Homomorphic Encryption over GPGPUs via hierarchical DGT</title>
+      <link>https://eprint.iacr.org/2020/861</link>
+      <description>Pedro Geraldo M. R. Alves and Jheyne N. Ortiz and Diego F. Aranha</description>
+      <guid isPermaLink="false">2020/861</guid>
+    </item>
+    <item>
+      <title>Privacy-Preserving Automated Exposure Notification</title>
+      <link>https://eprint.iacr.org/2020/863</link>
+      <description>Ran Canetti and Yael Tauman Kalai and Anna Lysyanskaya and Ronald L. Rivest and Adi Shamir and Emily Shen and Ari Trachtenberg and Mayank Varia and Daniel J. Weitzner</description>
+      <guid isPermaLink="false">2020/863</guid>
+    </item>
+    <item>
+      <title>Linear Complexity Private Set Intersection for Secure Two-Party Protocols</title>
+      <link>https://eprint.iacr.org/2020/864</link>
+      <description>Ferhat Karakoç and Alptekin Küpçü</description>
+      <guid isPermaLink="false">2020/864</guid>
     </item>
   </channel>
 </rss>
