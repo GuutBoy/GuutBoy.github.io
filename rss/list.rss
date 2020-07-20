@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2020 20:55:02 +0000</lastBuildDate>
-    <item>
-      <title>Striking the Balance: Effective yet Privacy Friendly Contact Tracing</title>
-      <link>https://eprint.iacr.org/2020/559</link>
-      <description>Giuseppe Garofalo and Tim Van hamme and Davy Preuveneers and Wouter Joosen and Aysajan Abidin and Mustafa A. Mustafa</description>
-      <guid isPermaLink="false">2020/559</guid>
-    </item>
-    <item>
-      <title>Secure large-scale genome-wide association studies using homomorphic encryption</title>
-      <link>https://eprint.iacr.org/2020/563</link>
-      <description>Marcelo Blatt and Alexander Gusev and Yuriy Polyakov and Shafi Goldwasser</description>
-      <guid isPermaLink="false">2020/563</guid>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2020 19:31:06 +0000</lastBuildDate>
     <item>
       <title>Homomorphic Computation in Reed-Muller Codes</title>
       <link>https://eprint.iacr.org/2020/565</link>
@@ -307,6 +295,18 @@
       <link>https://eprint.iacr.org/2020/864</link>
       <description>Ferhat Karakoç and Alptekin Küpçü</description>
       <guid isPermaLink="false">2020/864</guid>
+    </item>
+    <item>
+      <title>A Not-So-Trival Replay Attack Against DH-PSI</title>
+      <link>https://eprint.iacr.org/2020/901</link>
+      <description>Hongrui Cui and Yu Yu</description>
+      <guid isPermaLink="false">2020/901</guid>
+    </item>
+    <item>
+      <title>Optimally-resilient Unconditionally-secure Asynchronous Multi-party Computation Revisited</title>
+      <link>https://eprint.iacr.org/2020/906</link>
+      <description>Ashish Choudhury</description>
+      <guid isPermaLink="false">2020/906</guid>
     </item>
   </channel>
 </rss>

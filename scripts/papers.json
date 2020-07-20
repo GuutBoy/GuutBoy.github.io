@@ -1,5 +1,15 @@
 [
 {
+"authors":"Ashish Choudhury",
+"id":"2020/906",
+"title":"Optimally-resilient Unconditionally-secure Asynchronous Multi-party Computation Revisited"
+},
+{
+"authors":"Hongrui Cui and Yu Yu",
+"id":"2020/901",
+"title":"A Not-So-Trival Replay Attack Against DH-PSI"
+},
+{
 "authors":"Ferhat Karako\u00e7 and Alptekin K\u00fcp\u00e7\u00fc",
 "id":"2020/864",
 "title":"Linear Complexity Private Set Intersection for Secure Two-Party Protocols"
