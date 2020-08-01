@@ -1,5 +1,30 @@
 [
 {
+"authors":"Davide Andreoletti and Omran Ayoub and Silvia Giordano and Massimo Tornatore and Giacomo Verticale",
+"id":"2020/935",
+"title":"Privacy-Preserving Multi-Operator Contact Tracing for Early Detection of Covid19 Contagions"
+},
+{
+"authors":"Charlotte Bonte and Ilia Iliashenko",
+"id":"2020/931",
+"title":"Homomorphic string search with constant multiplicative depth"
+},
+{
+"authors":"Brett Hemenway Falk and Daniel Noble",
+"id":"2020/926",
+"title":"Secure Computation over Lattices and Elliptic Curves"
+},
+{
+"authors":"Kang Yang and Chenkai Weng and Xiao Lan and Jiang Zhang and Xiao Wang",
+"id":"2020/924",
+"title":"Ferret: Fast Extension for coRRElated oT with small communication"
+},
+{
+"authors":"Ivan Damga&#778;rd and Claudio Orlandi and Mark Simkin",
+"id":"2020/916",
+"title":"Black-Box Transformations from Passive to Covert Security with Public Verifiability"
+},
+{
 "authors":"Ashish Choudhury",
 "id":"2020/906",
 "title":"Optimally-resilient Unconditionally-secure Asynchronous Multi-party Computation Revisited"

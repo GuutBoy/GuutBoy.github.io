@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2020 19:31:06 +0000</lastBuildDate>
-    <item>
-      <title>Homomorphic Computation in Reed-Muller Codes</title>
-      <link>https://eprint.iacr.org/2020/565</link>
-      <description>Jinkyu Cho and Young-Sik Kim and Jong-Seon No</description>
-      <guid isPermaLink="false">2020/565</guid>
-    </item>
-    <item>
-      <title>The Round Complexity of Perfect MPC with Active Security and Optimal Resiliency</title>
-      <link>https://eprint.iacr.org/2020/581</link>
-      <description>Benny Applebaum and Eliran Kachlon and Arpita Patra</description>
-      <guid isPermaLink="false">2020/581</guid>
-    </item>
-    <item>
-      <title>Component-Based Comparison of Privacy-First Exposure Notification Protocols</title>
-      <link>https://eprint.iacr.org/2020/586</link>
-      <description>Ellie Daw</description>
-      <guid isPermaLink="false">2020/586</guid>
-    </item>
-    <item>
-      <title>SWIFT: Super-fast and Robust Privacy-Preserving Machine Learning</title>
-      <link>https://eprint.iacr.org/2020/592</link>
-      <description>Nishat Koti and Mahak Pancholi and Arpita Patra and Ajith Suresh</description>
-      <guid isPermaLink="false">2020/592</guid>
-    </item>
-    <item>
-      <title>Private Matching for Compute</title>
-      <link>https://eprint.iacr.org/2020/599</link>
-      <description>Prasad Buddhavarapu and Andrew Knox and Payman Mohassel and Shubho Sengupta and  Erik Taubeneck and Vlad Vlaskin </description>
-      <guid isPermaLink="false">2020/599</guid>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2020 19:07:40 +0000</lastBuildDate>
     <item>
       <title>Multi-Party Threshold Private Set Intersection with Sublinear Communication</title>
       <link>https://eprint.iacr.org/2020/600</link>
@@ -307,6 +277,36 @@
       <link>https://eprint.iacr.org/2020/906</link>
       <description>Ashish Choudhury</description>
       <guid isPermaLink="false">2020/906</guid>
+    </item>
+    <item>
+      <title>Black-Box Transformations from Passive to Covert Security with Public Verifiability</title>
+      <link>https://eprint.iacr.org/2020/916</link>
+      <description>Ivan Damga&amp;#778;rd and Claudio Orlandi and Mark Simkin</description>
+      <guid isPermaLink="false">2020/916</guid>
+    </item>
+    <item>
+      <title>Ferret: Fast Extension for coRRElated oT with small communication</title>
+      <link>https://eprint.iacr.org/2020/924</link>
+      <description>Kang Yang and Chenkai Weng and Xiao Lan and Jiang Zhang and Xiao Wang</description>
+      <guid isPermaLink="false">2020/924</guid>
+    </item>
+    <item>
+      <title>Secure Computation over Lattices and Elliptic Curves</title>
+      <link>https://eprint.iacr.org/2020/926</link>
+      <description>Brett Hemenway Falk and Daniel Noble</description>
+      <guid isPermaLink="false">2020/926</guid>
+    </item>
+    <item>
+      <title>Homomorphic string search with constant multiplicative depth</title>
+      <link>https://eprint.iacr.org/2020/931</link>
+      <description>Charlotte Bonte and Ilia Iliashenko</description>
+      <guid isPermaLink="false">2020/931</guid>
+    </item>
+    <item>
+      <title>Privacy-Preserving Multi-Operator Contact Tracing for Early Detection of Covid19 Contagions</title>
+      <link>https://eprint.iacr.org/2020/935</link>
+      <description>Davide Andreoletti and Omran Ayoub and Silvia Giordano and Massimo Tornatore and Giacomo Verticale</description>
+      <guid isPermaLink="false">2020/935</guid>
     </item>
   </channel>
 </rss>
