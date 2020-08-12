@@ -1,5 +1,20 @@
 [
 {
+"authors":"Hamish Hunt and Jack Crawford and Oliver Masters and Enrico Steffinlongo and Flavio Bergamaschi",
+"id":"2020/964",
+"title":"Configurable Private Querying: Lookup and Partial Matching under Homomorphic Encryption"
+},
+{
+"authors":"Aayush Jain and Alexis Korb and Nathan Manohar and Amit Sahai",
+"id":"2020/951",
+"title":"Amplifying the Security of Functional Encryption, Unconditionally"
+},
+{
+"authors":"Nathan Manohar and Abhishek Jain and Amit Sahai",
+"id":"2020/950",
+"title":"Self-Processing Private Sensor Data via Garbled Encryption"
+},
+{
 "authors":"Davide Andreoletti and Omran Ayoub and Silvia Giordano and Massimo Tornatore and Giacomo Verticale",
 "id":"2020/935",
 "title":"Privacy-Preserving Multi-Operator Contact Tracing for Early Detection of Covid19 Contagions"

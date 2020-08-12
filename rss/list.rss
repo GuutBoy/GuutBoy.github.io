@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2020 19:07:40 +0000</lastBuildDate>
-    <item>
-      <title>Multi-Party Threshold Private Set Intersection with Sublinear Communication</title>
-      <link>https://eprint.iacr.org/2020/600</link>
-      <description>Saikrishna Badrinarayanan and Peihan Miao and Peter Rindal</description>
-      <guid isPermaLink="false">2020/600</guid>
-    </item>
-    <item>
-      <title>Perfectly Secure Oblivious Parallel RAM with $O(\log^3 N/ \log \log N)$ Overhead</title>
-      <link>https://eprint.iacr.org/2020/604</link>
-      <description>T-H. Hubert Chan and Wei-Kai Lin and Kartik Nayak and Elaine Shi</description>
-      <guid isPermaLink="false">2020/604</guid>
-    </item>
-    <item>
-      <title>Bounds on Ad Hoc Threshold Encryption</title>
-      <link>https://eprint.iacr.org/2020/618</link>
-      <description>Ivan Damgård and Sophia Yakoubov</description>
-      <guid isPermaLink="false">2020/618</guid>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2020 10:46:48 +0000</lastBuildDate>
     <item>
       <title>Private Identity Agreement for Private Set Functionalities</title>
       <link>https://eprint.iacr.org/2020/620</link>
@@ -307,6 +289,24 @@
       <link>https://eprint.iacr.org/2020/935</link>
       <description>Davide Andreoletti and Omran Ayoub and Silvia Giordano and Massimo Tornatore and Giacomo Verticale</description>
       <guid isPermaLink="false">2020/935</guid>
+    </item>
+    <item>
+      <title>Self-Processing Private Sensor Data via Garbled Encryption</title>
+      <link>https://eprint.iacr.org/2020/950</link>
+      <description>Nathan Manohar and Abhishek Jain and Amit Sahai</description>
+      <guid isPermaLink="false">2020/950</guid>
+    </item>
+    <item>
+      <title>Amplifying the Security of Functional Encryption, Unconditionally</title>
+      <link>https://eprint.iacr.org/2020/951</link>
+      <description>Aayush Jain and Alexis Korb and Nathan Manohar and Amit Sahai</description>
+      <guid isPermaLink="false">2020/951</guid>
+    </item>
+    <item>
+      <title>Configurable Private Querying: Lookup and Partial Matching under Homomorphic Encryption</title>
+      <link>https://eprint.iacr.org/2020/964</link>
+      <description>Hamish Hunt and Jack Crawford and Oliver Masters and Enrico Steffinlongo and Flavio Bergamaschi</description>
+      <guid isPermaLink="false">2020/964</guid>
     </item>
   </channel>
 </rss>
