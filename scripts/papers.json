@@ -1,5 +1,30 @@
 [
 {
+"authors":"Deevashwer Rathee and Mayank Rathee and Nishant Kumar and Nishanth Chandran and Divya Gupta and Aseem Rastogi and Rahul Sharma",
+"id":"2020/1002",
+"title":"CrypTFlow2: Practical 2-Party Secure Inference"
+},
+{
+"authors":"Brett Hemenway Falk and Daniel Noble and Rafail Ostrovsky",
+"id":"2020/997",
+"title":"Alibi: A Flaw in Cuckoo-Hashing based Hierarchical ORAM Schemes and a Solution"
+},
+{
+"authors":"Hilder Vitor Lima Pereira",
+"id":"2020/995",
+"title":"Bootstrapping fully homomorphic encryption over the integers in less than one second"
+},
+{
+"authors":"David Heath and Vladimir Kolesnikov",
+"id":"2020/973",
+"title":"Stacked Garbling: Garbled Circuit Proportional to Longest Execution Path"
+},
+{
+"authors":"Carsten Baum and Daniel Escudero and Alberto Pedrouzo-Ulloa and Peter Scholl and Juan Ram\u00f3n Troncoso-Pastoriza",
+"id":"2020/970",
+"title":"Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE"
+},
+{
 "authors":"Hamish Hunt and Jack Crawford and Oliver Masters and Enrico Steffinlongo and Flavio Bergamaschi",
 "id":"2020/964",
 "title":"Configurable Private Querying: Lookup and Partial Matching under Homomorphic Encryption"
