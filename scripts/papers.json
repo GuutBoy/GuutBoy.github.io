@@ -1,5 +1,20 @@
 [
 {
+"authors":"Shou-Ching Hsiao and Zi-Yuan Liu and Raylin Tso",
+"id":"2020/1013",
+"title":"A Study on Privacy-Preserving GRU Inference Framework"
+},
+{
+"authors":"Tancr\u00e8de Lepoint and Sarvar Patel and Mariana Raykova and Karn Seth and Ni Trieu",
+"id":"2020/1011",
+"title":"Private Join and Compute from PIR with Default"
+},
+{
+"authors":"Steven D. Galbraith and Lukas Zobernig",
+"id":"2020/1009",
+"title":"Obfuscating Finite Automata"
+},
+{
 "authors":"Deevashwer Rathee and Mayank Rathee and Nishant Kumar and Nishanth Chandran and Divya Gupta and Aseem Rastogi and Rahul Sharma",
 "id":"2020/1002",
 "title":"CrypTFlow2: Practical 2-Party Secure Inference"

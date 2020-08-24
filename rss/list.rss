@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2020 06:44:50 +0000</lastBuildDate>
-    <item>
-      <title>ALBATROSS: publicly AttestabLe BATched Randomness based On Secret Sharing</title>
-      <link>https://eprint.iacr.org/2020/644</link>
-      <description>Ignacio Cascudo and Bernardo David</description>
-      <guid isPermaLink="false">2020/644</guid>
-    </item>
-    <item>
-      <title>A simple generic construction to build oblivious transfer protocols from homomorphic encryption schemes</title>
-      <link>https://eprint.iacr.org/2020/647</link>
-      <description>Saeid Esmaeilzade and Ziba Eslami and Nasrollah Pakniat</description>
-      <guid isPermaLink="false">2020/647</guid>
-    </item>
-    <item>
-      <title>Multi-Party Computation Mechanism for Anonymous Equity Block Trading: A Secure Implementation of Turquoise Plato Uncross</title>
-      <link>https://eprint.iacr.org/2020/662</link>
-      <description>John Cartlidge and Nigel P. Smart and Younes Talibi Alaoui</description>
-      <guid isPermaLink="false">2020/662</guid>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2020 09:36:59 +0000</lastBuildDate>
     <item>
       <title>Inverse-Sybil Attacks in Automated Contact Tracing</title>
       <link>https://eprint.iacr.org/2020/670</link>
@@ -307,6 +289,24 @@
       <link>https://eprint.iacr.org/2020/1002</link>
       <description>Deevashwer Rathee and Mayank Rathee and Nishant Kumar and Nishanth Chandran and Divya Gupta and Aseem Rastogi and Rahul Sharma</description>
       <guid isPermaLink="false">2020/1002</guid>
+    </item>
+    <item>
+      <title>Obfuscating Finite Automata</title>
+      <link>https://eprint.iacr.org/2020/1009</link>
+      <description>Steven D. Galbraith and Lukas Zobernig</description>
+      <guid isPermaLink="false">2020/1009</guid>
+    </item>
+    <item>
+      <title>Private Join and Compute from PIR with Default</title>
+      <link>https://eprint.iacr.org/2020/1011</link>
+      <description>Tancrède Lepoint and Sarvar Patel and Mariana Raykova and Karn Seth and Ni Trieu</description>
+      <guid isPermaLink="false">2020/1011</guid>
+    </item>
+    <item>
+      <title>A Study on Privacy-Preserving GRU Inference Framework</title>
+      <link>https://eprint.iacr.org/2020/1013</link>
+      <description>Shou-Ching Hsiao and Zi-Yuan Liu and Raylin Tso</description>
+      <guid isPermaLink="false">2020/1013</guid>
     </item>
   </channel>
 </rss>
