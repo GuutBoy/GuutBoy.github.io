@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2020 09:36:59 +0000</lastBuildDate>
-    <item>
-      <title>Inverse-Sybil Attacks in Automated Contact Tracing</title>
-      <link>https://eprint.iacr.org/2020/670</link>
-      <description>Crypto Group at IST Austria</description>
-      <guid isPermaLink="false">2020/670</guid>
-    </item>
-    <item>
-      <title>A Survey of Automatic Contact Tracing Approaches</title>
-      <link>https://eprint.iacr.org/2020/672</link>
-      <description>Leonie Reichert and Samuel Brack and Björn Scheuermann</description>
-      <guid isPermaLink="false">2020/672</guid>
-    </item>
-    <item>
-      <title>Stronger Notions and a More Efficient Construction of Threshold Ring Signatures</title>
-      <link>https://eprint.iacr.org/2020/678</link>
-      <description>Alexander Munch-Hansen and Claudio Orlandi and Sophia Yakoubov</description>
-      <guid isPermaLink="false">2020/678</guid>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2020 09:42:47 +0000</lastBuildDate>
     <item>
       <title>BETA: Biometric Enabled Threshold Authentication</title>
       <link>https://eprint.iacr.org/2020/679</link>
@@ -307,6 +289,24 @@
       <link>https://eprint.iacr.org/2020/1013</link>
       <description>Shou-Ching Hsiao and Zi-Yuan Liu and Raylin Tso</description>
       <guid isPermaLink="false">2020/1013</guid>
+    </item>
+    <item>
+      <title>On the Exact Round Complexity of Best-of-both-Worlds Multi-party Computation</title>
+      <link>https://eprint.iacr.org/2020/1050</link>
+      <description>Arpita Patra and Divya Ravi and Swati Singla</description>
+      <guid isPermaLink="false">2020/1050</guid>
+    </item>
+    <item>
+      <title>Attacking Threshold Wallets</title>
+      <link>https://eprint.iacr.org/2020/1052</link>
+      <description>Jean-Philippe Aumasson and Omer Shlomovits</description>
+      <guid isPermaLink="false">2020/1052</guid>
+    </item>
+    <item>
+      <title>Circuit Amortization Friendly Encodings and their Application to Statistically Secure Multiparty Computation</title>
+      <link>https://eprint.iacr.org/2020/1053</link>
+      <description>Anders Dalskov and Eysa Lee and Eduardo Soria-Vazquez </description>
+      <guid isPermaLink="false">2020/1053</guid>
     </item>
   </channel>
 </rss>

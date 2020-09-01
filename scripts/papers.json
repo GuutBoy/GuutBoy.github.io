@@ -1,5 +1,20 @@
 [
 {
+"authors":"Anders Dalskov and Eysa Lee and Eduardo Soria-Vazquez ",
+"id":"2020/1053",
+"title":"Circuit Amortization Friendly Encodings and their Application to Statistically Secure Multiparty Computation"
+},
+{
+"authors":"Jean-Philippe Aumasson and Omer Shlomovits",
+"id":"2020/1052",
+"title":"Attacking Threshold Wallets"
+},
+{
+"authors":"Arpita Patra and Divya Ravi and Swati Singla",
+"id":"2020/1050",
+"title":"On the Exact Round Complexity of Best-of-both-Worlds Multi-party Computation"
+},
+{
 "authors":"Shou-Ching Hsiao and Zi-Yuan Liu and Raylin Tso",
 "id":"2020/1013",
 "title":"A Study on Privacy-Preserving GRU Inference Framework"
