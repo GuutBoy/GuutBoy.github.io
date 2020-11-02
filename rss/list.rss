@@ -7,97 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2020 21:17:37 +0000</lastBuildDate>
-    <item>
-      <title>Efficient Constant-Round MPC with Identifiable Abort and Public Verifiability</title>
-      <link>https://eprint.iacr.org/2020/767</link>
-      <description>Carsten Baum and Emmanuela Orsini and Peter Scholl and Eduardo Soria-Vazquez</description>
-      <guid isPermaLink="false">2020/767</guid>
-    </item>
-    <item>
-      <title>CRAFT: Composable Randomness and Almost Fairness from Time</title>
-      <link>https://eprint.iacr.org/2020/784</link>
-      <description>Carsten Baum and Bernardo David and Rafael Dowsley and Jesper Buus Nielsen and Sabine Oechsner</description>
-      <guid isPermaLink="false">2020/784</guid>
-    </item>
-    <item>
-      <title>Trace-$\Sigma$: a privacy-preserving contact tracing app</title>
-      <link>https://eprint.iacr.org/2020/792</link>
-      <description>Jean-François Biasse and Sriram Chelleppan and Sherzod Kariev and Noyem Khan and Lynette Menezes and Efe Seyitoglu and Charurut Somboonwit and Attila Yavuz</description>
-      <guid isPermaLink="false">2020/792</guid>
-    </item>
-    <item>
-      <title>PHyCT : Privacy preserving Hybrid Contact Tracing</title>
-      <link>https://eprint.iacr.org/2020/793</link>
-      <description>Mahabir Prasad Jhanwar and Sumanta Sarkar</description>
-      <guid isPermaLink="false">2020/793</guid>
-    </item>
-    <item>
-      <title>Toward Comparable Homomorphic Encryption for Crowd-sensing Network</title>
-      <link>https://eprint.iacr.org/2020/806</link>
-      <description>Daxin Huang and Qingqing Gan and Xiaoming Wang and Chengpeng Huang and Yijian Lin</description>
-      <guid isPermaLink="false">2020/806</guid>
-    </item>
-    <item>
-      <title>Secure merge with $O(n \log \log n)$ secure operation</title>
-      <link>https://eprint.iacr.org/2020/807</link>
-      <description>Brett Hemenway Falk and Rafail Ostrovsky</description>
-      <guid isPermaLink="false">2020/807</guid>
-    </item>
-    <item>
-      <title>Private Set Intersection from TFHE for Cloud Computing Scenarios</title>
-      <link>https://eprint.iacr.org/2020/825</link>
-      <description>Jiayu Qiang and Yi Deng</description>
-      <guid isPermaLink="false">2020/825</guid>
-    </item>
-    <item>
-      <title>Minimax Approximation of Sign Function by Composite Polynomial for Homomorphic Comparison</title>
-      <link>https://eprint.iacr.org/2020/834</link>
-      <description>Eunsang Lee and Joon-Woo Lee and Jong-Seon No and Young-Sik Kim</description>
-      <guid isPermaLink="false">2020/834</guid>
-    </item>
-    <item>
-      <title>FROST: Flexible Round-Optimized Schnorr Threshold Signatures</title>
-      <link>https://eprint.iacr.org/2020/852</link>
-      <description>Chelsea Komlo and Ian Goldberg</description>
-      <guid isPermaLink="false">2020/852</guid>
-    </item>
-    <item>
-      <title>Linear-Complexity Private Function Evaluation is Practical</title>
-      <link>https://eprint.iacr.org/2020/853</link>
-      <description>Marco Holz and Ágnes Kiss and Deevashwer Rathee and Thomas Schneider</description>
-      <guid isPermaLink="false">2020/853</guid>
-    </item>
-    <item>
-      <title>Where are you Bob? Privacy-Preserving Proximity Testing with a Napping Party</title>
-      <link>https://eprint.iacr.org/2020/857</link>
-      <description>Ivan Oleynikov and Elena Pagnin and Andrei Sabelfeld</description>
-      <guid isPermaLink="false">2020/857</guid>
-    </item>
-    <item>
-      <title>Client-oblivious OPRAM</title>
-      <link>https://eprint.iacr.org/2020/858</link>
-      <description>Gareth T. Davies and Christian Janson and Daniel P. Martin</description>
-      <guid isPermaLink="false">2020/858</guid>
-    </item>
-    <item>
-      <title>Faster Homomorphic Encryption over GPGPUs via hierarchical DGT</title>
-      <link>https://eprint.iacr.org/2020/861</link>
-      <description>Pedro Geraldo M. R. Alves and Jheyne N. Ortiz and Diego F. Aranha</description>
-      <guid isPermaLink="false">2020/861</guid>
-    </item>
-    <item>
-      <title>Privacy-Preserving Automated Exposure Notification</title>
-      <link>https://eprint.iacr.org/2020/863</link>
-      <description>Ran Canetti and Yael Tauman Kalai and Anna Lysyanskaya and Ronald L. Rivest and Adi Shamir and Emily Shen and Ari Trachtenberg and Mayank Varia and Daniel J. Weitzner</description>
-      <guid isPermaLink="false">2020/863</guid>
-    </item>
-    <item>
-      <title>Linear Complexity Private Set Intersection for Secure Two-Party Protocols</title>
-      <link>https://eprint.iacr.org/2020/864</link>
-      <description>Ferhat Karakoç and Alptekin Küpçü</description>
-      <guid isPermaLink="false">2020/864</guid>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2020 21:35:57 +0000</lastBuildDate>
     <item>
       <title>A Not-So-Trival Replay Attack Against DH-PSI</title>
       <link>https://eprint.iacr.org/2020/901</link>
@@ -307,6 +217,96 @@
       <link>https://eprint.iacr.org/2020/1271</link>
       <description>Alexandros Bakas and Antonis Michalas</description>
       <guid isPermaLink="false">2020/1271</guid>
+    </item>
+    <item>
+      <title>Secure Quantum Two-Party Computation: Impossibility and Constructions</title>
+      <link>https://eprint.iacr.org/2020/1286</link>
+      <description>Michele Ciampi and Alexandru Cojocaru and Elham Kashefi and Atul Mantri</description>
+      <guid isPermaLink="false">2020/1286</guid>
+    </item>
+    <item>
+      <title>Efficient Composable Oblivious Transfer from CDH in the Global Random Oracle Model</title>
+      <link>https://eprint.iacr.org/2020/1291</link>
+      <description>Bernardo David and Rafael Dowsley</description>
+      <guid isPermaLink="false">2020/1291</guid>
+    </item>
+    <item>
+      <title>Optimal Oblivious Parallel RAM</title>
+      <link>https://eprint.iacr.org/2020/1292</link>
+      <description>Gilad Asharov and Ilan Komargodski and Wei-Kai Lin and Enoch Peserico and Elaine Shi</description>
+      <guid isPermaLink="false">2020/1292</guid>
+    </item>
+    <item>
+      <title>Multiparty Cardinality Testing for Threshold Private Set Intersection</title>
+      <link>https://eprint.iacr.org/2020/1307</link>
+      <description>Pedro Branco and Nico Döttling and Sihang Pu</description>
+      <guid isPermaLink="false">2020/1307</guid>
+    </item>
+    <item>
+      <title>Adaptively secure Threshold Symmetric-key Encryption</title>
+      <link>https://eprint.iacr.org/2020/1329</link>
+      <description>Pratyay Mukherjee</description>
+      <guid isPermaLink="false">2020/1329</guid>
+    </item>
+    <item>
+      <title>Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security</title>
+      <link>https://eprint.iacr.org/2020/1330</link>
+      <description>Anders Dalskov and Daniel Escudero and Marcel Keller</description>
+      <guid isPermaLink="false">2020/1330</guid>
+    </item>
+    <item>
+      <title>Hybrid Framework for Approximate Computation over Encrypted Data</title>
+      <link>https://eprint.iacr.org/2020/1335</link>
+      <description>Jihoon Cho and Jincheol Ha and Seongkwang Kim and Joohee Lee and Jooyoung Lee and Dukjae Moon and Hyojin Yoon</description>
+      <guid isPermaLink="false">2020/1335</guid>
+    </item>
+    <item>
+      <title>Multiplicative Depth Independent &amp; Efficient MPC in the Presence of Mixed Adversary</title>
+      <link>https://eprint.iacr.org/2020/1337</link>
+      <description>Achintya Desai and Shubham Raj and Kannan Srinathan</description>
+      <guid isPermaLink="false">2020/1337</guid>
+    </item>
+    <item>
+      <title>Homomorphic Evaluation of the SM4</title>
+      <link>https://eprint.iacr.org/2020/1340</link>
+      <description>Yu Xue</description>
+      <guid isPermaLink="false">2020/1340</guid>
+    </item>
+    <item>
+      <title>Zero-Communication Reductions</title>
+      <link>https://eprint.iacr.org/2020/1341</link>
+      <description>Varun Narayanan and Manoj Prabhakaran and Vinod M. Prabhakaran</description>
+      <guid isPermaLink="false">2020/1341</guid>
+    </item>
+    <item>
+      <title>SodsMPC: FSM based Anonymous and Private Quantum-safe Smart Contracts</title>
+      <link>https://eprint.iacr.org/2020/1346</link>
+      <description>Shlomi Dolev and Ziyu Wang</description>
+      <guid isPermaLink="false">2020/1346</guid>
+    </item>
+    <item>
+      <title>Senate: A Maliciously-Secure MPC Platform for Collaborative Analytics</title>
+      <link>https://eprint.iacr.org/2020/1350</link>
+      <description>Rishabh Poddar and Sukrit Kalra and Avishay Yanai and Ryan Deng and Raluca Ada Popa and Joseph M. Hellerstein</description>
+      <guid isPermaLink="false">2020/1350</guid>
+    </item>
+    <item>
+      <title>Modular Lagrange Interpolation of the Mod Function for Bootstrapping for Approximate HE</title>
+      <link>https://eprint.iacr.org/2020/1355</link>
+      <description>Charanjit S. Jutla and Nathan Manohar</description>
+      <guid isPermaLink="false">2020/1355</guid>
+    </item>
+    <item>
+      <title>Game-Set-MATCH: Using Mobile Devices for Seamless External-Facing Biometric Matching</title>
+      <link>https://eprint.iacr.org/2020/1363</link>
+      <description>Shashank Agrawal and Saikrishna Badrinarayanan and Pratyay Mukherjee and Peter Rindal</description>
+      <guid isPermaLink="false">2020/1363</guid>
+    </item>
+    <item>
+      <title>Transciphering, using FiLIP and TFHE for an efficient delegation of computation</title>
+      <link>https://eprint.iacr.org/2020/1373</link>
+      <description>Clément Hoffmann and Pierrick Méaux and Thomas Ricosset</description>
+      <guid isPermaLink="false">2020/1373</guid>
     </item>
   </channel>
 </rss>
