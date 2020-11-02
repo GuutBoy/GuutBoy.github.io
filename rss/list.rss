@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2020 08:27:13 +0000</lastBuildDate>
-    <item>
-      <title>Always Have a Backup Plan: Fully Secure Synchronous MPC with Asynchronous Fallback</title>
-      <link>https://eprint.iacr.org/2020/740</link>
-      <description>Erica Blum and Chen-Da Liu-Zhang and Julian Loss</description>
-      <guid isPermaLink="false">2020/740</guid>
-    </item>
-    <item>
-      <title>Communication-Efficient (Proactive) Secure Computation for Dynamic General Adversary Structures and Dynamic Groups</title>
-      <link>https://eprint.iacr.org/2020/747</link>
-      <description>Karim Eldefrawy and Seoyeon Hwang and Rafail Ostrovsky and Moti Yung</description>
-      <guid isPermaLink="false">2020/747</guid>
-    </item>
-    <item>
-      <title>Fluid MPC: Secure Multiparty Computation with Dynamic Participants</title>
-      <link>https://eprint.iacr.org/2020/754</link>
-      <description>Arka Rai Choudhuri and Aarushi Goel and Matthew Green and Abhishek Jain and Gabriel Kaptchuk</description>
-      <guid isPermaLink="false">2020/754</guid>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2020 21:17:37 +0000</lastBuildDate>
     <item>
       <title>Efficient Constant-Round MPC with Identifiable Abort and Public Verifiability</title>
       <link>https://eprint.iacr.org/2020/767</link>
@@ -307,6 +289,24 @@
       <link>https://eprint.iacr.org/2020/1170</link>
       <description>Bar Alon and Ran Cohen and Eran Omri and Tom Suad</description>
       <guid isPermaLink="false">2020/1170</guid>
+    </item>
+    <item>
+      <title>Asymptotically Good Multiplicative LSSS over Galois Rings and Applications to MPC over Z/p^k Z</title>
+      <link>https://eprint.iacr.org/2020/1256</link>
+      <description>Mark Abspoel and Ronald Cramer and Ivan Damgård and Daniel Escudero and Matthieu Rambaud and Chaoping Xing and Chen Yuan</description>
+      <guid isPermaLink="false">2020/1256</guid>
+    </item>
+    <item>
+      <title>Silent Two-party Computation Assisted by Semi-trusted Hardware</title>
+      <link>https://eprint.iacr.org/2020/1259</link>
+      <description>Yibiao Lu and Bingsheng Zhang and Weiran Liu and Lei Zhang and Kui Ren</description>
+      <guid isPermaLink="false">2020/1259</guid>
+    </item>
+    <item>
+      <title>(F)unctional Sifting: A Privacy-Preserving Reputation System Through Multi-Input Functional Encryption (extended version)</title>
+      <link>https://eprint.iacr.org/2020/1271</link>
+      <description>Alexandros Bakas and Antonis Michalas</description>
+      <guid isPermaLink="false">2020/1271</guid>
     </item>
   </channel>
 </rss>

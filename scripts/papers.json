@@ -1,5 +1,20 @@
 [
 {
+"authors":"Alexandros Bakas and Antonis Michalas",
+"id":"2020/1271",
+"title":"(F)unctional Sifting: A Privacy-Preserving Reputation System Through Multi-Input Functional Encryption (extended version)"
+},
+{
+"authors":"Yibiao Lu and Bingsheng Zhang and Weiran Liu and Lei Zhang and Kui Ren",
+"id":"2020/1259",
+"title":"Silent Two-party Computation Assisted by Semi-trusted Hardware"
+},
+{
+"authors":"Mark Abspoel and Ronald Cramer and Ivan Damg\u00e5rd and Daniel Escudero and Matthieu Rambaud and Chaoping Xing and Chen Yuan",
+"id":"2020/1256",
+"title":"Asymptotically Good Multiplicative LSSS over Galois Rings and Applications to MPC over Z/p^k Z"
+},
+{
 "authors":"Bar Alon and Ran Cohen and Eran Omri and Tom Suad",
 "id":"2020/1170",
 "title":"On the Power of an Honest Majority in Three-Party Computation Without Broadcast"
