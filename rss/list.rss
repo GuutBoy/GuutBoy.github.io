@@ -7,73 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2020 09:42:47 +0000</lastBuildDate>
-    <item>
-      <title>BETA: Biometric Enabled Threshold Authentication</title>
-      <link>https://eprint.iacr.org/2020/679</link>
-      <description>Shashank Agrawal and Saikrishna Badrinarayanan and Payman Mohassel and Pratyay Mukherjee and Sikhar Patranabis</description>
-      <guid isPermaLink="false">2020/679</guid>
-    </item>
-    <item>
-      <title>Logarithmic-Size (Linkable) Threshold Ring Signatures in the Plain Model</title>
-      <link>https://eprint.iacr.org/2020/683</link>
-      <description>Abida Haque and Stephan Krenn and Daniel Slamanig and Christoph Striecks</description>
-      <guid isPermaLink="false">2020/683</guid>
-    </item>
-    <item>
-      <title>Fast Vector Oblivious Linear Evaluation from Ring Learning with Errors</title>
-      <link>https://eprint.iacr.org/2020/685</link>
-      <description>Leo de Castro and Chiraag Juvekar and Vinod Vaikuntanathan</description>
-      <guid isPermaLink="false">2020/685</guid>
-    </item>
-    <item>
-      <title>LSS Homomorphisms and Applications to Secure Signatures, Proactive Secret Sharing and Input Certification</title>
-      <link>https://eprint.iacr.org/2020/691</link>
-      <description>Diego Aranha and Anders Dalskov and Daniel Escudero and Claudio Orlandi</description>
-      <guid isPermaLink="false">2020/691</guid>
-    </item>
-    <item>
-      <title>MPC with Friends and Foes</title>
-      <link>https://eprint.iacr.org/2020/701</link>
-      <description>Bar Alon and Eran Omri and Anat Paskin-Cherniavsky</description>
-      <guid isPermaLink="false">2020/701</guid>
-    </item>
-    <item>
-      <title>Secure Single-Server Aggregation with (Poly)Logarithmic Overhead</title>
-      <link>https://eprint.iacr.org/2020/704</link>
-      <description>James Bell and K. A. Bonawitz and Adrià Gascón and Tancrède Lepoint and Mariana Raykova</description>
-      <guid isPermaLink="false">2020/704</guid>
-    </item>
-    <item>
-      <title>A Logic Synthesis Toolbox for Reducing the Multiplicative Complexity in Logic Networks</title>
-      <link>https://eprint.iacr.org/2020/706</link>
-      <description>Eleonora Testa and Mathias Soeken and Heinz Riener and Luca Amaru and Giovanni De Micheli</description>
-      <guid isPermaLink="false">2020/706</guid>
-    </item>
-    <item>
-      <title>Crowd Verifiable Zero-Knowledge and End-to-end Verifiable Multiparty Computation</title>
-      <link>https://eprint.iacr.org/2020/711</link>
-      <description>Foteini Baldimtsi and Aggelos Kiayias and Thomas Zacharias and Bingsheng Zhang</description>
-      <guid isPermaLink="false">2020/711</guid>
-    </item>
-    <item>
-      <title>MP2ML: A Mixed-Protocol Machine Learning Framework for Private Inference</title>
-      <link>https://eprint.iacr.org/2020/721</link>
-      <description>Fabian Boemer and Rosario Cammarota and Daniel Demmler and Thomas Schneider and Hossein Yalame</description>
-      <guid isPermaLink="false">2020/721</guid>
-    </item>
-    <item>
-      <title>Multi-Party Revocation in Sovrin: Performance through Distributed Trust</title>
-      <link>https://eprint.iacr.org/2020/724</link>
-      <description>Lukas Helminger and Daniel Kales and Sebastian Ramacher and Roman Walch</description>
-      <guid isPermaLink="false">2020/724</guid>
-    </item>
-    <item>
-      <title>Private Set Intersection in the Internet Setting From Lightweight Oblivious PRF</title>
-      <link>https://eprint.iacr.org/2020/729</link>
-      <description>Melissa Chase and Peihan Miao</description>
-      <guid isPermaLink="false">2020/729</guid>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2020 08:27:13 +0000</lastBuildDate>
     <item>
       <title>Always Have a Backup Plan: Fully Secure Synchronous MPC with Asynchronous Fallback</title>
       <link>https://eprint.iacr.org/2020/740</link>
@@ -307,6 +241,72 @@
       <link>https://eprint.iacr.org/2020/1053</link>
       <description>Anders Dalskov and Eysa Lee and Eduardo Soria-Vazquez </description>
       <guid isPermaLink="false">2020/1053</guid>
+    </item>
+    <item>
+      <title>The Round Complexity of Secure Computation Against Covert Adversaries</title>
+      <link>https://eprint.iacr.org/2020/1092</link>
+      <description>Arka Rai Choudhuri and Vipul Goyal and Abhishek Jain</description>
+      <guid isPermaLink="false">2020/1092</guid>
+    </item>
+    <item>
+      <title>Towards Efficiency-Preserving Round Compression in MPC: Do fewer rounds mean more computation?</title>
+      <link>https://eprint.iacr.org/2020/1100</link>
+      <description>Prabhanjan Ananth and Arka Rai Choudhuri and Aarushi Goel and Abhishek Jain</description>
+      <guid isPermaLink="false">2020/1100</guid>
+    </item>
+    <item>
+      <title>Catalic: Delegated PSI Cardinality with Applications to Contact Tracing</title>
+      <link>https://eprint.iacr.org/2020/1105</link>
+      <description>Thai Duong and Duong Hieu Phan and Ni Trieu</description>
+      <guid isPermaLink="false">2020/1105</guid>
+    </item>
+    <item>
+      <title>Approximate Homomorphic Encryption with Reduced Approximation Error</title>
+      <link>https://eprint.iacr.org/2020/1118</link>
+      <description>Andrey Kim and Antonis Papadimitriou and Yuriy Polyakov</description>
+      <guid isPermaLink="false">2020/1118</guid>
+    </item>
+    <item>
+      <title>Secure training of decision trees with continuous attributes</title>
+      <link>https://eprint.iacr.org/2020/1130</link>
+      <description>Mark Abspoel and Daniel Escudero and Nikolaj Volgushev</description>
+      <guid isPermaLink="false">2020/1130</guid>
+    </item>
+    <item>
+      <title>Lower Bound for Oblivious RAM with Large Cells</title>
+      <link>https://eprint.iacr.org/2020/1132</link>
+      <description>Ilan Komargodski and Wei-Kai Lin</description>
+      <guid isPermaLink="false">2020/1132</guid>
+    </item>
+    <item>
+      <title>MOTION - A Framework for Mixed-Protocol Multi-Party Computation</title>
+      <link>https://eprint.iacr.org/2020/1137</link>
+      <description>Lennart Braun and Daniel Demmler and Thomas Schneider and Oleksandr Tkachenko</description>
+      <guid isPermaLink="false">2020/1137</guid>
+    </item>
+    <item>
+      <title>Secure Massively Parallel Computation for Dishonest Majority</title>
+      <link>https://eprint.iacr.org/2020/1157</link>
+      <description>Rex Fernando and Ilan Komargodski and Yanyi Liu and Elaine Shi</description>
+      <guid isPermaLink="false">2020/1157</guid>
+    </item>
+    <item>
+      <title>FHE-Based Bootstrapping of Designated-Prover NIZK</title>
+      <link>https://eprint.iacr.org/2020/1168</link>
+      <description>Zvika Brakerski and Sanjam Garg and Rotem Tsabary</description>
+      <guid isPermaLink="false">2020/1168</guid>
+    </item>
+    <item>
+      <title>Privacy-preserving greater-than integer comparison without binary decomposition in the malicious model</title>
+      <link>https://eprint.iacr.org/2020/1169</link>
+      <description>Sigurd Eskeland</description>
+      <guid isPermaLink="false">2020/1169</guid>
+    </item>
+    <item>
+      <title>On the Power of an Honest Majority in Three-Party Computation Without Broadcast</title>
+      <link>https://eprint.iacr.org/2020/1170</link>
+      <description>Bar Alon and Ran Cohen and Eran Omri and Tom Suad</description>
+      <guid isPermaLink="false">2020/1170</guid>
     </item>
   </channel>
 </rss>

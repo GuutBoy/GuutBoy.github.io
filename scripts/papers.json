@@ -1,5 +1,60 @@
 [
 {
+"authors":"Bar Alon and Ran Cohen and Eran Omri and Tom Suad",
+"id":"2020/1170",
+"title":"On the Power of an Honest Majority in Three-Party Computation Without Broadcast"
+},
+{
+"authors":"Sigurd Eskeland",
+"id":"2020/1169",
+"title":"Privacy-preserving greater-than integer comparison without binary decomposition in the malicious model"
+},
+{
+"authors":"Zvika Brakerski and Sanjam Garg and Rotem Tsabary",
+"id":"2020/1168",
+"title":"FHE-Based Bootstrapping of Designated-Prover NIZK"
+},
+{
+"authors":"Rex Fernando and Ilan Komargodski and Yanyi Liu and Elaine Shi",
+"id":"2020/1157",
+"title":"Secure Massively Parallel Computation for Dishonest Majority"
+},
+{
+"authors":"Lennart Braun and Daniel Demmler and Thomas Schneider and Oleksandr Tkachenko",
+"id":"2020/1137",
+"title":"MOTION - A Framework for Mixed-Protocol Multi-Party Computation"
+},
+{
+"authors":"Ilan Komargodski and Wei-Kai Lin",
+"id":"2020/1132",
+"title":"Lower Bound for Oblivious RAM with Large Cells"
+},
+{
+"authors":"Mark Abspoel and Daniel Escudero and Nikolaj Volgushev",
+"id":"2020/1130",
+"title":"Secure training of decision trees with continuous attributes"
+},
+{
+"authors":"Andrey Kim and Antonis Papadimitriou and Yuriy Polyakov",
+"id":"2020/1118",
+"title":"Approximate Homomorphic Encryption with Reduced Approximation Error"
+},
+{
+"authors":"Thai Duong and Duong Hieu Phan and Ni Trieu",
+"id":"2020/1105",
+"title":"Catalic: Delegated PSI Cardinality with Applications to Contact Tracing"
+},
+{
+"authors":"Prabhanjan Ananth and Arka Rai Choudhuri and Aarushi Goel and Abhishek Jain",
+"id":"2020/1100",
+"title":"Towards Efficiency-Preserving Round Compression in MPC: Do fewer rounds mean more computation?"
+},
+{
+"authors":"Arka Rai Choudhuri and Vipul Goyal and Abhishek Jain",
+"id":"2020/1092",
+"title":"The Round Complexity of Secure Computation Against Covert Adversaries"
+},
+{
 "authors":"Anders Dalskov and Eysa Lee and Eduardo Soria-Vazquez ",
 "id":"2020/1053",
 "title":"Circuit Amortization Friendly Encodings and their Application to Statistically Secure Multiparty Computation"
