@@ -1,5 +1,60 @@
 [
 {
+"authors":"Michele Ciampi and Rafail Ostrovsky and Hendrik Waldner and Vassilis Zikas",
+"id":"2020/1437",
+"title":"Round-Optimal and Communication-Efficient Multiparty Computation"
+},
+{
+"authors":"Ran Canetti and Oxana Poburinnaya",
+"id":"2020/1434",
+"title":"Towards Multiparty Computation  Withstanding  Coercion of All Parties"
+},
+{
+"authors":"Huijia Lin and Tianren Liu and Hoeteck Wee",
+"id":"2020/1431",
+"title":"Information-Theoretic 2-Round MPC without Round Collapsing: Adaptive Security, and More"
+},
+{
+"authors":"Dana Dachman-Soled",
+"id":"2020/1430",
+"title":"Revisiting Fairness in MPC: Polynomial Number of Parties and General Adversarial Structures"
+},
+{
+"authors":"Matthew M. Hong and Yuval Ishai and Victor I. Kolobov and Russell W. F. Lai",
+"id":"2020/1429",
+"title":"On Computational Shortcuts for Information-Theoretic PIR"
+},
+{
+"authors":"Dakshita Khurana and Muhammad Haris Mughees",
+"id":"2020/1428",
+"title":"On Statistical Security in Two-Party Computation"
+},
+{
+"authors":"Benny Applebaum and Eliran Kachlon and Arpita Patra",
+"id":"2020/1419",
+"title":"The Resiliency of MPC with Low Interaction: The Benefit of Making Errors"
+},
+{
+"authors":"Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai and Lisa Kohl and Peter Scholl",
+"id":"2020/1417",
+"title":"Correlated Pseudorandom Functions from Variable-Density LPN"
+},
+{
+"authors":"Jamie Cui and Chaochao Chen and Li Wang",
+"id":"2020/1415",
+"title":"Highly-Scalable Protected Graph Database Search with Oblivious Filter"
+},
+{
+"authors":"Antigoni Polychroniadou and Yifan Song",
+"id":"2020/1412",
+"title":"Constant-Overhead Unconditionally Secure Multiparty Computation over Binary Fields"
+},
+{
+"authors":"Zvika Brakerski and Henry Yuen",
+"id":"2020/1401",
+"title":"Quantum Garbled Circuits"
+},
+{
 "authors":"Cl\u00e9ment Hoffmann and Pierrick M\u00e9aux and Thomas Ricosset",
 "id":"2020/1373",
 "title":"Transciphering, using FiLIP and TFHE for an efficient delegation of computation"

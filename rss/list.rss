@@ -7,73 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2020 21:35:57 +0000</lastBuildDate>
-    <item>
-      <title>A Not-So-Trival Replay Attack Against DH-PSI</title>
-      <link>https://eprint.iacr.org/2020/901</link>
-      <description>Hongrui Cui and Yu Yu</description>
-      <guid isPermaLink="false">2020/901</guid>
-    </item>
-    <item>
-      <title>Optimally-resilient Unconditionally-secure Asynchronous Multi-party Computation Revisited</title>
-      <link>https://eprint.iacr.org/2020/906</link>
-      <description>Ashish Choudhury</description>
-      <guid isPermaLink="false">2020/906</guid>
-    </item>
-    <item>
-      <title>Black-Box Transformations from Passive to Covert Security with Public Verifiability</title>
-      <link>https://eprint.iacr.org/2020/916</link>
-      <description>Ivan Damga&amp;#778;rd and Claudio Orlandi and Mark Simkin</description>
-      <guid isPermaLink="false">2020/916</guid>
-    </item>
-    <item>
-      <title>Ferret: Fast Extension for coRRElated oT with small communication</title>
-      <link>https://eprint.iacr.org/2020/924</link>
-      <description>Kang Yang and Chenkai Weng and Xiao Lan and Jiang Zhang and Xiao Wang</description>
-      <guid isPermaLink="false">2020/924</guid>
-    </item>
-    <item>
-      <title>Secure Computation over Lattices and Elliptic Curves</title>
-      <link>https://eprint.iacr.org/2020/926</link>
-      <description>Brett Hemenway Falk and Daniel Noble</description>
-      <guid isPermaLink="false">2020/926</guid>
-    </item>
-    <item>
-      <title>Homomorphic string search with constant multiplicative depth</title>
-      <link>https://eprint.iacr.org/2020/931</link>
-      <description>Charlotte Bonte and Ilia Iliashenko</description>
-      <guid isPermaLink="false">2020/931</guid>
-    </item>
-    <item>
-      <title>Privacy-Preserving Multi-Operator Contact Tracing for Early Detection of Covid19 Contagions</title>
-      <link>https://eprint.iacr.org/2020/935</link>
-      <description>Davide Andreoletti and Omran Ayoub and Silvia Giordano and Massimo Tornatore and Giacomo Verticale</description>
-      <guid isPermaLink="false">2020/935</guid>
-    </item>
-    <item>
-      <title>Self-Processing Private Sensor Data via Garbled Encryption</title>
-      <link>https://eprint.iacr.org/2020/950</link>
-      <description>Nathan Manohar and Abhishek Jain and Amit Sahai</description>
-      <guid isPermaLink="false">2020/950</guid>
-    </item>
-    <item>
-      <title>Amplifying the Security of Functional Encryption, Unconditionally</title>
-      <link>https://eprint.iacr.org/2020/951</link>
-      <description>Aayush Jain and Alexis Korb and Nathan Manohar and Amit Sahai</description>
-      <guid isPermaLink="false">2020/951</guid>
-    </item>
-    <item>
-      <title>Configurable Private Querying: Lookup and Partial Matching under Homomorphic Encryption</title>
-      <link>https://eprint.iacr.org/2020/964</link>
-      <description>Hamish Hunt and Jack Crawford and Oliver Masters and Enrico Steffinlongo and Flavio Bergamaschi</description>
-      <guid isPermaLink="false">2020/964</guid>
-    </item>
-    <item>
-      <title>Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE</title>
-      <link>https://eprint.iacr.org/2020/970</link>
-      <description>Carsten Baum and Daniel Escudero and Alberto Pedrouzo-Ulloa and Peter Scholl and Juan Ramón Troncoso-Pastoriza</description>
-      <guid isPermaLink="false">2020/970</guid>
-    </item>
+    <lastBuildDate>Mon, 30 Nov 2020 15:02:43 +0000</lastBuildDate>
     <item>
       <title>Stacked Garbling: Garbled Circuit Proportional to Longest Execution Path</title>
       <link>https://eprint.iacr.org/2020/973</link>
@@ -307,6 +241,72 @@
       <link>https://eprint.iacr.org/2020/1373</link>
       <description>Clément Hoffmann and Pierrick Méaux and Thomas Ricosset</description>
       <guid isPermaLink="false">2020/1373</guid>
+    </item>
+    <item>
+      <title>Quantum Garbled Circuits</title>
+      <link>https://eprint.iacr.org/2020/1401</link>
+      <description>Zvika Brakerski and Henry Yuen</description>
+      <guid isPermaLink="false">2020/1401</guid>
+    </item>
+    <item>
+      <title>Constant-Overhead Unconditionally Secure Multiparty Computation over Binary Fields</title>
+      <link>https://eprint.iacr.org/2020/1412</link>
+      <description>Antigoni Polychroniadou and Yifan Song</description>
+      <guid isPermaLink="false">2020/1412</guid>
+    </item>
+    <item>
+      <title>Highly-Scalable Protected Graph Database Search with Oblivious Filter</title>
+      <link>https://eprint.iacr.org/2020/1415</link>
+      <description>Jamie Cui and Chaochao Chen and Li Wang</description>
+      <guid isPermaLink="false">2020/1415</guid>
+    </item>
+    <item>
+      <title>Correlated Pseudorandom Functions from Variable-Density LPN</title>
+      <link>https://eprint.iacr.org/2020/1417</link>
+      <description>Elette Boyle and Geoffroy Couteau and Niv Gilboa and Yuval Ishai and Lisa Kohl and Peter Scholl</description>
+      <guid isPermaLink="false">2020/1417</guid>
+    </item>
+    <item>
+      <title>The Resiliency of MPC with Low Interaction: The Benefit of Making Errors</title>
+      <link>https://eprint.iacr.org/2020/1419</link>
+      <description>Benny Applebaum and Eliran Kachlon and Arpita Patra</description>
+      <guid isPermaLink="false">2020/1419</guid>
+    </item>
+    <item>
+      <title>On Statistical Security in Two-Party Computation</title>
+      <link>https://eprint.iacr.org/2020/1428</link>
+      <description>Dakshita Khurana and Muhammad Haris Mughees</description>
+      <guid isPermaLink="false">2020/1428</guid>
+    </item>
+    <item>
+      <title>On Computational Shortcuts for Information-Theoretic PIR</title>
+      <link>https://eprint.iacr.org/2020/1429</link>
+      <description>Matthew M. Hong and Yuval Ishai and Victor I. Kolobov and Russell W. F. Lai</description>
+      <guid isPermaLink="false">2020/1429</guid>
+    </item>
+    <item>
+      <title>Revisiting Fairness in MPC: Polynomial Number of Parties and General Adversarial Structures</title>
+      <link>https://eprint.iacr.org/2020/1430</link>
+      <description>Dana Dachman-Soled</description>
+      <guid isPermaLink="false">2020/1430</guid>
+    </item>
+    <item>
+      <title>Information-Theoretic 2-Round MPC without Round Collapsing: Adaptive Security, and More</title>
+      <link>https://eprint.iacr.org/2020/1431</link>
+      <description>Huijia Lin and Tianren Liu and Hoeteck Wee</description>
+      <guid isPermaLink="false">2020/1431</guid>
+    </item>
+    <item>
+      <title>Towards Multiparty Computation  Withstanding  Coercion of All Parties</title>
+      <link>https://eprint.iacr.org/2020/1434</link>
+      <description>Ran Canetti and Oxana Poburinnaya</description>
+      <guid isPermaLink="false">2020/1434</guid>
+    </item>
+    <item>
+      <title>Round-Optimal and Communication-Efficient Multiparty Computation</title>
+      <link>https://eprint.iacr.org/2020/1437</link>
+      <description>Michele Ciampi and Rafail Ostrovsky and Hendrik Waldner and Vassilis Zikas</description>
+      <guid isPermaLink="false">2020/1437</guid>
     </item>
   </channel>
 </rss>
