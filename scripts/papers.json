@@ -1,5 +1,40 @@
 [
 {
+"authors":"Eric Crockett",
+"id":"2020/1483",
+"title":"A Low-Depth Homomorphic Circuit for Logistic Regression Model Training"
+},
+{
+"authors":"Shai Halevi and Victor Shoup",
+"id":"2020/1481",
+"title":"Design and implementation of HElib: a homomorphic encryption library"
+},
+{
+"authors":"James Bartusek and Andrea Coladangelo and Dakshita Khurana and Fermi Ma",
+"id":"2020/1471",
+"title":"On The Round Complexity of Two-Party Quantum Computation"
+},
+{
+"authors":"Bar Alon and Hao Chung and Kai-Min Chung and Mi-Ying Huang and Yi Lee and Yu-Ching Shen",
+"id":"2020/1464",
+"title":"Round Efficient Secure Multiparty Quantum Computation with Identifiable Abort"
+},
+{
+"authors":"Giulio Malavolta",
+"id":"2020/1454",
+"title":"Circuit Privacy for Quantum Fully Homomorphic Encryption"
+},
+{
+"authors":"Elette Boyle and Niv Gilboa and Yuval Ishai and Ariel Nof",
+"id":"2020/1451",
+"title":"Efficient Fully Secure Computation via Distributed Zero-Knowledge Proofs"
+},
+{
+"authors":"Thomas Attema and Ronald Cramer and Matthieu Rambaud",
+"id":"2020/1447",
+"title":"Compressed Sigma-Protocols for Bilinear Circuits and Applications to Logarithmic-Sized Transparent Threshold Signature Schemes"
+},
+{
 "authors":"Michele Ciampi and Rafail Ostrovsky and Hendrik Waldner and Vassilis Zikas",
 "id":"2020/1437",
 "title":"Round-Optimal and Communication-Efficient Multiparty Computation"

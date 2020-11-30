@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Nov 2020 15:02:43 +0000</lastBuildDate>
-    <item>
-      <title>Stacked Garbling: Garbled Circuit Proportional to Longest Execution Path</title>
-      <link>https://eprint.iacr.org/2020/973</link>
-      <description>David Heath and Vladimir Kolesnikov</description>
-      <guid isPermaLink="false">2020/973</guid>
-    </item>
-    <item>
-      <title>Bootstrapping fully homomorphic encryption over the integers in less than one second</title>
-      <link>https://eprint.iacr.org/2020/995</link>
-      <description>Hilder Vitor Lima Pereira</description>
-      <guid isPermaLink="false">2020/995</guid>
-    </item>
-    <item>
-      <title>Alibi: A Flaw in Cuckoo-Hashing based Hierarchical ORAM Schemes and a Solution</title>
-      <link>https://eprint.iacr.org/2020/997</link>
-      <description>Brett Hemenway Falk and Daniel Noble and Rafail Ostrovsky</description>
-      <guid isPermaLink="false">2020/997</guid>
-    </item>
-    <item>
-      <title>CrypTFlow2: Practical 2-Party Secure Inference</title>
-      <link>https://eprint.iacr.org/2020/1002</link>
-      <description>Deevashwer Rathee and Mayank Rathee and Nishant Kumar and Nishanth Chandran and Divya Gupta and Aseem Rastogi and Rahul Sharma</description>
-      <guid isPermaLink="false">2020/1002</guid>
-    </item>
-    <item>
-      <title>Obfuscating Finite Automata</title>
-      <link>https://eprint.iacr.org/2020/1009</link>
-      <description>Steven D. Galbraith and Lukas Zobernig</description>
-      <guid isPermaLink="false">2020/1009</guid>
-    </item>
-    <item>
-      <title>Private Join and Compute from PIR with Default</title>
-      <link>https://eprint.iacr.org/2020/1011</link>
-      <description>Tancrède Lepoint and Sarvar Patel and Mariana Raykova and Karn Seth and Ni Trieu</description>
-      <guid isPermaLink="false">2020/1011</guid>
-    </item>
-    <item>
-      <title>A Study on Privacy-Preserving GRU Inference Framework</title>
-      <link>https://eprint.iacr.org/2020/1013</link>
-      <description>Shou-Ching Hsiao and Zi-Yuan Liu and Raylin Tso</description>
-      <guid isPermaLink="false">2020/1013</guid>
-    </item>
+    <lastBuildDate>Mon, 30 Nov 2020 21:16:03 +0000</lastBuildDate>
     <item>
       <title>On the Exact Round Complexity of Best-of-both-Worlds Multi-party Computation</title>
       <link>https://eprint.iacr.org/2020/1050</link>
@@ -307,6 +265,48 @@
       <link>https://eprint.iacr.org/2020/1437</link>
       <description>Michele Ciampi and Rafail Ostrovsky and Hendrik Waldner and Vassilis Zikas</description>
       <guid isPermaLink="false">2020/1437</guid>
+    </item>
+    <item>
+      <title>Compressed Sigma-Protocols for Bilinear Circuits and Applications to Logarithmic-Sized Transparent Threshold Signature Schemes</title>
+      <link>https://eprint.iacr.org/2020/1447</link>
+      <description>Thomas Attema and Ronald Cramer and Matthieu Rambaud</description>
+      <guid isPermaLink="false">2020/1447</guid>
+    </item>
+    <item>
+      <title>Efficient Fully Secure Computation via Distributed Zero-Knowledge Proofs</title>
+      <link>https://eprint.iacr.org/2020/1451</link>
+      <description>Elette Boyle and Niv Gilboa and Yuval Ishai and Ariel Nof</description>
+      <guid isPermaLink="false">2020/1451</guid>
+    </item>
+    <item>
+      <title>Circuit Privacy for Quantum Fully Homomorphic Encryption</title>
+      <link>https://eprint.iacr.org/2020/1454</link>
+      <description>Giulio Malavolta</description>
+      <guid isPermaLink="false">2020/1454</guid>
+    </item>
+    <item>
+      <title>Round Efficient Secure Multiparty Quantum Computation with Identifiable Abort</title>
+      <link>https://eprint.iacr.org/2020/1464</link>
+      <description>Bar Alon and Hao Chung and Kai-Min Chung and Mi-Ying Huang and Yi Lee and Yu-Ching Shen</description>
+      <guid isPermaLink="false">2020/1464</guid>
+    </item>
+    <item>
+      <title>On The Round Complexity of Two-Party Quantum Computation</title>
+      <link>https://eprint.iacr.org/2020/1471</link>
+      <description>James Bartusek and Andrea Coladangelo and Dakshita Khurana and Fermi Ma</description>
+      <guid isPermaLink="false">2020/1471</guid>
+    </item>
+    <item>
+      <title>Design and implementation of HElib: a homomorphic encryption library</title>
+      <link>https://eprint.iacr.org/2020/1481</link>
+      <description>Shai Halevi and Victor Shoup</description>
+      <guid isPermaLink="false">2020/1481</guid>
+    </item>
+    <item>
+      <title>A Low-Depth Homomorphic Circuit for Logistic Regression Model Training</title>
+      <link>https://eprint.iacr.org/2020/1483</link>
+      <description>Eric Crockett</description>
+      <guid isPermaLink="false">2020/1483</guid>
     </item>
   </channel>
 </rss>
