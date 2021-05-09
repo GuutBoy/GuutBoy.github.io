@@ -1,5 +1,80 @@
 [
 {
+"authors":"Surya Addanki and Kevin Garbe and Eli Jaffe and Rafail Ostrovsky and Antigoni Polychroniadou",
+"id":"2021/576",
+"title":"Prio+: Privacy Preserving Aggregate Statistics via Boolean Shares"
+},
+{
+"authors":"Charanjit Singh Jutla and Nathan Manohar",
+"id":"2021/572",
+"title":"Sine Series Approximation of the Mod Function for Bootstrapping for Approximate HE"
+},
+{
+"authors":"Seungwan Hong and Seunghong Kim and Jiheon Choi and Younho Lee and Jung Hee Cheon",
+"id":"2021/551",
+"title":"Efficient Sorting of Homomorphic Encrypted Data with $k$-way Sorting Network"
+},
+{
+"authors":"Keiichi Iwamura and Ahmad Akmal Aminuddin Mohd Kamal",
+"id":"2021/548",
+"title":"Secure Computation by Secret Sharing Using Input Encrypted with Random Number (Full Paper)"
+},
+{
+"authors":"Sijun Tan and Brian Knott and Yuan Tian and David J. Wu",
+"id":"2021/533",
+"title":"CryptGPU: Fast Privacy-Preserving Machine Learning on the GPU"
+},
+{
+"authors":"David Heath and Vladimir Kolesnikov",
+"id":"2021/531",
+"title":"LogStack: Stacked Garbling with $O(b \\log b)$ Computation"
+},
+{
+"authors":"Daniel Demmler and Stefan Katzenbeisser and Thomas Schneider and Tom Schuster and Christian Weinert",
+"id":"2021/521",
+"title":"Improved Circuit Compilation for Hybrid MPC via Compiler Intermediate Representation"
+},
+{
+"authors":"Erik Thormarker",
+"id":"2021/509",
+"title":"On using the same key pair for Ed25519 and an X25519 based KEM"
+},
+{
+"authors":"Wonkyung Jung and Sangpyo Kim and Jung Ho Ahn and Jung Hee Cheon and Younho Lee",
+"id":"2021/508",
+"title":"Over 100x Faster Bootstrapping in Fully Homomorphic Encryption through Memory-centric Optimization with GPUs"
+},
+{
+"authors":"Matthieu Rambaud and Antoine Urban",
+"id":"2021/503",
+"title":"Almost-Asynchronous MPC under Honest Majority, Revisited"
+},
+{
+"authors":"Aritra Banerjee and Michael Clear and Hitesh Tewari",
+"id":"2021/501",
+"title":"zkHawk: Practical Private Smart Contracts from MPC-based Hawk"
+},
+{
+"authors":"Gabrielle Beck and Aarushi Goel and Abhishek Jain and Gabriel Kaptchuk",
+"id":"2021/500",
+"title":"Order-C Secure Multiparty Computation for Highly Repetitive Circuits"
+},
+{
+"authors":"Chao Liu and Anyu Wang and Zhongxiang Zheng",
+"id":"2021/490",
+"title":"Optimizing Bootstrapping and Evaluating Large FHE Gates in the LWE-based GSW-FHE"
+},
+{
+"authors":"Alireza Kavousi and Javad Mohajeri and Mahmoud Salmasizadeh",
+"id":"2021/484",
+"title":"Efficient Scalable Multi-Party Private Set Intersection Using Oblivious PRF"
+},
+{
+"authors":"James Bartusek and Andrea Coladangelo and Dakshita Khurana and Fermi Ma",
+"id":"2020/1487",
+"title":"One-Way Functions Imply Secure Computation in a Quantum World"
+},
+{
 "authors":"Eric Crockett",
 "id":"2020/1483",
 "title":"A Low-Depth Homomorphic Circuit for Logistic Regression Model Training"
