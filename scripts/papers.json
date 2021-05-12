@@ -1,5 +1,25 @@
 [
 {
+"authors":"David Heath and Vladimir Kolesnikov and Stanislav Peceny",
+"id":"2021/604",
+"title":"Masked Triples: Amortizing Multiplication Triples across Conditionals"
+},
+{
+"authors":"Shumo Chu and Danyang Zhuo and Elaine Shi and T-H. Hubert Chan (randomized author ordering)",
+"id":"2021/593",
+"title":"Differentially Oblivious Database Joins: Overcoming the Worst-Case Curse of Fully Oblivious Algorithms"
+},
+{
+"authors":"Thomas Haines and Johannes Mueller",
+"id":"2021/588",
+"title":"A Novel Proof of Shuffle: Exponentially Secure Cut-and-Choose"
+},
+{
+"authors":"David Heath and Vladimir Kolesnikov",
+"id":"2021/587",
+"title":"PrORAM: Fast $O(\\log n)$ Private Coin ZK ORAM"
+},
+{
 "authors":"Surya Addanki and Kevin Garbe and Eli Jaffe and Rafail Ostrovsky and Antigoni Polychroniadou",
 "id":"2021/576",
 "title":"Prio+: Privacy Preserving Aggregate Statistics via Boolean Shares"

@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 May 2021 20:44:01 +0000</lastBuildDate>
-    <item>
-      <title>Silent Two-party Computation Assisted by Semi-trusted Hardware</title>
-      <link>https://eprint.iacr.org/2020/1259</link>
-      <description>Yibiao Lu and Bingsheng Zhang and Weiran Liu and Lei Zhang and Kui Ren</description>
-      <guid isPermaLink="false">2020/1259</guid>
-    </item>
-    <item>
-      <title>(F)unctional Sifting: A Privacy-Preserving Reputation System Through Multi-Input Functional Encryption (extended version)</title>
-      <link>https://eprint.iacr.org/2020/1271</link>
-      <description>Alexandros Bakas and Antonis Michalas</description>
-      <guid isPermaLink="false">2020/1271</guid>
-    </item>
-    <item>
-      <title>Secure Quantum Two-Party Computation: Impossibility and Constructions</title>
-      <link>https://eprint.iacr.org/2020/1286</link>
-      <description>Michele Ciampi and Alexandru Cojocaru and Elham Kashefi and Atul Mantri</description>
-      <guid isPermaLink="false">2020/1286</guid>
-    </item>
-    <item>
-      <title>Efficient Composable Oblivious Transfer from CDH in the Global Random Oracle Model</title>
-      <link>https://eprint.iacr.org/2020/1291</link>
-      <description>Bernardo David and Rafael Dowsley</description>
-      <guid isPermaLink="false">2020/1291</guid>
-    </item>
+    <lastBuildDate>Wed, 12 May 2021 23:02:22 +0000</lastBuildDate>
     <item>
       <title>Optimal Oblivious Parallel RAM</title>
       <link>https://eprint.iacr.org/2020/1292</link>
@@ -307,6 +283,30 @@
       <link>https://eprint.iacr.org/2021/576</link>
       <description>Surya Addanki and Kevin Garbe and Eli Jaffe and Rafail Ostrovsky and Antigoni Polychroniadou</description>
       <guid isPermaLink="false">2021/576</guid>
+    </item>
+    <item>
+      <title>PrORAM: Fast $O(\log n)$ Private Coin ZK ORAM</title>
+      <link>https://eprint.iacr.org/2021/587</link>
+      <description>David Heath and Vladimir Kolesnikov</description>
+      <guid isPermaLink="false">2021/587</guid>
+    </item>
+    <item>
+      <title>A Novel Proof of Shuffle: Exponentially Secure Cut-and-Choose</title>
+      <link>https://eprint.iacr.org/2021/588</link>
+      <description>Thomas Haines and Johannes Mueller</description>
+      <guid isPermaLink="false">2021/588</guid>
+    </item>
+    <item>
+      <title>Differentially Oblivious Database Joins: Overcoming the Worst-Case Curse of Fully Oblivious Algorithms</title>
+      <link>https://eprint.iacr.org/2021/593</link>
+      <description>Shumo Chu and Danyang Zhuo and Elaine Shi and T-H. Hubert Chan (randomized author ordering)</description>
+      <guid isPermaLink="false">2021/593</guid>
+    </item>
+    <item>
+      <title>Masked Triples: Amortizing Multiplication Triples across Conditionals</title>
+      <link>https://eprint.iacr.org/2021/604</link>
+      <description>David Heath and Vladimir Kolesnikov and Stanislav Peceny</description>
+      <guid isPermaLink="false">2021/604</guid>
     </item>
   </channel>
 </rss>
