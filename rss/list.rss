@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 May 2021 23:02:22 +0000</lastBuildDate>
-    <item>
-      <title>Optimal Oblivious Parallel RAM</title>
-      <link>https://eprint.iacr.org/2020/1292</link>
-      <description>Gilad Asharov and Ilan Komargodski and Wei-Kai Lin and Enoch Peserico and Elaine Shi</description>
-      <guid isPermaLink="false">2020/1292</guid>
-    </item>
-    <item>
-      <title>Multiparty Cardinality Testing for Threshold Private Set Intersection</title>
-      <link>https://eprint.iacr.org/2020/1307</link>
-      <description>Pedro Branco and Nico Döttling and Sihang Pu</description>
-      <guid isPermaLink="false">2020/1307</guid>
-    </item>
-    <item>
-      <title>Adaptively secure Threshold Symmetric-key Encryption</title>
-      <link>https://eprint.iacr.org/2020/1329</link>
-      <description>Pratyay Mukherjee</description>
-      <guid isPermaLink="false">2020/1329</guid>
-    </item>
+    <lastBuildDate>Mon, 17 May 2021 07:01:18 +0000</lastBuildDate>
     <item>
       <title>Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security</title>
       <link>https://eprint.iacr.org/2020/1330</link>
@@ -307,6 +289,24 @@
       <link>https://eprint.iacr.org/2021/604</link>
       <description>David Heath and Vladimir Kolesnikov and Stanislav Peceny</description>
       <guid isPermaLink="false">2021/604</guid>
+    </item>
+    <item>
+      <title>Privacy-preserving Density-based Clustering</title>
+      <link>https://eprint.iacr.org/2021/612</link>
+      <description>Beyza Bozdemir and Sébastien Canard and Orhan Ermis and Helen Möllering and Melek Önen and Thomas Schneider</description>
+      <guid isPermaLink="false">2021/612</guid>
+    </item>
+    <item>
+      <title>Quantum Secure Privacy Preserving Technique to Obtain the Intersection of Two Datasets for Contact Tracing</title>
+      <link>https://eprint.iacr.org/2021/618</link>
+      <description>Sumit Kumar Debnath and Vikas Srivastava and Tapaswini Mohanty and Nibedita Kundu and Kouichi Sakurai</description>
+      <guid isPermaLink="false">2021/618</guid>
+    </item>
+    <item>
+      <title>Setting Up Efficient TFHE Parameters for Multivalue Plaintexts and Multiple Additions</title>
+      <link>https://eprint.iacr.org/2021/634</link>
+      <description>Jakub Klemsa</description>
+      <guid isPermaLink="false">2021/634</guid>
     </item>
   </channel>
 </rss>

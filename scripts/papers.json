@@ -1,5 +1,20 @@
 [
 {
+"authors":"Jakub Klemsa",
+"id":"2021/634",
+"title":"Setting Up Efficient TFHE Parameters for Multivalue Plaintexts and Multiple Additions"
+},
+{
+"authors":"Sumit Kumar Debnath and Vikas Srivastava and Tapaswini Mohanty and Nibedita Kundu and Kouichi Sakurai",
+"id":"2021/618",
+"title":"Quantum Secure Privacy Preserving Technique to Obtain the Intersection of Two Datasets for Contact Tracing"
+},
+{
+"authors":"Beyza Bozdemir and S\u00e9bastien Canard and Orhan Ermis and Helen M\u00f6llering and Melek \u00d6nen and Thomas Schneider",
+"id":"2021/612",
+"title":"Privacy-preserving Density-based Clustering"
+},
+{
 "authors":"David Heath and Vladimir Kolesnikov and Stanislav Peceny",
 "id":"2021/604",
 "title":"Masked Triples: Amortizing Multiplication Triples across Conditionals"
