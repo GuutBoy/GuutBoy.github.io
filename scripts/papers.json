@@ -1,5 +1,15 @@
 [
 {
+"authors":"Mohammed Nabeel and Mohammed Ashraf and Eduardo Chielle and Nektarios G.Tsoutsos and Michail Maniatakos",
+"id":"2021/659",
+"title":"Technical report: CoPHEE: Co-processor forPartially Homomorphic Encrypted Execution"
+},
+{
+"authors":"Carlo Brunetta and Georgia Tsaloli and Bei Liang and Gustavo Banegas and Aikaterini Mitrokotsa",
+"id":"2021/654",
+"title":"Non-Interactive, Secure Verifiable Aggregation for Decentralized, Privacy-Preserving Learning"
+},
+{
 "authors":"Jakub Klemsa",
 "id":"2021/634",
 "title":"Setting Up Efficient TFHE Parameters for Multivalue Plaintexts and Multiple Additions"
