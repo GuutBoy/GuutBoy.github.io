@@ -1,5 +1,105 @@
 [
 {
+"authors":"Joon-Woo Lee and HyungChul Kang and Yongwoo Lee and Woosuk Choi and Jieun Eom and Maxim Deryabin and Eunsang Lee and Junghyun Lee and Donghoon Yoo and Young-Sik Kim and Jong-Seon No",
+"id":"2021/783",
+"title":"Privacy-Preserving Machine Learning with Fully Homomorphic Encryption for Deep Neural Network"
+},
+{
+"authors":"Jinhyun So and Ramy E. Ali and Basak Guler and Jiantao Jiao and  Salman Avestimehr ",
+"id":"2021/771",
+"title":"Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning"
+},
+{
+"authors":"Prasad Buddhavarapu  and Benjamin M Case and Logan Gore and Andrew Knox  and Payman Mohassel and Shubho Sengupta and  Erik Taubeneck and Min Xue ",
+"id":"2021/770",
+"title":"Multi-key Private Matching for Compute"
+},
+{
+"authors":"Adi Akavia and Max Leibovich and Yehezkel S. Resheff and Roey Ron and Moni Shahar and Margarita Vald",
+"id":"2021/768",
+"title":"Privacy-Preserving Decision Trees Training and Prediction"
+},
+{
+"authors":"Wenting Zheng and Ryan Deng and Weikeng Chen and Raluca Ada Popa and Aurojit Panda and Ion Stoica",
+"id":"2021/759",
+"title":"Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning"
+},
+{
+"authors":"Nishat Koti and Arpita Patra and Rahul Rachuri and Ajith Suresh",
+"id":"2021/755",
+"title":"Tetrad: Actively Secure 4PC for Secure Training and Inference"
+},
+{
+"authors":"Samuel Adams and Chaitali Choudhary and Martine De Cock and Rafael Dowsley and David Melanson and Anderson C. A. Nascimento and Davis Railsback and Jianwei Shen",
+"id":"2021/754",
+"title":"Privacy-Preserving Training of Tree Ensembles over Continuous Data"
+},
+{
+"authors":"Mike Rosulek and Lawrence Roy",
+"id":"2021/749",
+"title":"Three Halves Make a Whole? Beating the Half-Gates Lower Bound for Garbled Circuits"
+},
+{
+"authors":"Ke Wu and Gilad Asharov and Elaine Shi (random author ordering)",
+"id":"2021/748",
+"title":"A Complete Characterization of Game-Theoretically Fair, Multi-Party Coin Toss"
+},
+{
+"authors":"Tomer Ashur and Efrat Cohen and Carmit Hazay and Avishay Yanai",
+"id":"2021/739",
+"title":"A New Framework for Garbled Circuits"
+},
+{
+"authors":"Nuttapong Attrapadung and Koki Hamada and Dai Ikarashi and Ryo Kikuchi and Takahiro Matsuda and Ibuki Mishina and Hiraku Morita and Jacob C. N. Schuldt",
+"id":"2021/736",
+"title":"Adam in Private: Secure and Fast Training of Deep Neural Networks with Adaptive Moment Estimation"
+},
+{
+"authors":"Sergiu Carpov and Nicolas Gama and Mariya Georgieva and Dimitar Jetchev",
+"id":"2021/733",
+"title":"GenoPPML - a framework for genomic privacy-preserving machine learning"
+},
+{
+"authors":"Christoph Dobraunig and Lorenzo Grassi and Lukas Helminger and Christian Rechberger and Markus Schofnegger and Roman Walch",
+"id":"2021/731",
+"title":"Pasta: A Case for Hybrid Homomorphic Encryption"
+},
+{
+"authors":"Ilaria Chillotti and Damien Ligier and Jean-Baptiste Orfila and Samuel Tap",
+"id":"2021/729",
+"title":"Improved Programmable Bootstrapping with Larger Precision and Efficient Arithmetic Circuits for TFHE"
+},
+{
+"authors":"Navid Alamati and Pedro Branco and Nico D\u00f6ttling and Sanjam Garg and Mohammad Hajiabadi and Sihang Pu",
+"id":"2021/728",
+"title":"Laconic Private Set Intersection and Applications"
+},
+{
+"authors":"Ghada Almashaqbeh and Ravital Solomon",
+"id":"2021/727",
+"title":"SoK: Privacy-Preserving Computing in the Blockchain Era"
+},
+{
+"authors":"Yusaku Maeda and Koji Nuida",
+"id":"2021/722",
+"title":"Chosen Ciphertext Secure Keyed Two-Level Homomorphic Encryption"
+},
+{
+"authors":"Andrey Kim and Maxim Deryabin and Jieun Eom and Rakyong Choi and Yongwoo Lee and Whan Ghang and Donghoon Yoo",
+"id":"2021/691",
+"title":"General Bootstrapping Approach for RLWE-based Homomorphic Encryption"
+},
+{
+"authors":"Aarushi Goel and Abhishek Jain and Manoj Prabhakaran and Rajeev Raghunath",
+"id":"2021/690",
+"title":"On Communication Models and Best-Achievable Security in Two-Round MPC"
+},
+{
+"authors":"Nicholas Brandt",
+"id":"2021/684",
+"title":"Tight Setup Bounds for Identifiable Abort"
+},
+{
 "authors":"Mohammed Nabeel and Mohammed Ashraf and Eduardo Chielle and Nektarios G.Tsoutsos and Michail Maniatakos",
 "id":"2021/659",
 "title":"Technical report: CoPHEE: Co-processor forPartially Homomorphic Encrypted Execution"
