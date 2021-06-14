@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Jun 2021 06:57:08 +0000</lastBuildDate>
-    <item>
-      <title>Efficient Fully Secure Computation via Distributed Zero-Knowledge Proofs</title>
-      <link>https://eprint.iacr.org/2020/1451</link>
-      <description>Elette Boyle and Niv Gilboa and Yuval Ishai and Ariel Nof</description>
-      <guid isPermaLink="false">2020/1451</guid>
-    </item>
-    <item>
-      <title>Circuit Privacy for Quantum Fully Homomorphic Encryption</title>
-      <link>https://eprint.iacr.org/2020/1454</link>
-      <description>Giulio Malavolta</description>
-      <guid isPermaLink="false">2020/1454</guid>
-    </item>
-    <item>
-      <title>Round Efficient Secure Multiparty Quantum Computation with Identifiable Abort</title>
-      <link>https://eprint.iacr.org/2020/1464</link>
-      <description>Bar Alon and Hao Chung and Kai-Min Chung and Mi-Ying Huang and Yi Lee and Yu-Ching Shen</description>
-      <guid isPermaLink="false">2020/1464</guid>
-    </item>
+    <lastBuildDate>Mon, 14 Jun 2021 18:43:22 +0000</lastBuildDate>
     <item>
       <title>On The Round Complexity of Two-Party Quantum Computation</title>
       <link>https://eprint.iacr.org/2020/1471</link>
@@ -307,6 +289,24 @@
       <link>https://eprint.iacr.org/2021/783</link>
       <description>Joon-Woo Lee and HyungChul Kang and Yongwoo Lee and Woosuk Choi and Jieun Eom and Maxim Deryabin and Eunsang Lee and Junghyun Lee and Donghoon Yoo and Young-Sik Kim and Jong-Seon No</description>
       <guid isPermaLink="false">2021/783</guid>
+    </item>
+    <item>
+      <title>Transforming Secure Comparison Protocol from Passive to Active Adversary Model</title>
+      <link>https://eprint.iacr.org/2021/795</link>
+      <description>Wei Jiang</description>
+      <guid isPermaLink="false">2021/795</guid>
+    </item>
+    <item>
+      <title>LLVM-based Circuit Compilation for Practical Secure Computation</title>
+      <link>https://eprint.iacr.org/2021/797</link>
+      <description>Tim Heldmann and Thomas Schneider and Oleksandr Tkachenko and Christian Weinert and Hossein Yalame</description>
+      <guid isPermaLink="false">2021/797</guid>
+    </item>
+    <item>
+      <title>On the Privacy of Protocols based on CPA-Secure Homomorphic Encryption</title>
+      <link>https://eprint.iacr.org/2021/803</link>
+      <description>Adi Akavia and Margarita Vald</description>
+      <guid isPermaLink="false">2021/803</guid>
     </item>
   </channel>
 </rss>

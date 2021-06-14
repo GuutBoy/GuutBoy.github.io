@@ -1,5 +1,20 @@
 [
 {
+"authors":"Adi Akavia and Margarita Vald",
+"id":"2021/803",
+"title":"On the Privacy of Protocols based on CPA-Secure Homomorphic Encryption"
+},
+{
+"authors":"Tim Heldmann and Thomas Schneider and Oleksandr Tkachenko and Christian Weinert and Hossein Yalame",
+"id":"2021/797",
+"title":"LLVM-based Circuit Compilation for Practical Secure Computation"
+},
+{
+"authors":"Wei Jiang",
+"id":"2021/795",
+"title":"Transforming Secure Comparison Protocol from Passive to Active Adversary Model"
+},
+{
 "authors":"Joon-Woo Lee and HyungChul Kang and Yongwoo Lee and Woosuk Choi and Jieun Eom and Maxim Deryabin and Eunsang Lee and Junghyun Lee and Donghoon Yoo and Young-Sik Kim and Jong-Seon No",
 "id":"2021/783",
 "title":"Privacy-Preserving Machine Learning with Fully Homomorphic Encryption for Deep Neural Network"
